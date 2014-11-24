@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "Safety_Bulletin_1_2003.pdf\r\n (81.69 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "09 October 2002", 
+    "Report name:": "MAIB Safety bulletin 1/2003", 
+    "Summary:": "Fatal accident during a marine evacuation system deployment drill in Dover Harbour on 9 October 2002.\r\r\nThe full report has been published, click on link below to view report."
+  }, 
+  "date_of_occurrence": "2002-10-09", 
+  "original_url": "http://maib.gov.uk/publications/safety_bulletins/safety_bulletins_2003/safety_bulletin_1_2003.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Safety_Bulletin_1_2003.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Safety_Bulletin_1_2003.pdf", 
+      "filename": "downloads/721f81be6460cb323081bb7dfe4dde4537a8581a/Safety_Bulletin_1_2003.pdf", 
+      "original_filename": "Safety_Bulletin_1_2003.pdf"
+    }
+  ], 
+  "title": "Safety Bulletin 1/2003", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Safety bulletin 1/2003</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">09 October 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fatal accident during a marine evacuation system deployment drill in Dover Harbour on 9 October 2002.\r\r\nThe full report has been published, click on link below to view report.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Safety_Bulletin_1_2003.pdf\">Safety_Bulletin_1_2003.pdf</a>\r\n (81.69 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"internalLinkContainer\">\r\n<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/investigation_reports/2003/aquitaine.cfm\">Aquitaine - Full investigation report</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "safety-bulletin", 
+  "body": "  \nFatal accident during a marine evacuation system deployment drill in Dover Harbour on 9 October 2002. The full report has been published, click on link below to view report.\n\n  \n[ASSET_TAG](#ASSET0) (81.69 kb) \n\n  \n[Aquitaine - Full investigation report](http://maib.gov.uk/publications/investigation_reports/2003/aquitaine.cfm)\n"
+}

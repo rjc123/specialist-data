@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "MeridianReport.pdf\r\n (2,817.86 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "26 October 2006", 
+    "Report name:": "Meridian", 
+    "Summary:": "Report on the investigation of the loss of the fishing vessel Meridian KY147 with the loss of four crew, 160nm due east of Aberdeen on 26 October 2006. Report 20/2007. Published 4 September 2007."
+  }, 
+  "date_of_occurrence": "2006-10-26", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/meridian.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/MeridianSynopsis%2Epdf", 
+      "filename": "downloads/24187c5aa7c70f18ebf1309ea65dd3006b64e3d3/MeridianSynopsis.pdf", 
+      "original_filename": "MeridianSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "MeridianReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/MeridianReport.pdf", 
+      "filename": "downloads/c01334e7d700091586c057767a57d7a2ab13031d/MeridianReport.pdf", 
+      "original_filename": "MeridianReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/MeridianAnnexes%2Epdf", 
+      "filename": "downloads/e0933d4ce095caba409dbb7aee860b25be466430/MeridianAnnexes.pdf", 
+      "original_filename": "MeridianAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Meridian", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>The full investigation report has been split into sections; Synopsis, Full Report and Annexes . This is to make downloading easier.</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MeridianSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/MeridianSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (219.15 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Meridian</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">26 October 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the loss of the fishing vessel Meridian KY147 with the loss of four crew, 160nm due east of Aberdeen on 26 October 2006. Report 20/2007. Published 4 September 2007.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/MeridianReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MeridianReport.pdf');\">MeridianReport.pdf</a>\r\n (2,817.86 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MeridianAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/MeridianAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,040.75 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">An accident flyer was also produced for this investigation and can be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2007/meridian_flyer.cfm\">Meridian - Fishing Accident Flyer</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "The full investigation report has been split into sections; Synopsis, Full Report and Annexes . This is to make downloading easier.\n\n[ASSET_TAG](#ASSET0) (219.15 kb)\n\n  \nReport on the investigation of the loss of the fishing vessel Meridian KY147 with the loss of four crew, 160nm due east of Aberdeen on 26 October 2006. Report 20/2007. Published 4 September 2007.\n\n  \n[ASSET_TAG](#ASSET1) (2,817.86 kb) \n\n[ASSET_TAG](#ASSET2) (2,040.75 kb)\n\nAn accident flyer was also produced for this investigation and can be viewed on this website:  \n[Meridian - Fishing Accident Flyer](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2007/meridian_flyer.cfm)\n"
+}

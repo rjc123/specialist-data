@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "solstice-2.pdf\r\n (212.58 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "13 May 2000", 
+    "Report name:": "Solstice II (22/2001)", 
+    "Summary:": "Report of the investigation of a fatal accident to a crew member on board Solstice II (BF56) 25 miles south-west of Rockwall 13 May 2000"
+  }, 
+  "date_of_occurrence": "2000-05-13", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/solstice_ii__bf_56_.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "solstice-2.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/solstice-2.pdf", 
+      "filename": "downloads/5e7d6a86b706465b014d4f6148bc1cd4812c3978/solstice-2.pdf", 
+      "original_filename": "solstice-2.pdf"
+    }
+  ], 
+  "title": "Solstice II (BF 56)", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Solstice II (22/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">13 May 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation of a fatal accident to a crew member on board Solstice II (BF56) 25 miles south-west of Rockwall 13 May 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/solstice-2.pdf\">solstice-2.pdf</a>\r\n (212.58 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nReport of the investigation of a fatal accident to a crew member on board Solstice II (BF56) 25 miles south-west of Rockwall 13 May 2000\n\n  \n[ASSET_TAG](#ASSET0) (212.58 kb) \n"
+}

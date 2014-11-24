@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "SeaExpress1AlaskaRainbowReport.pdf\r\n (2,162.83 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "03 February 2007", 
+    "Report name:": "Sea Express", 
+    "Summary:": "Report on the investigation of the collision between Sea Express 1 and Alaska Rainbow on the River Mersey on 3 February 2007. Report no 22/2007. Published 27 September 2007."
+  }, 
+  "date_of_occurrence": "2007-02-03", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/sea_express.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SeaExpress1AlaskaRainbowSynopsis%2Epdf", 
+      "filename": "downloads/398b93badc15fc3acea83f1b7caa12394a2d13e7/SeaExpress1AlaskaRainbowSynopsis.pdf", 
+      "original_filename": "SeaExpress1AlaskaRainbowSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "SeaExpress1AlaskaRainbowReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/SeaExpress1AlaskaRainbowReport.pdf", 
+      "filename": "downloads/69552bc033ec1cf75ccdc31eba0c9b5e6423d8c7/SeaExpress1AlaskaRainbowReport.pdf", 
+      "original_filename": "SeaExpress1AlaskaRainbowReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/SeaExpress1AlaskaRainbowAnnexes%2Epdf", 
+      "filename": "downloads/cba6872058980cacee6b199f259697393d065663/SeaExpress1AlaskaRainbowAnnexes.pdf", 
+      "original_filename": "SeaExpress1AlaskaRainbowAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Sea Express 1/ Alaska Rainbow", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SeaExpress1AlaskaRainbowSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/SeaExpress1AlaskaRainbowSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (153.75 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Sea Express</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">03 February 2007</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the collision between Sea Express 1 and Alaska Rainbow on the River Mersey on 3 February 2007. Report no 22/2007. Published 27 September 2007.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SeaExpress1AlaskaRainbowReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SeaExpress1AlaskaRainbowReport.pdf');\">SeaExpress1AlaskaRainbowReport.pdf</a>\r\n (2,162.83 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SeaExpress1AlaskaRainbowAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/SeaExpress1AlaskaRainbowAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,637.98 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (153.75 kb)\n\n  \nReport on the investigation of the collision between Sea Express 1 and Alaska Rainbow on the River Mersey on 3 February 2007. Report no 22/2007. Published 27 September 2007.\n\n  \n[ASSET_TAG](#ASSET1) (2,162.83 kb) \n\n[ASSET_TAG](#ASSET2) (1,637.98 kb)\n"
+}

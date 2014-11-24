@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "OscarWildeReport.pdf\r\n (2,698.49 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "02 February 2010", 
+    "Report name:": "Oscar Wilde", 
+    "Summary:": "MAIB Report on the investigation of the machinery space fire on board Oscar Wilde, in Falmouth Bay on 2 February 2010. Report No 3/2011. Published 10 March 2011."
+  }, 
+  "date_of_occurrence": "2010-02-02", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/oscar_wilde.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Oscar%5FWilde%5FSynopsis%2Epdf", 
+      "filename": "downloads/8606a5bb692851540c3bc2e59beb55afa27cf632/Oscar_Wilde_Synopsis.pdf", 
+      "original_filename": "Oscar_Wilde_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "OscarWildeReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/OscarWildeReport.pdf", 
+      "filename": "downloads/c1425e71484dc2deacac6021abf0aa652b51aecd/OscarWildeReport.pdf", 
+      "original_filename": "OscarWildeReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Oscar%5FWilde%5FAnnexes%2Epdf", 
+      "filename": "downloads/c5d66c6487cfaa4b31bd35851a36c71705101b54/Oscar_Wilde_Annexes.pdf", 
+      "original_filename": "Oscar_Wilde_Annexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Oscar Wilde", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Oscar_Wilde_Synopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/Oscar%5FWilde%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (175.20 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Oscar Wilde</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">02 February 2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the machinery space fire on board Oscar Wilde, in Falmouth Bay on 2 February 2010. Report No 3/2011. Published 10 March 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/OscarWildeReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/OscarWildeReport.pdf');\">OscarWildeReport.pdf</a>\r\n (2,698.49 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Oscar_Wilde_Annexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/Oscar%5FWilde%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,593.74 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">A Safety Bulletin was also produced early on in this investigation which can be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/safety_bulletins/safety_bulletins_2010/safety_bulletin_2_2010.cfm\">Read Safety Bulletin</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (175.20 kb)\n\n  \nMAIB Report on the investigation of the machinery space fire on board Oscar Wilde, in Falmouth Bay on 2 February 2010. Report No 3/2011. Published 10 March 2011.\n\n  \n[ASSET_TAG](#ASSET1) (2,698.49 kb) \n\n[ASSET_TAG](#ASSET2) (2,593.74 kb)\n\nA Safety Bulletin was also produced early on in this investigation which can be viewed on this website:  \n[Read Safety Bulletin](http://maib.gov.uk/publications/safety_bulletins/safety_bulletins_2010/safety_bulletin_2_2010.cfm)\n"
+}

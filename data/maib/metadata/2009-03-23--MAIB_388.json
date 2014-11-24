@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "SB1-09.pdf\r\n (449.64 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "23 March 2009", 
+    "Report name:": "Safety Bulletin 1/2009", 
+    "Summary:": "Catastrophic Failure of High Pressure Hydraulic Anchor Windlasses. Issued 17 August 2009."
+  }, 
+  "date_of_occurrence": "2009-03-23", 
+  "original_url": "http://maib.gov.uk/publications/safety_bulletins/safety_bulletins_2009/safety_bulletin_1_2009.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "SB1-09.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SB1-09.pdf", 
+      "filename": "downloads/ef30e286f0946fd5b0942142ce8b8c90bdbe068f/SB1-09.pdf", 
+      "original_filename": "SB1-09.pdf"
+    }
+  ], 
+  "title": "Safety Bulletin 1/2009", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Safety Bulletin 1/2009</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">23 March 2009</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Catastrophic Failure of High Pressure Hydraulic Anchor Windlasses. Issued 17 August 2009.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SB1-09.pdf\">SB1-09.pdf</a>\r\n (449.64 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"internalLinkContainer\"><p>MAIB Reports published as a result of catastrophic failures of high pressure hydraulic anchor windlasses:</p><br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/investigation_reports/2008/young_lady.cfm\">Young Lady investigation report</a>\r\n\r\n</div>\r\n<div id=\"internalLinkContainer\">\r\n<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/investigation_reports/2009/stellar_voyager.cfm\">Stellar Voyager investigation report</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "safety-bulletin", 
+  "body": "  \nCatastrophic Failure of High Pressure Hydraulic Anchor Windlasses. Issued 17 August 2009.\n\n  \n[ASSET_TAG](#ASSET0) (449.64 kb) \n\nMAIB Reports published as a result of catastrophic failures of high pressure hydraulic anchor windlasses:\n\n  \n[Young Lady investigation report](http://maib.gov.uk/publications/investigation_reports/2008/young_lady.cfm)\n\n  \n[Stellar Voyager investigation report](http://maib.gov.uk/publications/investigation_reports/2009/stellar_voyager.cfm)\n"
+}

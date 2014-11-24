@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "StoltTern.pdf\r\n (268.39 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "01 December 2004", 
+    "Report name:": "Stolt Tern", 
+    "Summary:": "Report on the investigation of the grounding of Stolt Tern off Holyhead, Wales on 1 December 2004.  Report no 18/2005."
+  }, 
+  "date_of_occurrence": "2004-12-01", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2005/stolt_tern.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/StoltTern%2DSynopsis%2Epdf", 
+      "filename": "downloads/249cdbe9122f6eaa80056161bdf700ee569e19be/StoltTern-Synopsis.pdf", 
+      "original_filename": "StoltTern-Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "StoltTern.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/StoltTern.pdf", 
+      "filename": "downloads/9d739bfc1efe9a6079ea499c767520ff84c18274/StoltTern.pdf", 
+      "original_filename": "StoltTern.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/StoltTern%2DAnnexes%2Epdf", 
+      "filename": "downloads/0cf105f7cee350d616f7c130e45487af97334f50/StoltTern-Annexes.pdf", 
+      "original_filename": "StoltTern-Annexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Stolt Tern", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/StoltTern%2DSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (45.11 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Stolt Tern</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">01 December 2004</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the grounding of Stolt Tern off Holyhead, Wales on 1 December 2004.  Report no 18/2005.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/StoltTern.pdf\">StoltTern.pdf</a>\r\n (268.39 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/StoltTern%2DAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,197.70 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (45.11 kb)\n\n  \nReport on the investigation of the grounding of Stolt Tern off Holyhead, Wales on 1 December 2004. Report no 18/2005.\n\n  \n[ASSET_TAG](#ASSET1) (268.39 kb) \n\n[ASSET_TAG](#ASSET2) (1,197.70 kb)\n"
+}

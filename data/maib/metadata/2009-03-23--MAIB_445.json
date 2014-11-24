@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "StellarVoyagerReport.pdf\r\n (1,062.53 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "23 March 2009", 
+    "Report name:": "Stellar Voyager", 
+    "Summary:": "Report on the investigation of the catastrophic failure of a\r\r\nwindlass hydraulic motor on board the oil tanker Stellar Voyager resulting in a major injury, off Tees Bay on 23 March 2009. Report No 25/2005. Published 9 December 2009."
+  }, 
+  "date_of_occurrence": "2009-03-23", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/stellar_voyager.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/StellarVoyagerSynopsis%2Epdf", 
+      "filename": "downloads/8c774d8505b78813dedd198c218d7be71fdfcdaf/StellarVoyagerSynopsis.pdf", 
+      "original_filename": "StellarVoyagerSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "StellarVoyagerReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/StellarVoyagerReport.pdf", 
+      "filename": "downloads/7b0dc2003a457cf26b3b347cd1a0d5260d3c2435/StellarVoyagerReport.pdf", 
+      "original_filename": "StellarVoyagerReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/StellarVoyagerAnnexes%2Epdf", 
+      "filename": "downloads/f0b45d336b317865a577a4528287370c0d919655/StellarVoyagerAnnexes.pdf", 
+      "original_filename": "StellarVoyagerAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Stellar Voyager", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/StellarVoyagerSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/StellarVoyagerSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (152.00 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Stellar Voyager</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">23 March 2009</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the catastrophic failure of a\r\r\nwindlass hydraulic motor on board the oil tanker Stellar Voyager resulting in a major injury, off Tees Bay on 23 March 2009. Report No 25/2005. Published 9 December 2009.\r\r\n</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/StellarVoyagerReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/StellarVoyagerReport.pdf');\">StellarVoyagerReport.pdf</a>\r\n (1,062.53 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/StellarVoyagerAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/StellarVoyagerAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (3,808.63 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">A Safety Bulletin was also issued on the catastrophic failure of high pressure hydraulic anchor windlasses:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/safety_bulletins/safety_bulletins_2009/safety_bulletin_1_2009.cfm\">Safety Bulletin 1/2009</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (152.00 kb)\n\n  \nReport on the investigation of the catastrophic failure of a windlass hydraulic motor on board the oil tanker Stellar Voyager resulting in a major injury, off Tees Bay on 23 March 2009. Report No 25/2005. Published 9 December 2009. \n\n  \n[ASSET_TAG](#ASSET1) (1,062.53 kb) \n\n[ASSET_TAG](#ASSET2) (3,808.63 kb)\n\nA Safety Bulletin was also issued on the catastrophic failure of high pressure hydraulic anchor windlasses:  \n[Safety Bulletin 1/2009](http://maib.gov.uk/publications/safety_bulletins/safety_bulletins_2009/safety_bulletin_1_2009.cfm)\n"
+}

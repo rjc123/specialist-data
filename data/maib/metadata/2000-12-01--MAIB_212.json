@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "european-pioneer.pdf\r\n (1,316.68 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "01 December 2000", 
+    "Report name:": "European Pioneer (16/2001)", 
+    "Summary:": "Report on the investigation of the grounding of European Pioneer off Fleetwood 1 December 2000."
+  }, 
+  "date_of_occurrence": "2000-12-01", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/european_pioneer.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/european%5Fpioneer%5Fsynopsis%2Epdf", 
+      "filename": "downloads/5c6c4463bca24b6f9ce823f957050a83c30f14b2/european_pioneer_synopsis.pdf", 
+      "original_filename": "european_pioneer_synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "european-pioneer.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/european-pioneer.pdf", 
+      "filename": "downloads/86f42d4231483c0a32a037a72db4b1df9ddc70b6/european-pioneer.pdf", 
+      "original_filename": "european-pioneer.pdf"
+    }
+  ], 
+  "title": "Investigation report - European Pioneer", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/european%5Fpioneer%5Fsynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (504.71 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">European Pioneer (16/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">01 December 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the grounding of European Pioneer off Fleetwood 1 December 2000.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/european-pioneer.pdf\">european-pioneer.pdf</a>\r\n (1,316.68 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (504.71 kb)\n\n  \nReport on the investigation of the grounding of European Pioneer off Fleetwood 1 December 2000.\n\n  \n[ASSET_TAG](#ASSET1) (1,316.68 kb) \n"
+}

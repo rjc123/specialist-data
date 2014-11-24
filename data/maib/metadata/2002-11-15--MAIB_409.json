@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "SB_5_2002_Nottingham_Princess.pdf\r\n (124.27 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "15 November 2002", 
+    "Report name:": "Safety Bulletin 5/2002 Nottingham Princess", 
+    "Summary:": "Collision between the river cruiser Nottingham Princess and Trent Bridge, Nottingham on 15 November 2002"
+  }, 
+  "date_of_occurrence": "2002-11-15", 
+  "original_url": "http://maib.gov.uk/publications/safety_bulletins/safety_bulletins_2002/safety_bulletin_5_2002.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "SB_5_2002_Nottingham_Princess.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SB_5_2002_Nottingham_Princess.pdf", 
+      "filename": "downloads/39a2fbac079928e0fcf73b920c69a9401f93d54e/SB_5_2002_Nottingham_Princess.pdf", 
+      "original_filename": "SB_5_2002_Nottingham_Princess.pdf"
+    }
+  ], 
+  "title": "Safety Bulletin 5/2002", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Safety Bulletin 5/2002 Nottingham Princess</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">15 November 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Collision between the river cruiser Nottingham Princess and Trent Bridge, Nottingham on 15 November 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SB_5_2002_Nottingham_Princess.pdf\">SB_5_2002_Nottingham_Princess.pdf</a>\r\n (124.27 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"internalLinkContainer\">\r\n<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/investigation_reports/2003/nottingham_princess.cfm\">Nottingham Princess - Full investigation report</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "safety-bulletin", 
+  "body": "  \nCollision between the river cruiser Nottingham Princess and Trent Bridge, Nottingham on 15 November 2002\n\n  \n[ASSET_TAG](#ASSET0) (124.27 kb) \n\n  \n[Nottingham Princess - Full investigation report](http://maib.gov.uk/publications/investigation_reports/2003/nottingham_princess.cfm)\n"
+}

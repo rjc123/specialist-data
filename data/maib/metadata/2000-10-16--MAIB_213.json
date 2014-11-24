@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "euro-tideway-vrouw-grietje.pdf\r\n (1,198.04 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "16 October 2000", 
+    "Report name:": "European Tideway and Vrouw Grietje", 
+    "Summary:": "A report on the investigation into collision between European Tideway and Vrouw Grietje in North Sea 16 October 2000\r\r\nPublished 25 May 2001"
+  }, 
+  "date_of_occurrence": "2000-10-16", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/european_tideway_and_vrouw_grietje.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/euro%2Dtideway%2Dvrouw%2Dgrietje%20synopsis%202001%2Epdf", 
+      "filename": "downloads/758d8fe90ae9455a7fe6ba3b4c67b0ee2309f99f/euro-tideway-vrouw-grietje synopsis 2001.pdf", 
+      "original_filename": "euro-tideway-vrouw-grietje synopsis 2001.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "euro-tideway-vrouw-grietje.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/euro-tideway-vrouw-grietje.pdf", 
+      "filename": "downloads/3870c73e327ae7b1e1a171b9d51f0533a940e161/euro-tideway-vrouw-grietje.pdf", 
+      "original_filename": "euro-tideway-vrouw-grietje.pdf"
+    }
+  ], 
+  "title": "Investigation report - European Tideway and Vrouw Grietje", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/euro%2Dtideway%2Dvrouw%2Dgrietje%20synopsis%202001%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (595.02 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">European Tideway and Vrouw Grietje</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">16 October 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">A report on the investigation into collision between European Tideway and Vrouw Grietje in North Sea 16 October 2000\r\r\nPublished 25 May 2001\r\r\n</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/euro-tideway-vrouw-grietje.pdf\">euro-tideway-vrouw-grietje.pdf</a>\r\n (1,198.04 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (595.02 kb)\n\n  \nA report on the investigation into collision between European Tideway and Vrouw Grietje in North Sea 16 October 2000 Published 25 May 2001 \n\n  \n[ASSET_TAG](#ASSET1) (1,198.04 kb) \n"
+}

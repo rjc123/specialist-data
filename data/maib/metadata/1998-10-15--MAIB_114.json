@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "amber rose .pdf\r\n (2,677.67 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "15 October 1998", 
+    "Report name:": "Amber Rose (24/2000)", 
+    "Summary:": "Report on the investigation of the Foundering of mfv Amber Rose off the Isle of Man with the loss of one life on 15 October 1998"
+  }, 
+  "date_of_occurrence": "1998-10-15", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/amber_rose.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Amber Rose - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/amber%20rose%20synopsis%2Epdf", 
+      "filename": "downloads/716ce18ac4a6a59492ef298971c43ce720db59f1/amber rose synopsis.pdf", 
+      "original_filename": "amber rose synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "amber rose .pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/amber rose .pdf", 
+      "filename": "downloads/f6287f305f3d1bce7b1dd48f797a9a58428486af/amber rose .pdf", 
+      "original_filename": "amber rose .pdf"
+    }
+  ], 
+  "title": "Investigation report - Amber Rose", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/amber%20rose%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Amber Rose - Synopsis</a>\r\n (59.12 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Amber Rose (24/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">15 October 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the Foundering of mfv Amber Rose off the Isle of Man with the loss of one life on 15 October 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/amber%20rose%20.pdf\">amber rose .pdf</a>\r\n (2,677.67 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (59.12 kb)\n\n  \nReport on the investigation of the Foundering of mfv Amber Rose off the Isle of Man with the loss of one life on 15 October 1998\n\n  \n[ASSET_TAG](#ASSET1) (2,677.67 kb) \n"
+}

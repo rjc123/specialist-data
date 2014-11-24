@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "HMSWestminsterPrincessRoseReport.pdf\r\n (1,008.55 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "24 November 2008", 
+    "Report name:": "HMS Westminster & Princess Rose", 
+    "Summary:": "MAIB Report on the investigation of a person overboard during a passenger transfer from HMS Westminster to Princess Rose on the River Thames on 24 November 2008. Report No 16/2009. Published 2 July 2009."
+  }, 
+  "date_of_occurrence": "2008-11-24", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/hms_westminster.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/HMSWestministerPrincessRoseSynopsis%2Epdf", 
+      "filename": "downloads/e73194db243785ad0d9a90d8507c663f2f31208a/HMSWestministerPrincessRoseSynopsis.pdf", 
+      "original_filename": "HMSWestministerPrincessRoseSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "HMSWestminsterPrincessRoseReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/HMSWestminsterPrincessRoseReport.pdf", 
+      "filename": "downloads/35eac29d8f9274c8884c0fd612fd03e393df44b9/HMSWestminsterPrincessRoseReport.pdf", 
+      "original_filename": "HMSWestminsterPrincessRoseReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/HMSWestminsterPrincessRoseAnnexes%2Epdf", 
+      "filename": "downloads/a8389b68aba047f182c01f49dadc2c7df2d844a3/HMSWestminsterPrincessRoseAnnexes.pdf", 
+      "original_filename": "HMSWestminsterPrincessRoseAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - HMS Westminster & Princess Rose", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>Synopsis 16/2009</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/HMSWestministerPrincessRoseSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/HMSWestministerPrincessRoseSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (108.91 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">HMS Westminster &amp; Princess Rose</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">24 November 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of a person overboard during a passenger transfer from HMS Westminster to Princess Rose on the River Thames on 24 November 2008. Report No 16/2009. Published 2 July 2009.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/HMSWestminsterPrincessRoseReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/HMSWestminsterPrincessRoseReport.pdf');\">HMSWestminsterPrincessRoseReport.pdf</a>\r\n (1,008.55 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>Annexes 16/2009</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/HMSWestminsterPrincessRoseAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/HMSWestminsterPrincessRoseAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (3,594.48 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "Synopsis 16/2009\n\n[ASSET_TAG](#ASSET0) (108.91 kb)\n\n  \nMAIB Report on the investigation of a person overboard during a passenger transfer from HMS Westminster to Princess Rose on the River Thames on 24 November 2008. Report No 16/2009. Published 2 July 2009.\n\n  \n[ASSET_TAG](#ASSET1) (1,008.55 kb) \n\nAnnexes 16/2009\n\n[ASSET_TAG](#ASSET2) (3,594.48 kb)\n"
+}

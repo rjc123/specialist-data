@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "Berit.pdf\r\n (1,283.80 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "05 January 2006", 
+    "Report name:": "Berit", 
+    "Summary:": "Report on the investigation of the grounding of Berit, Trindelen Bank, near Gedser Denmark on 5 January 2006. Report no 17/2006. Published 6 July 2006."
+  }, 
+  "date_of_occurrence": "2006-01-05", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/berit.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Berit Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Berit%5FSynopsis%2Epdf", 
+      "filename": "downloads/8f4876dc41eb1781732683ef298a82ee241b0c24/Berit_Synopsis.pdf", 
+      "original_filename": "Berit_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Berit.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Berit.pdf", 
+      "filename": "downloads/85681568f3d93b834b600386dff9d42c01f5fa98/Berit.pdf", 
+      "original_filename": "Berit.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Berit annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Berit%5FAnnexes%2Epdf", 
+      "filename": "downloads/8b51e469678faa0357a0bdd00699ab56fac2c8e1/Berit_Annexes.pdf", 
+      "original_filename": "Berit_Annexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Berit", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Berit%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Berit Synopsis</a>\r\n (114.73 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Berit</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">05 January 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the grounding of Berit, Trindelen Bank, near Gedser Denmark on 5 January 2006. Report no 17/2006. Published 6 July 2006.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Berit.pdf\">Berit.pdf</a>\r\n (1,283.80 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Berit%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Berit annexes</a>\r\n (541.12 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (114.73 kb)\n\n  \nReport on the investigation of the grounding of Berit, Trindelen Bank, near Gedser Denmark on 5 January 2006. Report no 17/2006. Published 6 July 2006.\n\n  \n[ASSET_TAG](#ASSET1) (1,283.80 kb) \n\n[ASSET_TAG](#ASSET2) (541.12 kb)\n"
+}

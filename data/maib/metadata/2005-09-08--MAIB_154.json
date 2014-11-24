@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Blue Sinata.pdf\r\n (479.83 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "08 September 2005", 
+    "Report name:": "Blue Sinata", 
+    "Summary:": "Report on the investigation of the foundering of the fishing vessel Blue Sinata,\r\r\nin Weymouth Bay on 8 September 2005, with the loss of one life. Report no 7/2006."
+  }, 
+  "date_of_occurrence": "2005-09-08", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/blue_sinata.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Blue%20Sinata%5FSynopsis%2Epdf", 
+      "filename": "downloads/255fe416c3897e3e0580b7b33b26102acb72a861/Blue Sinata_Synopsis.pdf", 
+      "original_filename": "Blue Sinata_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Blue Sinata.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Blue Sinata.pdf", 
+      "filename": "downloads/5d6de1e33eddc33c59e63684230a76404ae21a6f/Blue Sinata.pdf", 
+      "original_filename": "Blue Sinata.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Blue Sinata", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Blue%20Sinata%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (17.23 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Blue Sinata</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">08 September 2005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the foundering of the fishing vessel Blue Sinata,\r\r\nin Weymouth Bay on 8 September 2005, with the loss of one life. Report no 7/2006.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Blue%20Sinata.pdf\">Blue Sinata.pdf</a>\r\n (479.83 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (17.23 kb)\n\n  \nReport on the investigation of the foundering of the fishing vessel Blue Sinata, in Weymouth Bay on 8 September 2005, with the loss of one life. Report no 7/2006.\n\n  \n[ASSET_TAG](#ASSET1) (479.83 kb) \n"
+}

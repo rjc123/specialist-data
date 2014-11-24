@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "st-helena.pdf\r\n (134.59 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "25 August 2000", 
+    "Report name:": "RMS St Helena (19/2001)", 
+    "Summary:": "Report on the investigation of the engine room fire on RMS St Helena 25 August 2000"
+  }, 
+  "date_of_occurrence": "2000-08-25", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/rms_st_helena.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "st-helena.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/st-helena.pdf", 
+      "filename": "downloads/8cbae02f2a7b5a3d4a03eaf022a07bc1e9f44b2f/st-helena.pdf", 
+      "original_filename": "st-helena.pdf"
+    }
+  ], 
+  "title": "Investigation report - RMS St Helena", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">RMS St Helena (19/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">25 August 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the engine room fire on RMS St Helena 25 August 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/st-helena.pdf\">st-helena.pdf</a>\r\n (134.59 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nReport on the investigation of the engine room fire on RMS St Helena 25 August 2000\n\n  \n[ASSET_TAG](#ASSET0) (134.59 kb) \n"
+}

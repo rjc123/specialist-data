@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "constant-faith.pdf\r\n (404.04 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "30 June 2001", 
+    "Report name:": "Constant Faith (21/2002)", 
+    "Summary:": "Report on the loss of Constant Faith about 100 miles north-north-east of Peterhead on 30 June 2001"
+  }, 
+  "date_of_occurrence": "2001-06-30", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/constant_faith.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Constant Faith synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/constant%2Dfaith%20synopsis%2Epdf", 
+      "filename": "downloads/ffae46186c90a6887facdb054d1373ecd4283510/constant-faith synopsis.pdf", 
+      "original_filename": "constant-faith synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "constant-faith.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/constant-faith.pdf", 
+      "filename": "downloads/adc5509ec99a7af502c67287ea92f7d90436bcab/constant-faith.pdf", 
+      "original_filename": "constant-faith.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Constant Faith", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/constant%2Dfaith%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Constant Faith synopsis</a>\r\n (309.36 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Constant Faith (21/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">30 June 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the loss of Constant Faith about 100 miles north-north-east of Peterhead on 30 June 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/constant-faith.pdf\">constant-faith.pdf</a>\r\n (404.04 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (309.36 kb)\n\n  \nReport on the loss of Constant Faith about 100 miles north-north-east of Peterhead on 30 June 2001\n\n  \n[ASSET_TAG](#ASSET1) (404.04 kb) \n"
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "AntariReport.pdf\r\n (529.47 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "29 June 2008", 
+    "Report name:": "Antari", 
+    "Summary:": "MAIB Investigation report on the investigation of the grounding of Antari Near Larne, Northern Ireland on 29 June 2008. Report No 7/2009. Published 19 February 2009."
+  }, 
+  "date_of_occurrence": "2008-06-29", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/antari.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/AntariSynopsis%2Epdf", 
+      "filename": "downloads/e37ae3c693338c1897b21eb2e801bd2b16c16235/AntariSynopsis.pdf", 
+      "original_filename": "AntariSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "AntariReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/AntariReport.pdf", 
+      "filename": "downloads/f4f2e4acecaf40a925b286c72ac70c195b127f6e/AntariReport.pdf", 
+      "original_filename": "AntariReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/AntariAnnexes%2Epdf", 
+      "filename": "downloads/a57d64722cb6c51061415c8aff4c90ba722ca132/AntariAnnexes.pdf", 
+      "original_filename": "AntariAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation report - Antari", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AntariSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/AntariSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (198.83 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Antari</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">29 June 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Investigation report on the investigation of the grounding of Antari Near Larne, Northern Ireland on 29 June 2008. Report No 7/2009. Published 19 February 2009.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/AntariReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AntariReport.pdf');\">AntariReport.pdf</a>\r\n (529.47 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AntariAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/AntariAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (895.93 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (198.83 kb)\n\n  \nMAIB Investigation report on the investigation of the grounding of Antari Near Larne, Northern Ireland on 29 June 2008. Report No 7/2009. Published 19 February 2009.\n\n  \n[ASSET_TAG](#ASSET1) (529.47 kb) \n\n[ASSET_TAG](#ASSET2) (895.93 kb)\n"
+}

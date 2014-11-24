@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "Download report:": "atlantic-mermaid-and-Hampoel.pdf\r\n (409.69 kb)", 
+    "Category:": "Merchant vessels,Fishing vessels", 
+    "Incident date:": "07 June 2001", 
+    "Report name:": "Hampoel and Atlantic Mermaid (12/2002)", 
+    "Summary:": "Report on the collision between Hampoal and Atlantic Mermaid in the Dover Strait on 7 June 2001"
+  }, 
+  "date_of_occurrence": "2001-06-07", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/hampoel_and_atlantic_mermaid.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Hampoel and Atlantic Mermaid synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/atlantic%2Dmermaid%2Dand%2DHampoel%20%20synopsis%2Epdf", 
+      "filename": "downloads/25581d26b13d93a94243ee7977f447665c1dd47c/atlantic-mermaid-and-Hampoel  synopsis.pdf", 
+      "original_filename": "atlantic-mermaid-and-Hampoel  synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "atlantic-mermaid-and-Hampoel.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/atlantic-mermaid-and-Hampoel.pdf", 
+      "filename": "downloads/975d9e7c54388f4e43e6c4fafe9b1068461958d0/atlantic-mermaid-and-Hampoel.pdf", 
+      "original_filename": "atlantic-mermaid-and-Hampoel.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Hampoel and Atlantic Mermaid", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/atlantic%2Dmermaid%2Dand%2DHampoel%20%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Hampoel and Atlantic Mermaid synopsis</a>\r\n (312.66 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Hampoel and Atlantic Mermaid (12/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">07 June 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the collision between Hampoal and Atlantic Mermaid in the Dover Strait on 7 June 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/atlantic-mermaid-and-Hampoel.pdf\">atlantic-mermaid-and-Hampoel.pdf</a>\r\n (409.69 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (312.66 kb)\n\n  \nReport on the collision between Hampoal and Atlantic Mermaid in the Dover Strait on 7 June 2001\n\n  \n[ASSET_TAG](#ASSET1) (409.69 kb) \n"
+}

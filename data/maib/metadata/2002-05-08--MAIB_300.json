@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "marbella.pdf\r\n (426.59 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "08 May 2002", 
+    "Report name:": "Marbella (11/2003)", 
+    "Summary:": "Report on the investigation of the collision between the UK registered fishing vessel Marbella and the Bravo Delta offshore platform in the Rough Gas Field about 25 miles south-east of Flamborough Head on 8 May 2002"
+  }, 
+  "date_of_occurrence": "2002-05-08", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/marbella.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Marbella Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/marbella%20synopsis%2Epdf", 
+      "filename": "downloads/ece9c6e4b2b0073c1d1600e290e47003adb55058/marbella synopsis.pdf", 
+      "original_filename": "marbella synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "marbella.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/marbella.pdf", 
+      "filename": "downloads/234c30c4ac423630767a32569b79ce1f5990c981/marbella.pdf", 
+      "original_filename": "marbella.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Marbella", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/marbella%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Marbella Synopsis</a>\r\n (12.78 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Marbella (11/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">08 May 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the collision between the UK registered fishing vessel Marbella and the Bravo Delta offshore platform in the Rough Gas Field about 25 miles south-east of Flamborough Head on 8 May 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/marbella.pdf\">marbella.pdf</a>\r\n (426.59 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (12.78 kb)\n\n  \nReport on the investigation of the collision between the UK registered fishing vessel Marbella and the Bravo Delta offshore platform in the Rough Gas Field about 25 miles south-east of Flamborough Head on 8 May 2002\n\n  \n[ASSET_TAG](#ASSET1) (426.59 kb) \n"
+}

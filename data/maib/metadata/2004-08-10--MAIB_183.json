@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Coral Acropora.pdf\r\n (1,317.01 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "10 August 2004", 
+    "Report name:": "Coral Acropora", 
+    "Summary:": "Report on the investigation of the escape of Vinyl Chloride Monomer onboard\r\r\nCoral Acropora, Runcorn, Manchester Ship Canal\r\r\n10 August 2004"
+  }, 
+  "date_of_occurrence": "2004-08-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2005/coral_acropora.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Coral Acropora.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Coral Acropora.pdf", 
+      "filename": "downloads/93ca1f1f8e1033eaf5eccb3d89564a576e9fc4bc/Coral Acropora.pdf", 
+      "original_filename": "Coral Acropora.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Coral Acropora - Appendix C (Health and Safety Laboratory Report)", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Appendix%20C%2Epdf", 
+      "filename": "downloads/1dc35e7433afd019f83934e2abcef6f5a06bace2/Appendix C.pdf", 
+      "original_filename": "Appendix C.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Coral Acropora", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Coral Acropora</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 August 2004</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the escape of Vinyl Chloride Monomer onboard\r\r\nCoral Acropora, Runcorn, Manchester Ship Canal\r\r\n10 August 2004</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Coral%20Acropora.pdf\">Coral Acropora.pdf</a>\r\n (1,317.01 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Appendix%20C%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Coral Acropora - Appendix C (Health and Safety Laboratory Report)</a>\r\n (1,151.88 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nReport on the investigation of the escape of Vinyl Chloride Monomer onboard Coral Acropora, Runcorn, Manchester Ship Canal 10 August 2004\n\n  \n[ASSET_TAG](#ASSET0) (1,317.01 kb) \n\n[ASSET_TAG](#ASSET1) (1,151.88 kb)\n"
+}

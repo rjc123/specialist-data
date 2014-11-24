@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "RigidRaiderReport.pdf\r\n (1,893.73 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "03 August 2007", 
+    "Report name:": "Army Cadet Force Rigid Raiding Craft", 
+    "Summary:": "MAIB report on the investigation of\r\r\nthe capsize of\r\r\nArmy Cadet Force\r\r\nRigid Raiding Craft\r\r\nIn Loch Carnan, South Uist,\r\r\nWestern Isles of Scotland \r\r\nwhich resulted in one fatality. Report no 6/2008. Published 18 March 2008."
+  }, 
+  "date_of_occurrence": "2007-08-03", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2008/army_cadet_force_rigid_raiding_craft.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/RigidRaiderSynopsis%2Epdf", 
+      "filename": "downloads/af16e71cc501010b3401ea0e784a0df243d5ad9e/RigidRaiderSynopsis.pdf", 
+      "original_filename": "RigidRaiderSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "RigidRaiderReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/RigidRaiderReport.pdf", 
+      "filename": "downloads/a203ed1c4e521eafe2bc01e5b50ad36bf6cee41f/RigidRaiderReport.pdf", 
+      "original_filename": "RigidRaiderReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/RigidRaiderAnnexes%2Epdf", 
+      "filename": "downloads/2b161dafe613adefc0df8a39669e8bc07637da4a/RigidRaiderAnnexes.pdf", 
+      "original_filename": "RigidRaiderAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Army Cadet Force Rigid Raiding Craft", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/RigidRaiderSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/RigidRaiderSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (117.51 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Army Cadet Force Rigid Raiding Craft</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">03 August 2007</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation of\r\r\nthe capsize of\r\r\nArmy Cadet Force\r\r\nRigid Raiding Craft\r\r\nIn Loch Carnan, South Uist,\r\r\nWestern Isles of Scotland \r\r\nwhich resulted in one fatality. Report no 6/2008. Published 18 March 2008.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/RigidRaiderReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/RigidRaiderReport.pdf');\">RigidRaiderReport.pdf</a>\r\n (1,893.73 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/RigidRaiderAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/RigidRaiderAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,208.08 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (117.51 kb)\n\n  \nMAIB report on the investigation of the capsize of Army Cadet Force Rigid Raiding Craft In Loch Carnan, South Uist, Western Isles of Scotland which resulted in one fatality. Report no 6/2008. Published 18 March 2008.\n\n  \n[ASSET_TAG](#ASSET1) (1,893.73 kb) \n\n[ASSET_TAG](#ASSET2) (2,208.08 kb)\n"
+}

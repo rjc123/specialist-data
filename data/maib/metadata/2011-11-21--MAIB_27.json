@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "Cameron.pdf\r\n (836.95 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "21 November 2011", 
+    "Report name:": "Cameron", 
+    "Summary:": "MAIB Report on the investigation of the serious injury to a chief officer on board Cameron, Crosby Channel, Liverpool on 21 November 2011. Report No 14/2012. Published 1 June 2012."
+  }, 
+  "date_of_occurrence": "2011-11-21", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/cameron.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Cameron.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Cameron.pdf", 
+      "filename": "downloads/aef469059bc80890fd94f021dc1c48126b1c02ac/Cameron.pdf", 
+      "original_filename": "Cameron.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 14/2012", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Cameron</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">21 November 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the serious injury to a chief officer on board <span>Cameron</span>, Crosby Channel, Liverpool on 21 November 2011. Report No 14/2012. Published 1 June 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Cameron.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Cameron.pdf');\">Cameron.pdf</a>\r\n (836.95 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the serious injury to a chief officer on board Cameron, Crosby Channel, Liverpool on 21 November 2011. Report No 14/2012. Published 1 June 2012.\n\n  \n[ASSET_TAG](#ASSET0) (836.95 kb) \n"
+}

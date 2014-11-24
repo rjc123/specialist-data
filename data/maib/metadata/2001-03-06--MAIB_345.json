@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "philomena.pdf\r\n (271.80 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "06 March 2001", 
+    "Report name:": "Philomena (34/2001)", 
+    "Summary:": "Fatal accident on board vessel in the Moray Firth."
+  }, 
+  "date_of_occurrence": "2001-03-06", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/philomena.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Philomena synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/philomena%20synopsis%2Epdf", 
+      "filename": "downloads/538be402ca82bd0781e94a3e971e47b55de44d79/philomena synopsis.pdf", 
+      "original_filename": "philomena synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "philomena.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/philomena.pdf", 
+      "filename": "downloads/0251da06092761eb444f19cfdec554045589f937/philomena.pdf", 
+      "original_filename": "philomena.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Philomena", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/philomena%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Philomena synopsis</a>\r\n (110.13 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Philomena (34/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">06 March 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fatal accident on board vessel in the Moray Firth.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/philomena.pdf\">philomena.pdf</a>\r\n (271.80 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (110.13 kb)\n\n  \nFatal accident on board vessel in the Moray Firth.\n\n  \n[ASSET_TAG](#ASSET1) (271.80 kb) \n"
+}

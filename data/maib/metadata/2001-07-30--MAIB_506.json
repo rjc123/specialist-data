@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "Download report:": "celtit-and-sand-heron.pdf\r\n (155.30 kb)", 
+    "Category:": "Merchant vessels,Fishing vessels", 
+    "Incident date:": "30 July 2001", 
+    "Report name:": "mv Sand Heron and fv Celtit (14/2002)", 
+    "Summary:": "Report of the collision between mv Sand Heron and fv Celtic NE Traffic Lane, Dover TSS 30 July 2001"
+  }, 
+  "date_of_occurrence": "2001-07-30", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/mv_sand_heron_and_fv_celtit.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "celtit-and-sand-heron.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/celtit-and-sand-heron.pdf", 
+      "filename": "downloads/62ffc25002dbf08e8ec85c91b3747abc73a927dd/celtit-and-sand-heron.pdf", 
+      "original_filename": "celtit-and-sand-heron.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Mv Sand Heron and Fv Celtit", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">mv Sand Heron and fv Celtit (14/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">30 July 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the collision between mv Sand Heron and fv Celtic NE Traffic Lane, Dover TSS 30 July 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/celtit-and-sand-heron.pdf\">celtit-and-sand-heron.pdf</a>\r\n (155.30 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nReport of the collision between mv Sand Heron and fv Celtic NE Traffic Lane, Dover TSS 30 July 2001\n\n  \n[ASSET_TAG](#ASSET0) (155.30 kb) \n"
+}

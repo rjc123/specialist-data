@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "Partner1Report.pdf\r\n (914.41 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "20 April 2008", 
+    "Report name:": "Partner 1", 
+    "Summary:": "MAIB Report on the investigation of the console detachment of the rigid inflatable boat Partner 1 in Studland Bay, Poole on 20 April 2008. Report No.19/2008. Published 30 October 2008."
+  }, 
+  "date_of_occurrence": "2008-04-20", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2008/partner_1.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Partner1Synopsis%2Epdf", 
+      "filename": "downloads/2d8479a26ab2234c6a33e168bdcf20b5996543e9/Partner1Synopsis.pdf", 
+      "original_filename": "Partner1Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Partner1Report.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Partner1Report.pdf", 
+      "filename": "downloads/680f70c6d0ae26fed6d98ba8461c2e83925b77c8/Partner1Report.pdf", 
+      "original_filename": "Partner1Report.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Partner1Annexes%2Epdf", 
+      "filename": "downloads/adc240a932432f95963de93bb62f225102b0ac7e/Partner1Annexes.pdf", 
+      "original_filename": "Partner1Annexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Partner 1", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Partner1Synopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/Partner1Synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (132.44 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Partner 1</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">20 April 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the console detachment of the rigid inflatable boat Partner 1 in Studland Bay, Poole on 20 April 2008. Report No.19/2008. Published 30 October 2008.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Partner1Report.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Partner1Report.pdf');\">Partner1Report.pdf</a>\r\n (914.41 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Partner1Annexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/Partner1Annexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (3,100.84 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (132.44 kb)\n\n  \nMAIB Report on the investigation of the console detachment of the rigid inflatable boat Partner 1 in Studland Bay, Poole on 20 April 2008. Report No.19/2008. Published 30 October 2008.\n\n  \n[ASSET_TAG](#ASSET1) (914.41 kb) \n\n[ASSET_TAG](#ASSET2) (3,100.84 kb)\n"
+}

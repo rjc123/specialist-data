@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "Download report:": "southampton.pdf\r\n (338.47 kb)", 
+    "Category:": "Leisure,Merchant vessels", 
+    "Incident date:": "22 September 2000", 
+    "Report name:": "Southampton Boat Show (28/2001)", 
+    "Summary:": "Report on the investigation of three persons falling overboard\r\r\nfrom a rigid inflatable boat in the River Test during the Southampton International Boat Show on 22 September 2000 with one fatality."
+  }, 
+  "date_of_occurrence": "2000-09-22", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/southampton_boat_show.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "southampton.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/southampton.pdf", 
+      "filename": "downloads/fb7acbb7ad54b780757fa7ec7bbc1c0be3be14c8/southampton.pdf", 
+      "original_filename": "southampton.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Southampton Boat Show RIB", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Southampton Boat Show (28/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">22 September 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure,Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of three persons falling overboard\r\r\nfrom a rigid inflatable boat in the River Test during the Southampton International Boat Show on 22 September 2000 with one fatality.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/southampton.pdf\">southampton.pdf</a>\r\n (338.47 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail", 
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nReport on the investigation of three persons falling overboard from a rigid inflatable boat in the River Test during the Southampton International Boat Show on 22 September 2000 with one fatality.\n\n  \n[ASSET_TAG](#ASSET0) (338.47 kb) \n"
+}

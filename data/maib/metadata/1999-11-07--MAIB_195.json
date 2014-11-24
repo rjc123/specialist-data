@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "dole america.pdf\r\n (1,312.93 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "07 November 1999", 
+    "Report name:": "Dole America (32/2000)", 
+    "Summary:": "Report on the investigation of the collision of Dole America with the Nab Tower in the eastern approaches to The Solent on 7 November 1999"
+  }, 
+  "date_of_occurrence": "1999-11-07", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/dole_america.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Dole America - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/dole%20america%20synopsis%2Epdf", 
+      "filename": "downloads/4d819c5fff5ec09a44aec489ee9daa698cf628d5/dole america synopsis.pdf", 
+      "original_filename": "dole america synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "dole america.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/dole america.pdf", 
+      "filename": "downloads/0f97afb7cd203b84b336b8c7df64a9a51e80c6f5/dole america.pdf", 
+      "original_filename": "dole america.pdf"
+    }
+  ], 
+  "title": "Investigation report - Dole America", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/dole%20america%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Dole America - Synopsis</a>\r\n (62.98 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Dole America (32/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">07 November 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the collision of Dole America with the Nab Tower in the eastern approaches to The Solent on 7 November 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/dole%20america.pdf\">dole america.pdf</a>\r\n (1,312.93 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (62.98 kb)\n\n  \nReport on the investigation of the collision of Dole America with the Nab Tower in the eastern approaches to The Solent on 7 November 1999\n\n  \n[ASSET_TAG](#ASSET1) (1,312.93 kb) \n"
+}

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "flamingo.pdf\r\n (310.24 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "07 July 2002", 
+    "Report name:": "fv Flamingo (15/2003)", 
+    "Summary:": "Capsize of fv Flamingo , East of Harwich on 7 July 2002 with the loss of four lives"
+  }, 
+  "date_of_occurrence": "2002-07-07", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/fv_flamingo.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Flamingo Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/flamingo%20synopsis%2Epdf", 
+      "filename": "downloads/fb70ed2170b28cbe6c6afd9d6e6afafdd4d4c2d3/flamingo synopsis.pdf", 
+      "original_filename": "flamingo synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "flamingo.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/flamingo.pdf", 
+      "filename": "downloads/c04b8151c0933ff333c816daf61d320d079f2779/flamingo.pdf", 
+      "original_filename": "flamingo.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Fv Flamingo", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/flamingo%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Flamingo Synopsis</a>\r\n (13.58 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">fv Flamingo (15/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">07 July 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Capsize of fv Flamingo , East of Harwich on 7 July 2002 with the loss of four lives</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/flamingo.pdf\">flamingo.pdf</a>\r\n (310.24 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"internalLinkContainer\"><p>A fishing vessel accident flyer was sent out and can also be viewed on this website.</p><br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/fishing_vessel_flyer_2005/loss_of_beam_trawler_flamingo.cfm\">Fishing Vessel Accident Flyer - Flamingo</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (13.58 kb)\n\n  \nCapsize of fv Flamingo , East of Harwich on 7 July 2002 with the loss of four lives\n\n  \n[ASSET_TAG](#ASSET1) (310.24 kb) \n\nA fishing vessel accident flyer was sent out and can also be viewed on this website.\n\n  \n[Fishing Vessel Accident Flyer - Flamingo](http://maib.gov.uk/publications/accident_flyers/fishing_vessel_flyer_2005/loss_of_beam_trawler_flamingo.cfm)\n"
+}

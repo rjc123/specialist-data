@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "qe2-fatality.pdf\r\n (646.34 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "23 June 2002", 
+    "Report name:": "Queen Elizabeth 2 (17/2003)", 
+    "Summary:": "The escape of steam and hot water on board Queen Elizabeth 2 in the mid Atlantic resulting in one fatality 23 June 2002"
+  }, 
+  "date_of_occurrence": "2002-06-23", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/queen_elizabeth_2.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "QE2 Fatality Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/qe2%2Dfatality%20synopsis%2Epdf", 
+      "filename": "downloads/80f23ab35b062cc89ce2f2c1865ec822ec6ac833/qe2-fatality synopsis.pdf", 
+      "original_filename": "qe2-fatality synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "qe2-fatality.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/qe2-fatality.pdf", 
+      "filename": "downloads/26fb35d8ba0527e1379262b0095bb1349840f5e8/qe2-fatality.pdf", 
+      "original_filename": "qe2-fatality.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Queen Elizabeth 2Q", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/qe2%2Dfatality%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">QE2 Fatality Synopsis</a>\r\n (8.20 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Queen Elizabeth 2 (17/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">23 June 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">The escape of steam and hot water on board Queen Elizabeth 2 in the mid Atlantic resulting in one fatality 23 June 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/qe2-fatality.pdf\">qe2-fatality.pdf</a>\r\n (646.34 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (8.20 kb)\n\n  \nThe escape of steam and hot water on board Queen Elizabeth 2 in the mid Atlantic resulting in one fatality 23 June 2002\n\n  \n[ASSET_TAG](#ASSET1) (646.34 kb) \n"
+}

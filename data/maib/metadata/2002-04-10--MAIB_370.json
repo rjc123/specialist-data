@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "radiant.pdf\r\n (895.61 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "10 April 2002", 
+    "Report name:": "Radiant (02/2003)", 
+    "Summary:": "Capsize and foundering of Radiant about 45 miles north-west of the Isle of Lewis with the loss of one life on 10 April 2002"
+  }, 
+  "date_of_occurrence": "2002-04-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/radiant_pd298.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Radiant Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/radiant%20synopsis%2Epdf", 
+      "filename": "downloads/12b986d2a598299d617e4af92cce9ab047282714/radiant synopsis.pdf", 
+      "original_filename": "radiant synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "radiant.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/radiant.pdf", 
+      "filename": "downloads/e985d12aa74a918a86686c1be3728f2e6fa6ffdb/radiant.pdf", 
+      "original_filename": "radiant.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Fv Radiant PD298", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/radiant%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Radiant Synopsis</a>\r\n (11.79 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Radiant (02/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 April 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Capsize and foundering of Radiant about 45 miles north-west of the Isle of Lewis with the loss of one life on 10 April 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/radiant.pdf\">radiant.pdf</a>\r\n (895.61 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (11.79 kb)\n\n  \nCapsize and foundering of Radiant about 45 miles north-west of the Isle of Lewis with the loss of one life on 10 April 2002\n\n  \n[ASSET_TAG](#ASSET1) (895.61 kb) \n"
+}

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "aquitaine .pdf\r\n (397.54 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "29 October 1999", 
+    "Report name:": "Aquitane (15/2000)", 
+    "Summary:": "Report on the investigation of the failure of lifeboat Bowsing Gear on P&OSL Aquitaine in Falmouth Dry-Dock on 29 October 1999"
+  }, 
+  "date_of_occurrence": "1999-10-29", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/aquitaine.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Aquitaine - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/aquitaine%20synopsis%2Epdf", 
+      "filename": "downloads/9b7d13049ad0c98e198d979a1876ccb64e1661bd/aquitaine synopsis.pdf", 
+      "original_filename": "aquitaine synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "aquitaine .pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/aquitaine .pdf", 
+      "filename": "downloads/d21a40d83db5e7162fd56ad83c7115b78efccf15/aquitaine .pdf", 
+      "original_filename": "aquitaine .pdf"
+    }
+  ], 
+  "title": "Investigation report - AquitaineQ", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/aquitaine%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Aquitaine - Synopsis</a>\r\n (47.76 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Aquitane (15/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">29 October 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the failure of lifeboat Bowsing Gear on P&amp;OSL Aquitaine in Falmouth Dry-Dock on 29 October 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/aquitaine%20.pdf\">aquitaine .pdf</a>\r\n (397.54 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (47.76 kb)\n\n  \nReport on the investigation of the failure of lifeboat Bowsing Gear on P&OSL Aquitaine in Falmouth Dry-Dock on 29 October 1999\n\n  \n[ASSET_TAG](#ASSET1) (397.54 kb) \n"
+}

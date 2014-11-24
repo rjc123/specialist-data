@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "highland-pioneer.pdf\r\n (311.88 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "27 January 2000", 
+    "Report name:": "Higland Pioneer (15/2001)", 
+    "Summary:": "Report on the investigation of the collision between the offshore supply vessel Highland Pioneer and the DA jack-up rig of the Douglas offshore installation in Liverpool Bay on 27 January 2000."
+  }, 
+  "date_of_occurrence": "2000-01-27", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/highland_pioneer.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "highland-pioneer.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/highland-pioneer.pdf", 
+      "filename": "downloads/7b25664bf1817c3bb9a6588be53b41fbfe09f1eb/highland-pioneer.pdf", 
+      "original_filename": "highland-pioneer.pdf"
+    }
+  ], 
+  "title": "Investigation report - Highland Pioneer", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Higland Pioneer (15/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">27 January 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the collision between the offshore supply vessel Highland Pioneer and the DA jack-up rig of the Douglas offshore installation in Liverpool Bay on 27 January 2000.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/highland-pioneer.pdf\">highland-pioneer.pdf</a>\r\n (311.88 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nReport on the investigation of the collision between the offshore supply vessel Highland Pioneer and the DA jack-up rig of the Douglas offshore installation in Liverpool Bay on 27 January 2000.\n\n  \n[ASSET_TAG](#ASSET0) (311.88 kb) \n"
+}

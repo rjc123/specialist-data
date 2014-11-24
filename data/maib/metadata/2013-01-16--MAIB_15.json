@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "AmyHarrisIII.pdf\r\n (2,053.68 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "16 January 2013", 
+    "Report name:": "Amy Harris III", 
+    "Summary:": "MAIB Report on the investigation of the engine room fire on board fv Amy Harris III South of the Isle of Arran on 16 January 2013. Report No 20/2013. Published 23 August 2013."
+  }, 
+  "date_of_occurrence": "2013-01-16", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2013/amy_harris_iii.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "AmyHarrisIII.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/AmyHarrisIII.pdf", 
+      "filename": "downloads/44becbeaefc12a1aec3f635b435d97cebe3fadbc/AmyHarrisIII.pdf", 
+      "original_filename": "AmyHarrisIII.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 20/2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Amy Harris III</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">16 January 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the engine room fire on board fv <span>Amy Harris III</span> South of the Isle of Arran on 16 January 2013. Report No 20/2013. Published 23 August 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/AmyHarrisIII.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AmyHarrisIII.pdf');\">AmyHarrisIII.pdf</a>\r\n (2,053.68 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the engine room fire on board fv Amy Harris III South of the Isle of Arran on 16 January 2013. Report No 20/2013. Published 23 August 2013.\n\n  \n[ASSET_TAG](#ASSET0) (2,053.68 kb) \n"
+}

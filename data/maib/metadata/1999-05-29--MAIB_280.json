@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "loch awe.pdf\r\n (941.71 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "29 May 1999", 
+    "Report name:": "Loch Awe", 
+    "Summary:": "Report of the investigation into the foundering of an unnamed dory which sank on Loch Awe with the loss of three lives on 29 May 1999"
+  }, 
+  "date_of_occurrence": "1999-05-29", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/loch_awe.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Loch Awe Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/loch%20awe%20synopsis%2Epdf", 
+      "filename": "downloads/e287098c47c1b6edc519800d10e2038ff2510d3e/loch awe synopsis.pdf", 
+      "original_filename": "loch awe synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "loch awe.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/loch awe.pdf", 
+      "filename": "downloads/2f689f72e77f883d3d704b519a8b313680479b32/loch awe.pdf", 
+      "original_filename": "loch awe.pdf"
+    }
+  ], 
+  "title": "Investigation report - Loch Awe", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/loch%20awe%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Loch Awe Synopsis</a>\r\n (53.45 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Loch Awe</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">29 May 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation into the foundering of an unnamed dory which sank on Loch Awe with the loss of three lives on 29 May 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/loch%20awe.pdf\">loch awe.pdf</a>\r\n (941.71 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (53.45 kb)\n\n  \nReport of the investigation into the foundering of an unnamed dory which sank on Loch Awe with the loss of three lives on 29 May 1999\n\n  \n[ASSET_TAG](#ASSET1) (941.71 kb) \n"
+}

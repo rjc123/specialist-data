@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "Vidar.pdf\r\n (993.52 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "28 January 2013", 
+    "Report name:": "Vidar", 
+    "Summary:": "MAIB report on the investigation of the fatal man overboard from the trawler Vidar off Milford Haven on 28 January 2013. Report No 19/2013. Published 16 August 2013."
+  }, 
+  "date_of_occurrence": "2013-01-28", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2013/vidar.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Vidar.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Vidar.pdf", 
+      "filename": "downloads/a5911bf10730abae8b1786952028993257875f38/Vidar.pdf", 
+      "original_filename": "Vidar.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 19/2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Vidar</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">28 January 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation of the fatal man overboard from the trawler <span>Vidar</span> off Milford Haven on 28 January 2013. Report No 19/2013. Published 16 August 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Vidar.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Vidar.pdf');\">Vidar.pdf</a>\r\n (993.52 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB report on the investigation of the fatal man overboard from the trawler Vidar off Milford Haven on 28 January 2013. Report No 19/2013. Published 16 August 2013.\n\n  \n[ASSET_TAG](#ASSET0) (993.52 kb) \n"
+}

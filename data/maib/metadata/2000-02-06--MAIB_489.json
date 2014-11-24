@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "angela.pdf\r\n (1,750.45 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "06 February 2000", 
+    "Report name:": "fv Angela (14/2001)", 
+    "Summary:": "Report on the investigation of the capsize and foundering of the fishing vessel Angela in the North Sea on 6 February 2000"
+  }, 
+  "date_of_occurrence": "2000-02-06", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/fv_angela.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "angela.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/angela.pdf", 
+      "filename": "downloads/1237fe84e92145ffab60e0c325b227145a3701f4/angela.pdf", 
+      "original_filename": "angela.pdf"
+    }
+  ], 
+  "title": "fv Angela", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">fv Angela (14/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">06 February 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the capsize and foundering of the fishing vessel Angela in the North Sea on 6 February 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/angela.pdf\">angela.pdf</a>\r\n (1,750.45 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nReport on the investigation of the capsize and foundering of the fishing vessel Angela in the North Sea on 6 February 2000\n\n  \n[ASSET_TAG](#ASSET0) (1,750.45 kb) \n"
+}

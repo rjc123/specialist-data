@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "sonia.pdf\r\n (2,495.63 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "01 September 1999", 
+    "Report name:": "Sonia (29/2000)", 
+    "Summary:": "Report of an Investigation of the flooding to the engine room of the cargo vessel mv Sonia off Sandown Bay, Isle of Wight on 1 September 1999"
+  }, 
+  "date_of_occurrence": "1999-09-01", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/sonia.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Sonia - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/sonia%20synopsis%2Epdf", 
+      "filename": "downloads/24dea8e8907900c3076c3433f9b38d26a5128e5c/sonia synopsis.pdf", 
+      "original_filename": "sonia synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "sonia.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/sonia.pdf", 
+      "filename": "downloads/fe0abce0fee463d1b53de0949f4992bba2e62f38/sonia.pdf", 
+      "original_filename": "sonia.pdf"
+    }
+  ], 
+  "title": "Investigation report - Sonia", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/sonia%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Sonia - Synopsis</a>\r\n (82.76 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Sonia (29/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">01 September 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of an Investigation of the flooding to the engine room of the cargo vessel mv Sonia off Sandown Bay, Isle of Wight on 1 September 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/sonia.pdf\">sonia.pdf</a>\r\n (2,495.63 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (82.76 kb)\n\n  \nReport of an Investigation of the flooding to the engine room of the cargo vessel mv Sonia off Sandown Bay, Isle of Wight on 1 September 1999\n\n  \n[ASSET_TAG](#ASSET1) (2,495.63 kb) \n"
+}

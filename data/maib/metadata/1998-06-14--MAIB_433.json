@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "Download report:": "silverysea merkur.pdf\r\n (2,318.21 kb)", 
+    "Category:": "Merchant vessels,Fishing vessels", 
+    "Incident date:": "14 June 1998", 
+    "Report name:": "Silvery Sea/Merkur (21/2000)", 
+    "Summary:": "Report on the investigation of the collision between the German container ship Merkur and the United Kingdom fishing vessel Silvery Sea which then foundered about 35 miles west of Esbjerg, Denmark with the loss of five lives on 14 June 1998"
+  }, 
+  "date_of_occurrence": "1998-06-14", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/silvery_sea_merkur.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Silvery Sea Merkur - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/silverysea%20merkur%20synopsis%2Epdf", 
+      "filename": "downloads/5a0b72de84b9750ae4f707c3091c27ff9497b800/silverysea merkur synopsis.pdf", 
+      "original_filename": "silverysea merkur synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "silverysea merkur.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/silverysea merkur.pdf", 
+      "filename": "downloads/d00539cd4e858631321f620173233abc5ef98ff4/silverysea merkur.pdf", 
+      "original_filename": "silverysea merkur.pdf"
+    }
+  ], 
+  "title": "Investigation report - Silvery Sea/Merkur", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/silverysea%20merkur%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Silvery Sea Merkur - Synopsis</a>\r\n (91.58 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Silvery Sea/Merkur (21/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">14 June 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the collision between the German container ship Merkur and the United Kingdom fishing vessel Silvery Sea which then foundered about 35 miles west of Esbjerg, Denmark with the loss of five lives on 14 June 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/silverysea%20merkur.pdf\">silverysea merkur.pdf</a>\r\n (2,318.21 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (91.58 kb)\n\n  \nReport on the investigation of the collision between the German container ship Merkur and the United Kingdom fishing vessel Silvery Sea which then foundered about 35 miles west of Esbjerg, Denmark with the loss of five lives on 14 June 1998\n\n  \n[ASSET_TAG](#ASSET1) (2,318.21 kb) \n"
+}

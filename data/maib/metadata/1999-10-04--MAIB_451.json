@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "symphony.pdf\r\n (3,631.84 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "04 October 1999", 
+    "Report name:": "Symphony (18/2000)", 
+    "Summary:": "Report of an investigation of a steering failure and subsequent collision with Lambeth Bridge of the Class V passenger vessel mv Symphony on the River Thames on 4 October 1999"
+  }, 
+  "date_of_occurrence": "1999-10-04", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/symphony.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Symphony - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/symphony%20synopsis%2Epdf", 
+      "filename": "downloads/c289a930e9051cdd42599accc59b35011c4390d5/symphony synopsis.pdf", 
+      "original_filename": "symphony synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "symphony.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/symphony.pdf", 
+      "filename": "downloads/ebff8338d919794e9d8d56150b589aca51ca0040/symphony.pdf", 
+      "original_filename": "symphony.pdf"
+    }
+  ], 
+  "title": "Investigation reports - Symphony", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/symphony%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Symphony - Synopsis</a>\r\n (80.40 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Symphony (18/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">04 October 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of an investigation of a steering failure and subsequent collision with Lambeth Bridge of the Class V passenger vessel mv Symphony on the River Thames on 4 October 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/symphony.pdf\">symphony.pdf</a>\r\n (3,631.84 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (80.40 kb)\n\n  \nReport of an investigation of a steering failure and subsequent collision with Lambeth Bridge of the Class V passenger vessel mv Symphony on the River Thames on 4 October 1999\n\n  \n[ASSET_TAG](#ASSET1) (3,631.84 kb) \n"
+}

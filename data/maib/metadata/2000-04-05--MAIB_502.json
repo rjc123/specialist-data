@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "diamond-bulker.pdf\r\n (3,244.02 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "05 April 2000", 
+    "Report name:": "mv Diamond Bulker) (09/2001)", 
+    "Summary:": "Report of the investigation of an accident on the bulk carrier mv Diamond Bulker with the loss of two lives when at anchor in Lough Foyle, Londonderry, Northern Ireland on 5 April 2000"
+  }, 
+  "date_of_occurrence": "2000-04-05", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/mv_diamond_bulker.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "diamond-bulker.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/diamond-bulker.pdf", 
+      "filename": "downloads/4a11d56068c97803617759c406c87ec58d9cd901/diamond-bulker.pdf", 
+      "original_filename": "diamond-bulker.pdf"
+    }
+  ], 
+  "title": "Investigation report - mv Diamond Bulker", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">mv Diamond Bulker) (09/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">05 April 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation of an accident on the bulk carrier mv Diamond Bulker with the loss of two lives when at anchor in Lough Foyle, Londonderry, Northern Ireland on 5 April 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/diamond-bulker.pdf\">diamond-bulker.pdf</a>\r\n (3,244.02 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nReport of the investigation of an accident on the bulk carrier mv Diamond Bulker with the loss of two lives when at anchor in Lough Foyle, Londonderry, Northern Ireland on 5 April 2000\n\n  \n[ASSET_TAG](#ASSET0) (3,244.02 kb) \n"
+}

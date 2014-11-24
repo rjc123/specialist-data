@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "Neermoor.pdf\r\n (2,356.57 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "27 April 2006", 
+    "Report name:": "Neermoor", 
+    "Summary:": "Report on the investigation of the fatal accident due to collapse of a portable bulkhead onboard mv Neermoor at Teignmouth, UK on 27 April 2006"
+  }, 
+  "date_of_occurrence": "2006-04-27", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/neermoor.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Neermoor  - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Neermoor%2DSynopsis%2Epdf", 
+      "filename": "downloads/259ffc0bd3ffc714064bfa998bec76dbc58064bb/Neermoor-Synopsis.pdf", 
+      "original_filename": "Neermoor-Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Neermoor.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Neermoor.pdf", 
+      "filename": "downloads/e2b692c3f401a56426f38f8b13b43156e386257f/Neermoor.pdf", 
+      "original_filename": "Neermoor.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Neermoor - Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Neermoor%2DAnnexes%2Epdf", 
+      "filename": "downloads/a484097cd850b29a63d8677ceed60b135604dc8c/Neermoor-Annexes.pdf", 
+      "original_filename": "Neermoor-Annexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Neermoor", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Neermoor%2DSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Neermoor  - Synopsis</a>\r\n (144.05 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Neermoor</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">27 April 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the fatal accident due to collapse of a portable bulkhead onboard mv Neermoor at Teignmouth, UK on 27 April 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Neermoor.pdf\">Neermoor.pdf</a>\r\n (2,356.57 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Neermoor%2DAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Neermoor - Annexes</a>\r\n (900.12 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (144.05 kb)\n\n  \nReport on the investigation of the fatal accident due to collapse of a portable bulkhead onboard mv Neermoor at Teignmouth, UK on 27 April 2006\n\n  \n[ASSET_TAG](#ASSET1) (2,356.57 kb) \n\n[ASSET_TAG](#ASSET2) (900.12 kb)\n"
+}

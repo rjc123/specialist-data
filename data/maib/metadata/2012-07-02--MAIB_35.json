@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "CoastalIsle.pdf\r\n (2,904.80 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "02 July 2012", 
+    "Report name:": "Coastal Isle", 
+    "Summary:": "MAIB report on the grounding of Antigua and Barbuda flagged container vessel Coastal Isle on the Island of Bute on 2 July 2012. Report No 9/2013. Published 30 May 2013."
+  }, 
+  "date_of_occurrence": "2012-07-02", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2013/coastal_isle.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "CoastalIsle.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/CoastalIsle.pdf", 
+      "filename": "downloads/81ae78096dd5395460dcef492de58fabbead5a51/CoastalIsle.pdf", 
+      "original_filename": "CoastalIsle.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 9/2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Coastal Isle</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">02 July 2012</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the grounding of Antigua and Barbuda flagged container vessel <span>Coastal Isle</span> on the Island of Bute on 2 July 2012. Report No 9/2013. Published 30 May 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/CoastalIsle.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CoastalIsle.pdf');\">CoastalIsle.pdf</a>\r\n (2,904.80 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB report on the grounding of Antigua and Barbuda flagged container vessel Coastal Isle on the Island of Bute on 2 July 2012. Report No 9/2013. Published 30 May 2013.\n\n  \n[ASSET_TAG](#ASSET0) (2,904.80 kb) \n"
+}

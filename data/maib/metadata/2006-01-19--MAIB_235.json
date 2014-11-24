@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "Greenhill.pdf\r\n (889.80 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "19 January 2006", 
+    "Report name:": "Greenhill", 
+    "Summary:": "Report on the investigation of the grounding and subsequent foundering of\r\r\nfv Greenhill off Ardglass, Northern Ireland on 19 January 2006 with the loss of two lives. Report No. 19/2006"
+  }, 
+  "date_of_occurrence": "2006-01-19", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/greenhill.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Greenhill%5FSynopsis%2Epdf", 
+      "filename": "downloads/a74b21491c4a316111601c5fe559f938b355ab43/Greenhill_Synopsis.pdf", 
+      "original_filename": "Greenhill_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Greenhill.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Greenhill.pdf", 
+      "filename": "downloads/8631ba727333800a84250132c05f25f853baec34/Greenhill.pdf", 
+      "original_filename": "Greenhill.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Greenhill%5FAnnexes%2Epdf", 
+      "filename": "downloads/2c7c25c020fd86f2e42949bed86c7abaccb890a3/Greenhill_Annexes.pdf", 
+      "original_filename": "Greenhill_Annexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Greenhill", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Greenhill%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (34.78 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Greenhill</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">19 January 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the grounding and subsequent foundering of\r\r\nfv Greenhill off Ardglass, Northern Ireland on 19 January 2006 with the loss of two lives. Report No. 19/2006\r\r\n</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Greenhill.pdf\">Greenhill.pdf</a>\r\n (889.80 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Greenhill%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (949.93 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (34.78 kb)\n\n  \nReport on the investigation of the grounding and subsequent foundering of fv Greenhill off Ardglass, Northern Ireland on 19 January 2006 with the loss of two lives. Report No. 19/2006 \n\n  \n[ASSET_TAG](#ASSET1) (889.80 kb) \n\n[ASSET_TAG](#ASSET2) (949.93 kb)\n"
+}

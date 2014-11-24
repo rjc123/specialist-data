@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "Download report:": "portsmouth_dory.pdf\r\n (1,833.70 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "16 September 1999", 
+    "Report name:": "Portsmouth Dory (06/2001)"
+  }, 
+  "date_of_occurrence": "1999-09-16", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/portsmouth_dory.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "portsmouth_dory.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/portsmouth_dory.pdf", 
+      "filename": "downloads/cef3b8c6e8cfe4c47a7b1efd4a7fa1d85d2396a1/portsmouth_dory.pdf", 
+      "original_filename": "portsmouth_dory.pdf"
+    }
+  ], 
+  "title": "Portsmouth Dory", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Portsmouth Dory (06/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">16 September 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/portsmouth_dory.pdf\">portsmouth_dory.pdf</a>\r\n (1,833.70 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \n[ASSET_TAG](#ASSET0) (1,833.70 kb) \n"
+}

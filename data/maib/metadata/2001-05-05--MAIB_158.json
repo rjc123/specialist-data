@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "Download report:": "bramble-bush-bay.pdf\r\n (392.61 kb)", 
+    "Category:": "Leisure,Merchant vessels", 
+    "Incident date:": "05 May 2001", 
+    "Report name:": "Bramble Bush Bay (20/2002)", 
+    "Summary:": "Report on the collision between the chain ferry Bramble Bush Bay and four XOD Class yachts at the entrance to Poole Harbour on 5 May 2001"
+  }, 
+  "date_of_occurrence": "2001-05-05", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/bramble_bush_bay.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Bramble Bush Bay synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/bramble%2Dbush%2Dbay%20synopsis%2Epdf", 
+      "filename": "downloads/fc05d4cfc9a69cdcb554d37042d1b24425f2ac7d/bramble-bush-bay synopsis.pdf", 
+      "original_filename": "bramble-bush-bay synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "bramble-bush-bay.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/bramble-bush-bay.pdf", 
+      "filename": "downloads/63c57fb15f1f6ba65ee75019cf242657e15b4797/bramble-bush-bay.pdf", 
+      "original_filename": "bramble-bush-bay.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Bramble Bush Bay", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/bramble%2Dbush%2Dbay%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Bramble Bush Bay synopsis</a>\r\n (464.75 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bramble Bush Bay (20/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">05 May 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure,Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the collision between the chain ferry Bramble Bush Bay and four XOD Class yachts at the entrance to Poole Harbour on 5 May 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/bramble-bush-bay.pdf\">bramble-bush-bay.pdf</a>\r\n (392.61 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail", 
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (464.75 kb)\n\n  \nReport on the collision between the chain ferry Bramble Bush Bay and four XOD Class yachts at the entrance to Poole Harbour on 5 May 2001\n\n  \n[ASSET_TAG](#ASSET1) (392.61 kb) \n"
+}

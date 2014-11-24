@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "IjsselstroomReport.pdf\r\n (1,697.08 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "14 June 2009", 
+    "Report name:": "Ijsselstroom", 
+    "Summary:": "Report on the investigation into the loss of the tug\r\r\nIjsselstroom in the port of Peterhead on 14 June 2009. Report no 4/2010. Published 8 April 2010."
+  }, 
+  "date_of_occurrence": "2009-06-14", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2010/ijsselstroom.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "IjsselstroomReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/IjsselstroomReport.pdf", 
+      "filename": "downloads/31bf3e383db5f249d140a06c662dbf6dfb05e5e0/IjsselstroomReport.pdf", 
+      "original_filename": "IjsselstroomReport.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Ijsselstroom", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Ijsselstroom_Synopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/Ijsselstroom%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (138.16 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Ijsselstroom</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">14 June 2009</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation into the loss of the tug\r\r\nIjsselstroom in the port of Peterhead on 14 June 2009. Report no 4/2010. Published 8 April 2010.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/IjsselstroomReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/IjsselstroomReport.pdf');\">IjsselstroomReport.pdf</a>\r\n (1,697.08 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Ijsselstroom_Annexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/Ijsselstroom%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,207.74 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[Synopsis](http://maib.gov.uk/cms_resources/Ijsselstroom%5FSynopsis%2Epdf) (138.16 kb)\n\n  \nReport on the investigation into the loss of the tug Ijsselstroom in the port of Peterhead on 14 June 2009. Report no 4/2010. Published 8 April 2010.\n\n  \n[ASSET_TAG](#ASSET0) (1,697.08 kb) \n\n[Annexes](http://maib.gov.uk/cms_resources/Ijsselstroom%5FAnnexes%2Epdf) (2,207.74 kb)\n"
+}

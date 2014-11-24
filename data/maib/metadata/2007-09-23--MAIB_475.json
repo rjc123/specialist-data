@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "VikingIslayReport.pdf\r\n (2,429.94 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "23 September 2007", 
+    "Report name:": "Viking Islay", 
+    "Summary:": "MAIB report on the investigation of work undertaken in a dangerous enclosed/confined space and the consequent attempted rescue on board ERRV Viking Islay resulting in the loss of three lives at the Amethyst gas field, 25 miles off the East Yorkshire coast, UK on 23 September 2007. Report no 12/2008. Published 9 July 2008."
+  }, 
+  "date_of_occurrence": "2007-09-23", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2008/errv_viking_islay.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/VikingIslaySynopsis%2Epdf", 
+      "filename": "downloads/24935d724ff6726eea341cb0e7b75bcc6e14df13/VikingIslaySynopsis.pdf", 
+      "original_filename": "VikingIslaySynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "VikingIslayReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/VikingIslayReport.pdf", 
+      "filename": "downloads/bbc7ef14a56ad3f158507bb42e7fd41017309303/VikingIslayReport.pdf", 
+      "original_filename": "VikingIslayReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/VikingIslayAnnexes%2Epdf", 
+      "filename": "downloads/a07951620ee8d4d85ef2068c1161b6361a9906c8/VikingIslayAnnexes.pdf", 
+      "original_filename": "VikingIslayAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - ERRV Viking Islay", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/VikingIslaySynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/VikingIslaySynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (43.09 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Viking Islay</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">23 September 2007</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation of work undertaken in a dangerous enclosed/confined space and the consequent attempted rescue on board ERRV Viking Islay resulting in the loss of three lives at the Amethyst gas field, 25 miles off the East Yorkshire coast, UK on 23 September 2007. Report no 12/2008. Published 9 July 2008.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/VikingIslayReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/VikingIslayReport.pdf');\">VikingIslayReport.pdf</a>\r\n (2,429.94 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/VikingIslayAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/VikingIslayAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,452.69 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">An accident flyer was produced for this incident and can also be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2008/errv_viking_islay.cfm\">Flyer to the Shipping Industry</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (43.09 kb)\n\n  \nMAIB report on the investigation of work undertaken in a dangerous enclosed/confined space and the consequent attempted rescue on board ERRV Viking Islay resulting in the loss of three lives at the Amethyst gas field, 25 miles off the East Yorkshire coast, UK on 23 September 2007. Report no 12/2008. Published 9 July 2008.\n\n  \n[ASSET_TAG](#ASSET1) (2,429.94 kb) \n\n[ASSET_TAG](#ASSET2) (1,452.69 kb)\n\nAn accident flyer was produced for this incident and can also be viewed on this website:  \n[Flyer to the Shipping Industry](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2008/errv_viking_islay.cfm)\n"
+}

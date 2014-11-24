@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Prospect.pdf\r\n (2,300.62 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "05 August 2013", 
+    "Report name:": "Prospect", 
+    "Summary:": "MAIB Report on the investigation of the fv Prospect grounding on Skibby Baas and foundering in the north entrance to Lerwick Harbour, Shetlands Islands on 5 August 2013. Report No 7/2014. Published 19 February 2014."
+  }, 
+  "date_of_occurrence": "2013-08-05", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2014/prospect.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Prospect.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Prospect.pdf", 
+      "filename": "downloads/0017a10b486b2122c44fd6c514102c679df03797/Prospect.pdf", 
+      "original_filename": "Prospect.pdf"
+    }, 
+    {
+      "content_type": "image/jpeg", 
+      "title": "Prospect Photo", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Prospect.jpg", 
+      "filename": "downloads/ec7ea2104d7106ded465fe5018dda4d316f7a63b/Prospect.jpg", 
+      "original_filename": "Prospect.jpg"
+    }
+  ], 
+  "title": "Accident Investigation Report 7/2014", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n\r\n<div id=\"graphicContainer\">\r\n<img align=\"top\" border=\"0\" src=\"http://maib.gov.uk/cms_resources/Prospect.jpg\" width=\"250\" height=\"166\" alt=\"Prospect Photo\"><br>\r\n<span class=\"siteGraphicCaption\">Prospect Photo</span>\r\n</div>\r\n\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Prospect</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">05 August 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the fv <span>Prospect</span> grounding on Skibby Baas and foundering in the north entrance to Lerwick Harbour, Shetlands Islands on 5 August 2013. Report No 7/2014. Published 19 February 2014.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Prospect.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Prospect.pdf');\">Prospect.pdf</a>\r\n (2,300.62 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "![ASSET_TAG](#ASSET1)  \nProspect Photo\n\n  \nMAIB Report on the investigation of the fv Prospect grounding on Skibby Baas and foundering in the north entrance to Lerwick Harbour, Shetlands Islands on 5 August 2013. Report No 7/2014. Published 19 February 2014.\n\n  \n[ASSET_TAG](#ASSET0) (2,300.62 kb) \n"
+}

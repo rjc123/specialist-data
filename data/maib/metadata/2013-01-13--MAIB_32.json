@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "ChristosXXII.pdf\r\n (467.75 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "13 January 2013", 
+    "Report name:": "Christos XXII", 
+    "Summary:": "MAIB Report on the investigation of the Collision between tug Christos XXII and its tow, Emsstrom off Hope\u2019s Nose, Tor Bay, England on 13 January 2013. Report No 10/2014. Published 10 April 2014."
+  }, 
+  "date_of_occurrence": "2013-01-13", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2014/christos_xxii.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "ChristosXXII.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/ChristosXXII.pdf", 
+      "filename": "downloads/ce53471e8bb12ad2746f41efa3d49377bbdc4d93/ChristosXXII.pdf", 
+      "original_filename": "ChristosXXII.pdf"
+    }, 
+    {
+      "content_type": "image/jpeg", 
+      "title": "Christos XXII", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/ChristosXXII.jpg", 
+      "filename": "downloads/73db6c1eb11462b6201323175d739d509238401b/ChristosXXII.jpg", 
+      "original_filename": "ChristosXXII.jpg"
+    }
+  ], 
+  "title": "Accident Investigation Report 10/2014", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n\r\n<div id=\"graphicContainer\">\r\n<img align=\"top\" border=\"0\" src=\"http://maib.gov.uk/cms_resources/ChristosXXII.jpg\" width=\"250\" height=\"188\" alt=\"Christos XXII\"><br>\r\n<span class=\"siteGraphicCaption\"></span>\r\n</div>\r\n\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Christos XXII</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">13 January 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the Collision between tug <span>Christos XXII</span> and its tow, <span>Emsstrom</span> off Hope&#8217;s Nose, Tor Bay, England on 13 January 2013. Report No 10/2014. Published 10 April 2014.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/ChristosXXII.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ChristosXXII.pdf');\">ChristosXXII.pdf</a>\r\n (467.75 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "![ASSET_TAG](#ASSET1)  \n\n\n  \nMAIB Report on the investigation of the Collision between tug Christos XXII and its tow, Emsstrom off Hope\u2019s Nose, Tor Bay, England on 13 January 2013. Report No 10/2014. Published 10 April 2014.\n\n  \n[ASSET_TAG](#ASSET0) (467.75 kb) \n"
+}

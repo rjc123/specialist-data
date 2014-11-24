@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "StAmant_Report.pdf\r\n (2,453.59 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "13 January 2012", 
+    "Report name:": "St Amant", 
+    "Summary:": "MAIB Report on the investigation of the loss of a crewman from the FV St Amant off the coast of north-west Wales on 13 January 2012. Report No 1/2013. Published 9 January 2013."
+  }, 
+  "date_of_occurrence": "2012-01-13", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2013/st_amant.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "StAmant_Report.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/StAmant_Report.pdf", 
+      "filename": "downloads/5761f8c6f9249517597a0ed368df03ab74a9789b/StAmant_Report.pdf", 
+      "original_filename": "StAmant_Report.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes A to F", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/StAmantAnnexesAtoF%2Epdf", 
+      "filename": "downloads/b4c5662967968ab0b7b8a8cb8e5c7cfd7f8fe71e/StAmantAnnexesAtoF.pdf", 
+      "original_filename": "StAmantAnnexesAtoF.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes G to O", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/StAmantAnnexes%5FGtoO%2Epdf", 
+      "filename": "downloads/3adefb74796733160484f3b05eda411df78150a4/StAmantAnnexes_GtoO.pdf", 
+      "original_filename": "StAmantAnnexes_GtoO.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 1/2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>St Amant</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">13 January 2012</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the loss of a crewman from the FV <span>St Amant</span> off the coast of north-west Wales on 13 January 2012. Report No 1/2013. Published 9 January 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/StAmant_Report.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/StAmant_Report.pdf');\">StAmant_Report.pdf</a>\r\n (2,453.59 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/StAmantAnnexesAtoF.pdf');\" href=\"http://maib.gov.uk/cms_resources/StAmantAnnexesAtoF%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes A to F</a>\r\n (0 kb)</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/StAmantAnnexes_GtoO.pdf');\" href=\"http://maib.gov.uk/cms_resources/StAmantAnnexes%5FGtoO%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes G to O</a>\r\n (4,478.97 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the loss of a crewman from the FV St Amant off the coast of north-west Wales on 13 January 2012. Report No 1/2013. Published 9 January 2013.\n\n  \n[ASSET_TAG](#ASSET0) (2,453.59 kb) \n\n[ASSET_TAG](#ASSET1) (0 kb)\n\n[ASSET_TAG](#ASSET2) (4,478.97 kb)\n"
+}

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Amenity_Tor Dania.pdf\r\n (1,083.81 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "23 January 2005", 
+    "Report name:": "Tor Dania and Amenity", 
+    "Summary:": "Report on the investigation of the collision between Amenity and Tor Dania south of Grimsby Middle, the River Humber on 23 January 2005\r\r\nPublished 7 November 20005"
+  }, 
+  "date_of_occurrence": "2005-01-23", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2005/tor_dania_and_amenity.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Tor Dania and Amenity Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Amenity%5FTor%20Dania%2DSynopsis%2Epdf", 
+      "filename": "downloads/110095d33770536e1c33e4595d2fc1861ea0a4dc/Amenity_Tor Dania-Synopsis.pdf", 
+      "original_filename": "Amenity_Tor Dania-Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Amenity_Tor Dania.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Amenity_Tor Dania.pdf", 
+      "filename": "downloads/fad973493d6bccbbdaac35a18613963c3ec95a7e/Amenity_Tor Dania.pdf", 
+      "original_filename": "Amenity_Tor Dania.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Tor Dania and Amenity", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Amenity%5FTor%20Dania%2DSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Tor Dania and Amenity Synopsis</a>\r\n (68.68 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Tor Dania and Amenity</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">23 January 2005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the collision between Amenity and Tor Dania south of Grimsby Middle, the River Humber on 23 January 2005\r\r\nPublished 7 November 20005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Amenity_Tor%20Dania.pdf\">Amenity_Tor Dania.pdf</a>\r\n (1,083.81 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (68.68 kb)\n\n  \nReport on the investigation of the collision between Amenity and Tor Dania south of Grimsby Middle, the River Humber on 23 January 2005 Published 7 November 20005\n\n  \n[ASSET_TAG](#ASSET1) (1,083.81 kb) \n"
+}

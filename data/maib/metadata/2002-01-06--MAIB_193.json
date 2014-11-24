@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "diamant-northern-merchant.pdf\r\n (1,077.85 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "06 January 2002", 
+    "Report name:": "Diamant/Northern Merchant (10/2003)", 
+    "Summary:": "Collision between Diamant/Northern Merchant 3 miles SE of Dover on 6 January 2002"
+  }, 
+  "date_of_occurrence": "2002-01-06", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/diamant_northern_merchant.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Diamant Northern Merchant Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/diamant%2Dnorthern%2Dmerchant%20synopsis%2Epdf", 
+      "filename": "downloads/2db58ddeb9373571e0f3da9d844c60a3d6a36164/diamant-northern-merchant synopsis.pdf", 
+      "original_filename": "diamant-northern-merchant synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "diamant-northern-merchant.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/diamant-northern-merchant.pdf", 
+      "filename": "downloads/abb8bb622e1f4c22245e9d5ef7d7e6bd19c7e97c/diamant-northern-merchant.pdf", 
+      "original_filename": "diamant-northern-merchant.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Diamant/Northern Merchant", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/diamant%2Dnorthern%2Dmerchant%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Diamant Northern Merchant Synopsis</a>\r\n (11.95 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Diamant/Northern Merchant (10/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">06 January 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Collision between Diamant/Northern Merchant 3 miles SE of Dover on 6 January 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/diamant-northern-merchant.pdf\">diamant-northern-merchant.pdf</a>\r\n (1,077.85 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (11.95 kb)\n\n  \nCollision between Diamant/Northern Merchant 3 miles SE of Dover on 6 January 2002\n\n  \n[ASSET_TAG](#ASSET1) (1,077.85 kb) \n"
+}

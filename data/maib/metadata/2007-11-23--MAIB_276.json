@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "LastCallReport.pdf\r\n (1,565.47 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "23 November 2007", 
+    "Report name:": "Last Call", 
+    "Summary:": "MAIB report on the investigation into the foundering of the motor cruiser Last Call at Whitby\r\r\nwith the loss of three lives on  23 November 2007.  Report no 11/2008. Published 30 June 2008."
+  }, 
+  "date_of_occurrence": "2007-11-23", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2008/last_call.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/LastCallSynopsis%2Epdf", 
+      "filename": "downloads/1e296f96ae1630fcfe1a989b1391106b5650c095/LastCallSynopsis.pdf", 
+      "original_filename": "LastCallSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "LastCallReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/LastCallReport.pdf", 
+      "filename": "downloads/afaf934cb67d85ec2f07559ee4cc97d2ef9bcac2/LastCallReport.pdf", 
+      "original_filename": "LastCallReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/LastCallAnnexes%2Epdf", 
+      "filename": "downloads/10903d837da4c342aa0795b4f0a4d9073f29d7d6/LastCallAnnexes.pdf", 
+      "original_filename": "LastCallAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Last Call", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/LastCallSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/LastCallSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (36.72 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Last Call</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">23 November 2007</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation into the foundering of the motor cruiser Last Call at Whitby\r\r\nwith the loss of three lives on  23 November 2007.  Report no 11/2008. Published 30 June 2008.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/LastCallReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/LastCallReport.pdf');\">LastCallReport.pdf</a>\r\n (1,565.47 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/LastCallAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/LastCallAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,257.30 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">An accident flyer was produced for this incident and can also be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2008/last_call.cfm\">Flyer to the Leisure Industry</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (36.72 kb)\n\n  \nMAIB report on the investigation into the foundering of the motor cruiser Last Call at Whitby with the loss of three lives on 23 November 2007. Report no 11/2008. Published 30 June 2008.\n\n  \n[ASSET_TAG](#ASSET1) (1,565.47 kb) \n\n[ASSET_TAG](#ASSET2) (1,257.30 kb)\n\nAn accident flyer was produced for this incident and can also be viewed on this website:  \n[Flyer to the Leisure Industry](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2008/last_call.cfm)\n"
+}

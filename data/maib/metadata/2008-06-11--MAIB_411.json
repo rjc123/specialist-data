@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "SagaRoseReport.pdf\r\n (1,115.57 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "11 June 2008", 
+    "Report name:": "Saga Rose", 
+    "Summary:": "MAIB report on the investigation of the fatality on board passenger cruise ship Saga Rose, in Southampton, England. Report No 1/2009. Published 6 January 2009."
+  }, 
+  "date_of_occurrence": "2008-06-11", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/saga_rose.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SagaRoseSynopsis%2Epdf", 
+      "filename": "downloads/51934427f2754ecccec56dcfeda9370b673e0263/SagaRoseSynopsis.pdf", 
+      "original_filename": "SagaRoseSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "SagaRoseReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/SagaRoseReport.pdf", 
+      "filename": "downloads/0cc75305d0d70084098a4b74b62d9e2b6f6a1728/SagaRoseReport.pdf", 
+      "original_filename": "SagaRoseReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annex", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/SagaRoseAnnex%2Epdf", 
+      "filename": "downloads/1a88d384107c1b43d6dc1ad4953c182b1e84d972/SagaRoseAnnex.pdf", 
+      "original_filename": "SagaRoseAnnex.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Saga Rose", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SagaRoseSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/SagaRoseSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (142.41 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Saga Rose</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">11 June 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation of the fatality on board passenger cruise ship Saga Rose, in Southampton, England. Report No 1/2009. Published 6 January 2009.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SagaRoseReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SagaRoseReport.pdf');\">SagaRoseReport.pdf</a>\r\n (1,115.57 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SagaRoseAnnex.pdf');\" href=\"http://maib.gov.uk/cms_resources/SagaRoseAnnex%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annex</a>\r\n (184.95 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (142.41 kb)\n\n  \nMAIB report on the investigation of the fatality on board passenger cruise ship Saga Rose, in Southampton, England. Report No 1/2009. Published 6 January 2009.\n\n  \n[ASSET_TAG](#ASSET1) (1,115.57 kb) \n\n[ASSET_TAG](#ASSET2) (184.95 kb)\n"
+}

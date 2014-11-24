@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "DanielleReport.pdf\r\n (1,460.13 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "06 June 2006", 
+    "Report name:": "Danielle", 
+    "Summary:": "Report on the investigation of the major injuries sustained by a deckhand on board fv Danielle BM478, 17 miles south-south-east of Falmouth on 6 June 2006. Report no 5/2007. Published 29 March 2007."
+  }, 
+  "date_of_occurrence": "2006-06-06", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/danielle.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/DanielleSynopsis%2Epdf", 
+      "filename": "downloads/3c8e9495169b58ae437a17a9ba986c133ed9afc4/DanielleSynopsis.pdf", 
+      "original_filename": "DanielleSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "DanielleReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/DanielleReport.pdf", 
+      "filename": "downloads/fadd26bf2b529ab1d8312f1aa18219900b39bb26/DanielleReport.pdf", 
+      "original_filename": "DanielleReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/DanielleAnnexes%2Epdf", 
+      "filename": "downloads/80b976c20b088e0d10d2803992a3c95fe5de3dec/DanielleAnnexes.pdf", 
+      "original_filename": "DanielleAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - fv Danielle", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>&#160;</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/DanielleSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/DanielleSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (140.44 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Danielle</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">06 June 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the major injuries sustained by a deckhand on board fv Danielle BM478, 17 miles south-south-east of Falmouth on 6 June 2006. Report no 5/2007. Published 29 March 2007.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/DanielleReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/DanielleReport.pdf');\">DanielleReport.pdf</a>\r\n (1,460.13 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>&#160;</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/DanielleAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/DanielleAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,826.12 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "\u00a0\n\n[ASSET_TAG](#ASSET0) (140.44 kb)\n\n  \nReport on the investigation of the major injuries sustained by a deckhand on board fv Danielle BM478, 17 miles south-south-east of Falmouth on 6 June 2006. Report no 5/2007. Published 29 March 2007.\n\n  \n[ASSET_TAG](#ASSET1) (1,460.13 kb) \n\n\u00a0\n\n[ASSET_TAG](#ASSET2) (2,826.12 kb)\n"
+}

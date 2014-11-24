@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "Download report:": "elm and suzanne.pdf\r\n (505.31 kb)", 
+    "Category:": "Merchant vessels,Fishing vessels", 
+    "Incident date:": "11 February 1999", 
+    "Report name:": "Elm and Suzanne", 
+    "Summary:": "Near miss incident between mv Elm and mfv Suzanne on 11 February 1999"
+  }, 
+  "date_of_occurrence": "1999-02-11", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/elm_and_suzanne.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Elm and Suzanne Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/elm%20and%20suzanne%20synopsis%2Epdf", 
+      "filename": "downloads/b138a6c20a2d735832941230419c930e39dba9f4/elm and suzanne synopsis.pdf", 
+      "original_filename": "elm and suzanne synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "elm and suzanne.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/elm and suzanne.pdf", 
+      "filename": "downloads/1a8e8fa76e773a94f3ffc2da1de62097dd28e0b6/elm and suzanne.pdf", 
+      "original_filename": "elm and suzanne.pdf"
+    }
+  ], 
+  "title": "Investigation report - Elm/Suzanne", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/elm%20and%20suzanne%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Elm and Suzanne Synopsis</a>\r\n (26.08 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Elm and Suzanne</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">11 February 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Near miss incident between mv Elm and mfv Suzanne on 11 February 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/elm%20and%20suzanne.pdf\">elm and suzanne.pdf</a>\r\n (505.31 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (26.08 kb)\n\n  \nNear miss incident between mv Elm and mfv Suzanne on 11 February 1999\n\n  \n[ASSET_TAG](#ASSET1) (505.31 kb) \n"
+}

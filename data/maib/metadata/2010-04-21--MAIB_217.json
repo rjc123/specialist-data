@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "EverExcelReport.pdf\r\n (1,529.02 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "21 April 2010", 
+    "Report name:": "Ever Excel", 
+    "Summary:": "MAIB Report on the investigation into the fatal accident to the chief engineer in the lift shaft on board Ever Excel in Kaohsiung, Taiwan on 21 April 2010. Report No 6/2011. Published 12 May 2011."
+  }, 
+  "date_of_occurrence": "2010-04-21", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/ever_excel.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Ever%5FExcel%5FSynopsis%2Epdf", 
+      "filename": "downloads/e000c1c3dd85b5633c166efac653c1692dbbd77f/Ever_Excel_Synopsis.pdf", 
+      "original_filename": "Ever_Excel_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "EverExcelReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/EverExcelReport.pdf", 
+      "filename": "downloads/e357f8c6f68fe86fb623282e009d99fe81dab431/EverExcelReport.pdf", 
+      "original_filename": "EverExcelReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Ever%5FExcel%5FAnnexes%2Epdf", 
+      "filename": "downloads/19aa1db9c5bfc232f4d24d80f7c34061b6cf0812/Ever_Excel_Annexes.pdf", 
+      "original_filename": "Ever_Excel_Annexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Ever Excel", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Ever_Excel_Synopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/Ever%5FExcel%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (87.19 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Ever Excel</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">21 April 2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation into the fatal accident to the chief engineer in the lift shaft on board <span>Ever Excel</span> in Kaohsiung, Taiwan on 21 April 2010. Report No 6/2011. Published 12 May 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/EverExcelReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/EverExcelReport.pdf');\">EverExcelReport.pdf</a>\r\n (1,529.02 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Ever_Excel_Annexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/Ever%5FExcel%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,640.06 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (87.19 kb)\n\n  \nMAIB Report on the investigation into the fatal accident to the chief engineer in the lift shaft on board Ever Excel in Kaohsiung, Taiwan on 21 April 2010. Report No 6/2011. Published 12 May 2011.\n\n  \n[ASSET_TAG](#ASSET1) (1,529.02 kb) \n\n[ASSET_TAG](#ASSET2) (2,640.06 kb)\n"
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "TSRoyalistReport.pdf\r\n (890.33 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "05 April 2009", 
+    "Report name:": "TS Royalist", 
+    "Summary:": "Report on the investigation of the grounding of the sail training vessel TS Royalist, near Chapman\u2019s Pool off the south coast of the UK on 5 April 2009. Report No 26/2009. Published 11 December 2009."
+  }, 
+  "date_of_occurrence": "2009-04-05", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/ts_royalist.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/TSRoyalistSynopsis%2Epdf", 
+      "filename": "downloads/81f696c3313c43461dc5438093cc26ccf2877ee0/TSRoyalistSynopsis.pdf", 
+      "original_filename": "TSRoyalistSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "TSRoyalistReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/TSRoyalistReport.pdf", 
+      "filename": "downloads/95c6a28197af06531269580fe85097368d094234/TSRoyalistReport.pdf", 
+      "original_filename": "TSRoyalistReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/TSRoyalistAnnexes%2Epdf", 
+      "filename": "downloads/4eee5fd3ff51c19f4739f284c98c6d8f207c4c79/TSRoyalistAnnexes.pdf", 
+      "original_filename": "TSRoyalistAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - TS RoyalistQ", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/TSRoyalistSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/TSRoyalistSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (152.53 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">TS Royalist</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">05 April 2009</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the grounding of the sail training vessel TS Royalist, near Chapman&#8217;s Pool off the south coast of the UK on 5 April 2009. Report No 26/2009. Published 11 December 2009. </span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/TSRoyalistReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/TSRoyalistReport.pdf');\">TSRoyalistReport.pdf</a>\r\n (890.33 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/TSRoyalistAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/TSRoyalistAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,647.65 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">An Accident Flyer was produced for this incident and can also be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2009/ts_royalist.cfm\">Flyer to sail training vessels</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (152.53 kb)\n\n  \nReport on the investigation of the grounding of the sail training vessel TS Royalist, near Chapman\u2019s Pool off the south coast of the UK on 5 April 2009. Report No 26/2009. Published 11 December 2009. \n\n  \n[ASSET_TAG](#ASSET1) (890.33 kb) \n\n[ASSET_TAG](#ASSET2) (1,647.65 kb)\n\nAn Accident Flyer was produced for this incident and can also be viewed on this website:  \n[Flyer to sail training vessels](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2009/ts_royalist.cfm)\n"
+}

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Isamar_Report.pdf\r\n (328.86 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "17 August 2013", 
+    "Report name:": "Isamar", 
+    "Summary:": "MAIB Simplified Report on the investigation of the grounding of the pleasure vessel Isamar off Grand \u00e9cueil d'Olmeto, Corsica on 17 August 2013. Report No 9/2014. Published 9 April 2014."
+  }, 
+  "date_of_occurrence": "2013-08-17", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2014/isamar.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Isamar_Report.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Isamar_Report.pdf", 
+      "filename": "downloads/5fc478217c66f2ec5179918df3ab2c5060dd7341/Isamar_Report.pdf", 
+      "original_filename": "Isamar_Report.pdf"
+    }, 
+    {
+      "content_type": "image/jpeg", 
+      "title": "Isamar", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Isamar_webimage.jpg", 
+      "filename": "downloads/0ad6999902aea36fd1262af4a70a17d529892f90/Isamar_webimage.jpg", 
+      "original_filename": "Isamar_webimage.jpg"
+    }
+  ], 
+  "title": "Accident Investigation Report 9/2014", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n\r\n<div id=\"graphicContainer\">\r\n<img align=\"top\" border=\"0\" src=\"http://maib.gov.uk/cms_resources/Isamar_webimage.jpg\" width=\"250\" height=\"141\" alt=\"Isamar\"><br>\r\n<span class=\"siteGraphicCaption\">Isamar</span>\r\n</div>\r\n\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Isamar</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">17 August 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Simplified Report on the investigation of the grounding of the pleasure vessel <span>Isamar</span> off Grand &#233;cueil d'Olmeto, Corsica on 17 August 2013. Report No 9/2014. Published 9 April 2014.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Isamar_Report.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Isamar_Report.pdf');\">Isamar_Report.pdf</a>\r\n (328.86 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "![ASSET_TAG](#ASSET1)  \nIsamar\n\n  \nMAIB Simplified Report on the investigation of the grounding of the pleasure vessel Isamar off Grand \u00e9cueil d'Olmeto, Corsica on 17 August 2013. Report No 9/2014. Published 9 April 2014.\n\n  \n[ASSET_TAG](#ASSET0) (328.86 kb) \n"
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "royal-princess.pdf\r\n (405.80 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "04 August 2001", 
+    "Report name:": "Royal Princess (34/2002)", 
+    "Summary:": "Report on the investigation of an accident which caused major injury to an engineer officer on board Royal Princess in the NE traffic lane, Dover Strait TSS on 4 August 2001"
+  }, 
+  "date_of_occurrence": "2001-08-04", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/royal_princess.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "royal-princess.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/royal-princess.pdf", 
+      "filename": "downloads/3a4afbe68a64f0a2aa5c8e60e90aee9a72e9ba4e/royal-princess.pdf", 
+      "original_filename": "royal-princess.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Royal Princess", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Royal Princess (34/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">04 August 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of an accident which caused major injury to an engineer officer on board Royal Princess in the NE traffic lane, Dover Strait TSS on 4 August 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/royal-princess.pdf\">royal-princess.pdf</a>\r\n (405.80 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nReport on the investigation of an accident which caused major injury to an engineer officer on board Royal Princess in the NE traffic lane, Dover Strait TSS on 4 August 2001\n\n  \n[ASSET_TAG](#ASSET0) (405.80 kb) \n"
+}

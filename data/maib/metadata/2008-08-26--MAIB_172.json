@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "CelticPioneerReport.pdf\r\n (921.22 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "26 August 2008", 
+    "Report name:": "Celtic Pioneer", 
+    "Summary:": "MAIB Report on the investigation of an injury to a passenger on board the RIB Celtic Pioneer, in the Bristol Channel on 26 August 2008. Report No 11/2009. Published 21 May 2009."
+  }, 
+  "date_of_occurrence": "2008-08-26", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/celtic_pioneer.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/CelticPioneerSynopsis%2Epdf", 
+      "filename": "downloads/d7403306828b1958ca562cc3b5982f7892ce5b10/CelticPioneerSynopsis.pdf", 
+      "original_filename": "CelticPioneerSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "CelticPioneerReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/CelticPioneerReport.pdf", 
+      "filename": "downloads/3579b55f28d8cbe4cc2c73ac0c4181494509c8f2/CelticPioneerReport.pdf", 
+      "original_filename": "CelticPioneerReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/CelticPioneerAnnexes%2Epdf", 
+      "filename": "downloads/734ee1734fe7ca74034e67ab1f6a8f724a6640cf/CelticPioneerAnnexes.pdf", 
+      "original_filename": "CelticPioneerAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Celtic Pioneer", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CelticPioneerSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/CelticPioneerSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (88.45 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Celtic Pioneer</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">26 August 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of an injury to a passenger on board the RIB Celtic Pioneer, in the Bristol Channel on 26 August 2008. Report No 11/2009. Published 21 May 2009.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/CelticPioneerReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CelticPioneerReport.pdf');\">CelticPioneerReport.pdf</a>\r\n (921.22 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>Annexes 11/2009</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CelticPioneerAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/CelticPioneerAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,550.65 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (88.45 kb)\n\n  \nMAIB Report on the investigation of an injury to a passenger on board the RIB Celtic Pioneer, in the Bristol Channel on 26 August 2008. Report No 11/2009. Published 21 May 2009.\n\n  \n[ASSET_TAG](#ASSET1) (921.22 kb) \n\nAnnexes 11/2009\n\n[ASSET_TAG](#ASSET2) (1,550.65 kb)\n"
+}

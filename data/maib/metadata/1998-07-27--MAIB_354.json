@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "PrideofLeHavre_98.pdf\r\n (3,240.97 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "27 July 1998", 
+    "Report name:": "Pride of Le Havre", 
+    "Summary:": "Report of an investigation into a switchboard explosion on m.v Pride of Le Havre on 27 July 1998 off the Port of Le Havre, France"
+  }, 
+  "date_of_occurrence": "1998-07-27", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/pride_of_le_havre___switchboard_explosion.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Pride of le Havre Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/pride%20of%20le%20havre%2027%20july%2098%20synopsis%2Epdf", 
+      "filename": "downloads/d6a846e534916286badc3f0b41f4609d6068d6d3/pride of le havre 27 july 98 synopsis.pdf", 
+      "original_filename": "pride of le havre 27 july 98 synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "PrideofLeHavre_98.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/PrideofLeHavre_98.pdf", 
+      "filename": "downloads/a64dd63fb6e717aed4a2a2049b19a9bc6cf60b28/PrideofLeHavre_98.pdf", 
+      "original_filename": "PrideofLeHavre_98.pdf"
+    }
+  ], 
+  "title": "Investigation report - Pride of Le Havre - switchboard explosion", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/pride of le havre 27 july 98 synopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/pride%20of%20le%20havre%2027%20july%2098%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Pride of le Havre Synopsis</a>\r\n (61.85 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Pride of Le Havre </span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">27 July 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of an investigation into a switchboard explosion on m.v Pride of Le Havre on 27 July 1998 off the Port of Le Havre, France</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/PrideofLeHavre_98.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/PrideofLeHavre_98.pdf');\">PrideofLeHavre_98.pdf</a>\r\n (3,240.97 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (61.85 kb)\n\n  \nReport of an investigation into a switchboard explosion on m.v Pride of Le Havre on 27 July 1998 off the Port of Le Havre, France\n\n  \n[ASSET_TAG](#ASSET1) (3,240.97 kb) \n"
+}

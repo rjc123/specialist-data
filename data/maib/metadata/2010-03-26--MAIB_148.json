@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "BenMyChreeReport.pdf\r\n (1,562.31 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "26 March 2010", 
+    "Report name:": "Ben-My-Chree", 
+    "Summary:": "MAIB report on the investigation into the unintended movement of the ro-ro passenger vessel Ben-My-Chree during loading operations at Heysham on 26 March 2010. Report No 17/2010. Published 21 December 2010."
+  }, 
+  "date_of_occurrence": "2010-03-26", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2010/ben_my_chree.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/BenMyChreeSynopsis%2Epdf", 
+      "filename": "downloads/f6cb124a4032586724d6681a0b20b8d356384adb/BenMyChreeSynopsis.pdf", 
+      "original_filename": "BenMyChreeSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "BenMyChreeReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/BenMyChreeReport.pdf", 
+      "filename": "downloads/f089d8f833fd2b235835953005754f2af9828913/BenMyChreeReport.pdf", 
+      "original_filename": "BenMyChreeReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/BenMyChreeAnnexes%2Epdf", 
+      "filename": "downloads/607d53b968d372f70051dd9f4743be7b9afd0d12/BenMyChreeAnnexes.pdf", 
+      "original_filename": "BenMyChreeAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Ben-My-Chree", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>Synopsis 17/2010</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/BenMyChreeSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/BenMyChreeSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (114.26 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Ben-My-Chree</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">26 March 2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation into the unintended movement of the ro-ro passenger vessel Ben-My-Chree during loading operations at Heysham on 26 March 2010. Report No 17/2010. Published 21 December 2010.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/BenMyChreeReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/BenMyChreeReport.pdf');\">BenMyChreeReport.pdf</a>\r\n (1,562.31 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>Annexes 17/2010</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/BenMyChreeAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/BenMyChreeAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,180.96 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">A flyer was produced for this incident and can also be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2010/ben_my_chree.cfm\">Flyer to the Shipping Industry</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "Synopsis 17/2010\n\n[ASSET_TAG](#ASSET0) (114.26 kb)\n\n  \nMAIB report on the investigation into the unintended movement of the ro-ro passenger vessel Ben-My-Chree during loading operations at Heysham on 26 March 2010. Report No 17/2010. Published 21 December 2010.\n\n  \n[ASSET_TAG](#ASSET1) (1,562.31 kb) \n\nAnnexes 17/2010\n\n[ASSET_TAG](#ASSET2) (2,180.96 kb)\n\nA flyer was produced for this incident and can also be viewed on this website:  \n[Flyer to the Shipping Industry](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2010/ben_my_chree.cfm)\n"
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "Lerrix.pdf\r\n (826.22 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "10 October 2005", 
+    "Report name:": "Lerrix", 
+    "Summary:": "Report on the investigation into the grounding of MV Lerrix off the Darss peninsular, Baltic Sea, Germany on 10 October 2005. Report 14/2006."
+  }, 
+  "date_of_occurrence": "2005-10-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/lerrix.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Lerrix%5FSynopsis%2Epdf", 
+      "filename": "downloads/b3e822ad267330cd88a14a4d4f25d0ca47ebead1/Lerrix_Synopsis.pdf", 
+      "original_filename": "Lerrix_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Lerrix.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Lerrix.pdf", 
+      "filename": "downloads/81001db77d659e3d2b8418bbc8fe4e42207831db/Lerrix.pdf", 
+      "original_filename": "Lerrix.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Lerrix%5FAnnexes%2Epdf", 
+      "filename": "downloads/88e2373dc8188ae145d160ce472cbdd197b8978f/Lerrix_Annexes.pdf", 
+      "original_filename": "Lerrix_Annexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Lerrix", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Lerrix%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (21.16 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Lerrix</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 October 2005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation into the grounding of MV Lerrix off the Darss peninsular, Baltic Sea, Germany on 10 October 2005. Report 14/2006.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Lerrix.pdf\">Lerrix.pdf</a>\r\n (826.22 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Lerrix%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,479.79 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (21.16 kb)\n\n  \nReport on the investigation into the grounding of MV Lerrix off the Darss peninsular, Baltic Sea, Germany on 10 October 2005. Report 14/2006.\n\n  \n[ASSET_TAG](#ASSET1) (826.22 kb) \n\n[ASSET_TAG](#ASSET2) (1,479.79 kb)\n"
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "SB1_2000.pdf\r\n (2,941.81 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "11 January 2000", 
+    "Report name:": "MAIB Safety Bulletin 1/2000 Solway Harvester", 
+    "Summary:": "Foundering 11 miles to the east of the Isle of Man of fv Solway Harvester with the loss of seven lives on 11 January 2000. Issued February 2000."
+  }, 
+  "date_of_occurrence": "2000-01-11", 
+  "original_url": "http://maib.gov.uk/publications/safety_bulletins/safety_bulletins_2000/safety_bulletin_1_2000.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "SB1_2000.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SB1_2000.pdf", 
+      "filename": "downloads/ac619b013d29b7c8329cd205ab382d6a3069895f/SB1_2000.pdf", 
+      "original_filename": "SB1_2000.pdf"
+    }
+  ], 
+  "title": "Safety Bulletin 1/2000", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Safety Bulletin 1/2000 Solway Harvester</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">11 January 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Foundering 11 miles to the east of the Isle of Man of fv Solway Harvester with the loss of seven lives on 11 January 2000. Issued February 2000.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SB1_2000.pdf\">SB1_2000.pdf</a>\r\n (2,941.81 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"internalLinkContainer\">\r\n<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/investigation_reports/2006/solway_harvester.cfm\">Solway Harvester  - Full investigation report</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "safety-bulletin", 
+  "body": "  \nFoundering 11 miles to the east of the Isle of Man of fv Solway Harvester with the loss of seven lives on 11 January 2000. Issued February 2000.\n\n  \n[ASSET_TAG](#ASSET0) (2,941.81 kb) \n\n  \n[Solway Harvester - Full investigation report](http://maib.gov.uk/publications/investigation_reports/2006/solway_harvester.cfm)\n"
+}

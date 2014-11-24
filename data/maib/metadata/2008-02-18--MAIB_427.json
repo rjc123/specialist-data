@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "SeaMithrilReport.pdf\r\n (1,023.60 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "18 February 2008", 
+    "Report name:": "Sea Mithril", 
+    "Summary:": "MAIB Report on the investigation of the grounding of the cargo vessel Sea Mithril on the River Trent. Report No 16/2008. Published on 26 September 2008."
+  }, 
+  "date_of_occurrence": "2008-02-18", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2008/sea_mithril.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SeaMithrilSynopsis%2Epdf", 
+      "filename": "downloads/8df96cc05c29d73f7c0edee740d3d33b2b19af81/SeaMithrilSynopsis.pdf", 
+      "original_filename": "SeaMithrilSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "SeaMithrilReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/SeaMithrilReport.pdf", 
+      "filename": "downloads/4192787c1b10b66e8db4f574ac44fdce3bd5965f/SeaMithrilReport.pdf", 
+      "original_filename": "SeaMithrilReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/SeaMithrilAnnexes%2Epdf", 
+      "filename": "downloads/501c047ce1504b7b7e78397889ba11697476e7d9/SeaMithrilAnnexes.pdf", 
+      "original_filename": "SeaMithrilAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Sea Mithril", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SeaMithrilSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/SeaMithrilSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (193.89 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Sea Mithril</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">18 February 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the grounding of the cargo vessel Sea Mithril on the River Trent. Report No 16/2008. Published on 26 September 2008.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SeaMithrilReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SeaMithrilReport.pdf');\">SeaMithrilReport.pdf</a>\r\n (1,023.60 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SeaMithrilAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/SeaMithrilAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,055.42 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">An accident flyer was produced for this incident and can also be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2008/sea_mithril.cfm\">Flyer to the shipping industry</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (193.89 kb)\n\n  \nMAIB Report on the investigation of the grounding of the cargo vessel Sea Mithril on the River Trent. Report No 16/2008. Published on 26 September 2008.\n\n  \n[ASSET_TAG](#ASSET1) (1,023.60 kb) \n\n[ASSET_TAG](#ASSET2) (1,055.42 kb)\n\nAn accident flyer was produced for this incident and can also be viewed on this website:  \n[Flyer to the shipping industry](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2008/sea_mithril.cfm)\n"
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "Rema.pdf\r\n (3,264.19 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "25 April 1998", 
+    "Report name:": "Rema", 
+    "Summary:": "Report of the Inspector's Inquiry into the loss of mv Rema with the loss of four lives on 25 April 1998 about 22 miles north-east of Whitby, North Yorkshire"
+  }, 
+  "date_of_occurrence": "1998-04-25", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/rema.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Rema%20synopsis%2Epdf", 
+      "filename": "downloads/ac450314390c5d392d2046fe9a34bf27aa06a6bc/Rema synopsis.pdf", 
+      "original_filename": "Rema synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Rema%20annexes%2Epdf", 
+      "filename": "downloads/c7e5d1d6648755f2b0d281382387784de77b560a/Rema annexes.pdf", 
+      "original_filename": "Rema annexes.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Rema.pdf", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Rema.pdf", 
+      "filename": "downloads/a1370c4ac8df48f4847f6350ba4f4ad1ecfad050/Rema.pdf", 
+      "original_filename": "Rema.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Rema", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Rema%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (81.79 kb)</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Rema%20annexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (0 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Rema</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">25 April 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the Inspector's Inquiry into the loss of mv Rema with the loss of four lives on 25 April 1998 about 22 miles north-east of Whitby, North Yorkshire</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Rema.pdf\">Rema.pdf</a>\r\n (3,264.19 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (81.79 kb)\n\n[ASSET_TAG](#ASSET1) (0 kb)\n\n  \nReport of the Inspector's Inquiry into the loss of mv Rema with the loss of four lives on 25 April 1998 about 22 miles north-east of Whitby, North Yorkshire\n\n  \n[ASSET_TAG](#ASSET2) (3,264.19 kb) \n"
+}

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Lord Nelson.pdf\r\n (367.26 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "15 May 2004", 
+    "Report name:": "Lord Nelson", 
+    "Summary:": "Sail Training Vessel made contact with Tower Bridge, on the River Thames, London, 15 May 2004.\r\r\nReport No: 14/2004. Published: 27 October 2004."
+  }, 
+  "date_of_occurrence": "2004-05-15", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2004/lord_nelson.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Lord Nelson Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Lord%20Nelson%20synopsis%2Epdf", 
+      "filename": "downloads/454e433a93fc2b8c4e23f707c260dec5d325dfbc/Lord Nelson synopsis.pdf", 
+      "original_filename": "Lord Nelson synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Lord Nelson.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Lord Nelson.pdf", 
+      "filename": "downloads/1e4de30116703495fc8e533f5f0d4387e6174a52/Lord Nelson.pdf", 
+      "original_filename": "Lord Nelson.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Lord Nelson", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Lord%20Nelson%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Lord Nelson Synopsis</a>\r\n (8.79 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Lord Nelson </span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">15 May 2004</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Sail Training Vessel made contact with Tower Bridge, on the River Thames, London, 15 May 2004.<br>\r\r\nReport No: 14/2004. Published: 27 October 2004. \r\r\n</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Lord%20Nelson.pdf\">Lord Nelson.pdf</a>\r\n (367.26 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (8.79 kb)\n\n  \nSail Training Vessel made contact with Tower Bridge, on the River Thames, London, 15 May 2004.  \nReport No: 14/2004. Published: 27 October 2004. \n\n  \n[ASSET_TAG](#ASSET1) (367.26 kb) \n"
+}

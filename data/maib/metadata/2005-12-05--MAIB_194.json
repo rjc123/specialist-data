@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "Dieppe.pdf\r\n (1,012.60 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "05 December 2005", 
+    "Report name:": "Dieppe", 
+    "Summary:": "Report on the investigation into the grounding of ro-ro passenger ferry Dieppe on the approaches to Newhaven, 5 December 2005.\r\r\nPublished 17/07/06"
+  }, 
+  "date_of_occurrence": "2005-12-05", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/dieppe.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Dieppe%5FSynopsis%2Epdf", 
+      "filename": "downloads/035dc6d7299950eeb619932db3ce896f3f93c60d/Dieppe_Synopsis.pdf", 
+      "original_filename": "Dieppe_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Dieppe.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Dieppe.pdf", 
+      "filename": "downloads/9048d8abad4e416571173735246d5ef59393451d/Dieppe.pdf", 
+      "original_filename": "Dieppe.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Dieppe%5FAnnex%2Epdf", 
+      "filename": "downloads/fbb150498b193cf7222e7553532ca4121606401b/Dieppe_Annex.pdf", 
+      "original_filename": "Dieppe_Annex.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Dieppe", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Dieppe%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (135.74 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Dieppe</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">05 December 2005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation into the grounding of ro-ro passenger ferry Dieppe on the approaches to Newhaven, 5 December 2005.\r\r\nPublished 17/07/06</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Dieppe.pdf\">Dieppe.pdf</a>\r\n (1,012.60 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Dieppe%5FAnnex%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,068.51 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (135.74 kb)\n\n  \nReport on the investigation into the grounding of ro-ro passenger ferry Dieppe on the approaches to Newhaven, 5 December 2005. Published 17/07/06\n\n  \n[ASSET_TAG](#ASSET1) (1,012.60 kb) \n\n[ASSET_TAG](#ASSET2) (1,068.51 kb)\n"
+}

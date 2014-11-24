@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "Download report:": "annandale.pdf\r\n (739.66 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "23 March 2000", 
+    "Report name:": "Annandale (05/2001)"
+  }, 
+  "date_of_occurrence": "2000-03-23", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/annandale.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "annandale.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/annandale.pdf", 
+      "filename": "downloads/bb7f2f995e23d37160e81c8bd8218a97c1725166/annandale.pdf", 
+      "original_filename": "annandale.pdf"
+    }
+  ], 
+  "title": "Annandale", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Annandale (05/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">23 March 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/annandale.pdf\">annandale.pdf</a>\r\n (739.66 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \n[ASSET_TAG](#ASSET0) (739.66 kb) \n"
+}

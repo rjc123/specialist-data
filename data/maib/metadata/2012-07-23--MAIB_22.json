@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "BettyG.pdf\r\n (411.48 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "23 July 2012", 
+    "Report name:": "Betty G", 
+    "Summary:": "MAIB Report on the investigation of the capsize of FV Betty G while beam trawling in Lyme Bay on 23 July 2012. Report No 6/2013. Published 7 February 2013."
+  }, 
+  "date_of_occurrence": "2012-07-23", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2013/betty_g.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "BettyG.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/BettyG.pdf", 
+      "filename": "downloads/97b1ab33b8df4c6f09517f3976ab245727262388/BettyG.pdf", 
+      "original_filename": "BettyG.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 6/2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Betty G</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">23 July 2012</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the capsize of FV <span>Betty G</span> while beam trawling in Lyme Bay on 23 July 2012. Report No 6/2013. Published 7 February 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/BettyG.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/BettyG.pdf');\">BettyG.pdf</a>\r\n (411.48 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the capsize of FV Betty G while beam trawling in Lyme Bay on 23 July 2012. Report No 6/2013. Published 7 February 2013.\n\n  \n[ASSET_TAG](#ASSET0) (411.48 kb) \n"
+}

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "fraoch ban.pdf\r\n (713.73 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "15 August 1999", 
+    "Report name:": "Fraoch Ban (12a/2000)", 
+    "Summary:": "Report on the investigation of the capsize of the fishing vessel Fraoch Ban off the coast of the Shetland Islands on 15 August 1999"
+  }, 
+  "date_of_occurrence": "1999-08-15", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/fraoch_ban.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Fraoch Ban - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/fraoch%20ban%20synopsis%2Epdf", 
+      "filename": "downloads/6b79a9103fcb2ce2059f0888c438e3c61a5ff6c7/fraoch ban synopsis.pdf", 
+      "original_filename": "fraoch ban synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "fraoch ban.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/fraoch ban.pdf", 
+      "filename": "downloads/6e148895771ee103c6faf843de9bc1d93f7f8d68/fraoch ban.pdf", 
+      "original_filename": "fraoch ban.pdf"
+    }
+  ], 
+  "title": "Investigation reports - Fraoch Ban", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/fraoch%20ban%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Fraoch Ban - Synopsis</a>\r\n (35.84 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fraoch Ban (12a/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">15 August 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the capsize of the fishing vessel Fraoch Ban off the coast of the Shetland Islands on 15 August 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/fraoch%20ban.pdf\">fraoch ban.pdf</a>\r\n (713.73 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (35.84 kb)\n\n  \nReport on the investigation of the capsize of the fishing vessel Fraoch Ban off the coast of the Shetland Islands on 15 August 1999\n\n  \n[ASSET_TAG](#ASSET1) (713.73 kb) \n"
+}

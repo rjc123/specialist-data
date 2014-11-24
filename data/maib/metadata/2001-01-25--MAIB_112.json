@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "Download report:": "almac.pdf\r\n (250.17 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "25 January 2001", 
+    "Report name:": "Alma C (N54) (33/2001)"
+  }, 
+  "date_of_occurrence": "2001-01-25", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/alma_c__n54_.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Alma C synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/almac%20synopsis%2Epdf", 
+      "filename": "downloads/b271d20ffcbee37c6e8314b73c292bc70576c62c/almac synopsis.pdf", 
+      "original_filename": "almac synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "almac.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/almac.pdf", 
+      "filename": "downloads/a28cf4e2b1bf601e7768f6bc7359eb7635f16a69/almac.pdf", 
+      "original_filename": "almac.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Alma C (N54)", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/almac%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Alma C synopsis</a>\r\n (218.12 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Alma C (N54) (33/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">25 January 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/almac.pdf\">almac.pdf</a>\r\n (250.17 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (218.12 kb)\n\n  \n[ASSET_TAG](#ASSET1) (250.17 kb) \n"
+}

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "multitank ascania.pdf\r\n (2,825.19 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "19 March 1999", 
+    "Report name:": "Multitank Ascania (22/2000)", 
+    "Summary:": "Report of the investigation of the fire on board Multitank Ascania in the Pentland Firth on 19 March 1999"
+  }, 
+  "date_of_occurrence": "1999-03-19", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/multitank_ascania.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Multitank Ascania - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/multitank%20ascania%20synopsis%2Epdf", 
+      "filename": "downloads/773f0f3d800bdb08afba444ac2c382329330ef9f/multitank ascania synopsis.pdf", 
+      "original_filename": "multitank ascania synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "multitank ascania.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/multitank ascania.pdf", 
+      "filename": "downloads/9b591436de42064ed2a52ad263bd486b533c176a/multitank ascania.pdf", 
+      "original_filename": "multitank ascania.pdf"
+    }
+  ], 
+  "title": "Investigation report - Multitank Ascania", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/multitank%20ascania%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Multitank Ascania - Synopsis</a>\r\n (80.16 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Multitank Ascania (22/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">19 March 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation of the fire on board Multitank Ascania in the Pentland Firth on 19 March 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/multitank%20ascania.pdf\">multitank ascania.pdf</a>\r\n (2,825.19 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (80.16 kb)\n\n  \nReport of the investigation of the fire on board Multitank Ascania in the Pentland Firth on 19 March 1999\n\n  \n[ASSET_TAG](#ASSET1) (2,825.19 kb) \n"
+}

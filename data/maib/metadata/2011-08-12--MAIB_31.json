@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Chiefton.pdf\r\n (5,133.99 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "12 August 2011", 
+    "Report name:": "Chiefton", 
+    "Summary:": "MAIB Report on the investigation of the collision, capsize and foundering of the tug Chiefton with the loss of one crew member, at Greenwich Reach, River Thames on 12 August 2011. Report No 12/2012. Published 23 May 2012."
+  }, 
+  "date_of_occurrence": "2011-08-12", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/chiefton.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Chiefton.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Chiefton.pdf", 
+      "filename": "downloads/c9e92078eb985d8b7dabf67a687946737dec5b4e/Chiefton.pdf", 
+      "original_filename": "Chiefton.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/ChieftonAnnexes%2Epdf", 
+      "filename": "downloads/bc9f438702ae59dabeac97deb5e83cf6d74a34cb/ChieftonAnnexes.pdf", 
+      "original_filename": "ChieftonAnnexes.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 12/2012", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Chiefton</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">12 August 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the collision, capsize and foundering of the tug <span>Chiefton</span> with the loss of one crew member, at Greenwich Reach, River Thames on 12 August 2011. Report No 12/2012. Published 23 May 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Chiefton.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Chiefton.pdf');\">Chiefton.pdf</a>\r\n (5,133.99 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>Annexes 12/2012</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ChieftonAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/ChieftonAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,644.16 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">A Safety Flyer was also produced for this incident and can be viewed on our website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2012/chiefton.cfm\">Safety Flyer</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the collision, capsize and foundering of the tug Chiefton with the loss of one crew member, at Greenwich Reach, River Thames on 12 August 2011. Report No 12/2012. Published 23 May 2012.\n\n  \n[ASSET_TAG](#ASSET0) (5,133.99 kb) \n\nAnnexes 12/2012\n\n[ASSET_TAG](#ASSET1) (2,644.16 kb)\n\nA Safety Flyer was also produced for this incident and can be viewed on our website:  \n[Safety Flyer](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2012/chiefton.cfm)\n"
+}

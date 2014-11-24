@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "ProsperoReport.pdf\r\n (2,698.14 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "10 December 2006", 
+    "Report name:": "Prospero", 
+    "Summary:": "Report on the investigation of the loss of control of the product tanker Prospero and her subsequent heavy contact with a jetty at the SemLogistics terminal, Milford on 10 December 2006. Report no 24/2007. Published 21 December 2007."
+  }, 
+  "date_of_occurrence": "2006-12-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/prospero.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/ProsperoSynopsis%2Epdf", 
+      "filename": "downloads/bc297c472d7b8e3ae785340b0189895ad655bb7d/ProsperoSynopsis.pdf", 
+      "original_filename": "ProsperoSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "ProsperoReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/ProsperoReport.pdf", 
+      "filename": "downloads/698b2f0fdd649679eb58bf04b7b6e1922591f00e/ProsperoReport.pdf", 
+      "original_filename": "ProsperoReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/ProsperoAnnexes%2Epdf", 
+      "filename": "downloads/ab164fcd6e2cd450c8f0133711f7719ddd2a71fb/ProsperoAnnexes.pdf", 
+      "original_filename": "ProsperoAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Prospero", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ProsperoSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/ProsperoSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (145.76 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Prospero</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 December 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the loss of control of the product tanker Prospero and her subsequent heavy contact with a jetty at the SemLogistics terminal, Milford on 10 December 2006. Report no 24/2007. Published 21 December 2007.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/ProsperoReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ProsperoReport.pdf');\">ProsperoReport.pdf</a>\r\n (2,698.14 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ProsperoAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/ProsperoAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,752.50 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (145.76 kb)\n\n  \nReport on the investigation of the loss of control of the product tanker Prospero and her subsequent heavy contact with a jetty at the SemLogistics terminal, Milford on 10 December 2006. Report no 24/2007. Published 21 December 2007.\n\n  \n[ASSET_TAG](#ASSET1) (2,698.14 kb) \n\n[ASSET_TAG](#ASSET2) (1,752.50 kb)\n"
+}

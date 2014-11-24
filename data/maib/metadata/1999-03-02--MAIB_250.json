@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "hoorobin and arklow marsh.pdf\r\n (884.68 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "02 March 1999", 
+    "Report name:": "Hoo Robin/Arklow Marsh (8/2000)", 
+    "Summary:": "Report on the investigation into the collision between the UK registered cargo vessel Hoo Robin and the Republic of Ireland registered cargo vessel Arklow Marsh on the River Trent on 2 March 1999"
+  }, 
+  "date_of_occurrence": "1999-03-02", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/hoo_robin_arklow_marsh.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/hoorobin%20and%20arklow%20marsh%20synopsis%2Epdf", 
+      "filename": "downloads/099db9b46fdb7c17033d9e2c5e687f684ba18b7e/hoorobin and arklow marsh synopsis.pdf", 
+      "original_filename": "hoorobin and arklow marsh synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "hoorobin and arklow marsh.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/hoorobin and arklow marsh.pdf", 
+      "filename": "downloads/f3f20dfd52852ff54ab0ac3fcbb8239263df6354/hoorobin and arklow marsh.pdf", 
+      "original_filename": "hoorobin and arklow marsh.pdf"
+    }
+  ], 
+  "title": "Investigation report - Hoo Robin/Arklow Marsh", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/hoorobin%20and%20arklow%20marsh%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (40.65 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Hoo Robin/Arklow Marsh (8/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">02 March 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation into the collision between the UK registered cargo vessel Hoo Robin and the Republic of Ireland registered cargo vessel Arklow Marsh on the River Trent on 2 March 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/hoorobin%20and%20arklow%20marsh.pdf\">hoorobin and arklow marsh.pdf</a>\r\n (884.68 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (40.65 kb)\n\n  \nReport on the investigation into the collision between the UK registered cargo vessel Hoo Robin and the Republic of Ireland registered cargo vessel Arklow Marsh on the River Trent on 2 March 1999\n\n  \n[ASSET_TAG](#ASSET1) (884.68 kb) \n"
+}

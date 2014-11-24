@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "MaerskDoverReport.pdf\r\n (1,843.52 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "17 October 2006", 
+    "Report name:": "Maersk Dover", 
+    "Summary:": "Report on the investigation of \r\r\nthe close-quarters situation between the ro-ro passenger ferry Maersk Dover, the tanker \r\r\nApollonia and the container vessel Maersk Vancouver in the Dover Strait on 17 October 2006. Report No 9/2007. Published 17 May 2007."
+  }, 
+  "date_of_occurrence": "2006-10-17", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/maersk_dover_apollonia_maersk_vancouver.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaerskDoverSynopsis%2Epdf", 
+      "filename": "downloads/eb36b69c3d476fa1588cd2174daf7e1c291dbc96/MaerskDoverSynopsis.pdf", 
+      "original_filename": "MaerskDoverSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "MaerskDoverReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaerskDoverReport.pdf", 
+      "filename": "downloads/8075febd89689af6cfae87740f61cf8514cf3e82/MaerskDoverReport.pdf", 
+      "original_filename": "MaerskDoverReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaerskDoverAnnexes%2Epdf", 
+      "filename": "downloads/17c14660816709812a8af565236f11af2eaca5c8/MaerskDoverAnnexes.pdf", 
+      "original_filename": "MaerskDoverAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation report - Maersk Dover/Apollonia/Maersk Vancouver", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>The full investigation report has been split into sections; Synopsis, Full Report and Annexes . This is to make downloading easier.</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaerskDoverSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/MaerskDoverSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (124.45 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Maersk Dover</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">17 October 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of \r\r\nthe close-quarters situation between the ro-ro passenger ferry Maersk Dover, the tanker \r\r\nApollonia and the container vessel Maersk Vancouver in the Dover Strait on 17 October 2006. Report No 9/2007. Published 17 May 2007.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/MaerskDoverReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaerskDoverReport.pdf');\">MaerskDoverReport.pdf</a>\r\n (1,843.52 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaerskDoverAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/MaerskDoverAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,529.81 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "The full investigation report has been split into sections; Synopsis, Full Report and Annexes . This is to make downloading easier.\n\n[ASSET_TAG](#ASSET0) (124.45 kb)\n\n  \nReport on the investigation of the close-quarters situation between the ro-ro passenger ferry Maersk Dover, the tanker Apollonia and the container vessel Maersk Vancouver in the Dover Strait on 17 October 2006. Report No 9/2007. Published 17 May 2007.\n\n  \n[ASSET_TAG](#ASSET1) (1,843.52 kb) \n\n[ASSET_TAG](#ASSET2) (1,529.81 kb)\n"
+}

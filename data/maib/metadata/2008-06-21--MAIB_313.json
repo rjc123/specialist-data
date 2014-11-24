@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "NormaReport.pdf\r\n (825.83 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "21 June 2008", 
+    "Report name:": "Norma", 
+    "Summary:": "MAIB Report on the investigation of the hazardous diving incident involving MV Norma in the Dover Strait on 21 June 2008. Report No 3/2009. Published 21 January 2009."
+  }, 
+  "date_of_occurrence": "2008-06-21", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/mv_norma.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/NormaSynopsis%2Epdf", 
+      "filename": "downloads/d93949d334e470ea78bdbd9e4d8683c50368b45f/NormaSynopsis.pdf", 
+      "original_filename": "NormaSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "NormaReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/NormaReport.pdf", 
+      "filename": "downloads/4696dd84f9e53447decb61d6577244ffab4a8719/NormaReport.pdf", 
+      "original_filename": "NormaReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/NormaAnnexes%2Epdf", 
+      "filename": "downloads/d701cf52437e111dac35d510021c481e79465cc0/NormaAnnexes.pdf", 
+      "original_filename": "NormaAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - MV Norma", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/NormaSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/NormaSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (130.29 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Norma</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">21 June 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the hazardous diving incident involving MV Norma in the Dover Strait on 21 June 2008. Report No 3/2009. Published 21 January 2009.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/NormaReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/NormaReport.pdf');\">NormaReport.pdf</a>\r\n (825.83 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/NormaAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/NormaAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (512.23 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">An accident flyer was produced for this incident and can also be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2009/mv_norma.cfm\">Flyer to shipping industry</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (130.29 kb)\n\n  \nMAIB Report on the investigation of the hazardous diving incident involving MV Norma in the Dover Strait on 21 June 2008. Report No 3/2009. Published 21 January 2009.\n\n  \n[ASSET_TAG](#ASSET1) (825.83 kb) \n\n[ASSET_TAG](#ASSET2) (512.23 kb)\n\nAn accident flyer was produced for this incident and can also be viewed on this website:  \n[Flyer to shipping industry](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2009/mv_norma.cfm)\n"
+}

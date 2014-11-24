@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "SB2-11.pdf\r\n (1,451.62 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "07 February 2011", 
+    "Report name:": "Tombarra SB2", 
+    "Summary:": "Malfunction of a proximity switch, which resulted in failure of a fall wire with the loss of one life on the car carrier Tombarra. Issued 12 May 2011."
+  }, 
+  "date_of_occurrence": "2011-02-07", 
+  "original_url": "http://maib.gov.uk/publications/safety_bulletins/safety_bulletins_2011/safety_bulletin_2_2011.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "SB2-11.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SB2-11.pdf", 
+      "filename": "downloads/f0630bd8b2f1495d3182ffb0bc56e1a814954c0f/SB2-11.pdf", 
+      "original_filename": "SB2-11.pdf"
+    }
+  ], 
+  "title": "Safety Bulletin 2/2011", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Tombarra SB2</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">07 February 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Malfunction of a proximity switch, which resulted in failure of a fall wire with the loss of one life on the car carrier Tombarra. Issued 12 May 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SB2-11.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SB2-11.pdf');\">SB2-11.pdf</a>\r\n (1,451.62 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"internalLinkContainer\">An Investigation Report was also produced for this incident and can be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/investigation_reports/2012/tombarra___part_a.cfm\">Read Accident Investigation Report</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "safety-bulletin", 
+  "body": "  \nMalfunction of a proximity switch, which resulted in failure of a fall wire with the loss of one life on the car carrier Tombarra. Issued 12 May 2011.\n\n  \n[ASSET_TAG](#ASSET0) (1,451.62 kb) \n\nAn Investigation Report was also produced for this incident and can be viewed on this website:  \n[Read Accident Investigation Report](http://maib.gov.uk/publications/investigation_reports/2012/tombarra___part_a.cfm)\n"
+}

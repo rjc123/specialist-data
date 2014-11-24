@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "RiverdanceReport.pdf\r\n (1,713.30 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "31 January 2008", 
+    "Report name:": "Riverdance", 
+    "Summary:": "MAIB Report on the investigation into the grounding, and subsequent loss, of the ro-ro cargo vessel Riverdance, on Shell Flats - Cleveleys Beach, Lancashire on 31 January 2008. Report No 18/2009. Published 3rd September 2009."
+  }, 
+  "date_of_occurrence": "2008-01-31", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/riverdance.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/RiverdanceSynopsis%2Epdf", 
+      "filename": "downloads/e474ab3c3cd8b273f44f1490bbdad56bf81e2085/RiverdanceSynopsis.pdf", 
+      "original_filename": "RiverdanceSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "RiverdanceReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/RiverdanceReport.pdf", 
+      "filename": "downloads/7fd5a68465deb6577987775e7eacd924de347b72/RiverdanceReport.pdf", 
+      "original_filename": "RiverdanceReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/RiverdanceAnnexes%2Epdf", 
+      "filename": "downloads/5134373f8cf334e92c085bfc19a5f3ed51663d57/RiverdanceAnnexes.pdf", 
+      "original_filename": "RiverdanceAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Riverdance", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/RiverdanceSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/RiverdanceSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (123.06 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Riverdance</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">31 January 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation into the grounding, and subsequent loss, of the ro-ro cargo vessel Riverdance, on Shell Flats - Cleveleys Beach, Lancashire on 31 January 2008. Report No 18/2009. Published 3rd September 2009.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/RiverdanceReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/RiverdanceReport.pdf');\">RiverdanceReport.pdf</a>\r\n (1,713.30 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/RiverdanceAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/RiverdanceAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,861.71 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">An Accident Flyer was produced for this incident and can also be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2009/riverdance.cfm\">Flyer to the Shipping Industry</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (123.06 kb)\n\n  \nMAIB Report on the investigation into the grounding, and subsequent loss, of the ro-ro cargo vessel Riverdance, on Shell Flats - Cleveleys Beach, Lancashire on 31 January 2008. Report No 18/2009. Published 3rd September 2009.\n\n  \n[ASSET_TAG](#ASSET1) (1,713.30 kb) \n\n[ASSET_TAG](#ASSET2) (2,861.71 kb)\n\nAn Accident Flyer was produced for this incident and can also be viewed on this website:  \n[Flyer to the Shipping Industry](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2009/riverdance.cfm)\n"
+}

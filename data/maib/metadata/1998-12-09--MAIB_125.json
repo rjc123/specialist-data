@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "arcadia.pdf\r\n (376.93 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "09 December 1998", 
+    "Report name:": "Arcadia", 
+    "Summary:": "Report of Investigation into lifeboat winch failure on passenger cruise ship Arcadia on 9 December 1998"
+  }, 
+  "date_of_occurrence": "1998-12-09", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/arcadia.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Arcadia Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/arcadia%20synopsis%2Epdf", 
+      "filename": "downloads/f088fa7d200b389b7caebf9af7f77cb39db18cea/arcadia synopsis.pdf", 
+      "original_filename": "arcadia synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "arcadia.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/arcadia.pdf", 
+      "filename": "downloads/6bcd06a48759474db8f55d8987354dbce71c04aa/arcadia.pdf", 
+      "original_filename": "arcadia.pdf"
+    }
+  ], 
+  "title": "Investigation report - Arcadia", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/arcadia%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Arcadia Synopsis</a>\r\n (25.12 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Arcadia</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">09 December 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of Investigation into lifeboat winch failure on passenger cruise ship Arcadia on 9 December 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/arcadia.pdf\">arcadia.pdf</a>\r\n (376.93 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (25.12 kb)\n\n  \nReport of Investigation into lifeboat winch failure on passenger cruise ship Arcadia on 9 December 1998\n\n  \n[ASSET_TAG](#ASSET1) (376.93 kb) \n"
+}

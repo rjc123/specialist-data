@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "YoungLadyReport.pdf\r\n (1,325.59 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "25 June 2007", 
+    "Report name:": "Young Lady", 
+    "Summary:": "Report on the investigation of Young Lady dragging anchor 5 miles east of Teesport and snagging the CATS gas pipeline, resulting in material damage to the pipe 25 June 2007. Report 3/2008. Published 1 February 2008."
+  }, 
+  "date_of_occurrence": "2007-06-25", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2008/young_lady.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/YoungLadySynopsis%2Epdf", 
+      "filename": "downloads/4b2e8f76822e7c6a569158d296c5100692faa251/YoungLadySynopsis.pdf", 
+      "original_filename": "YoungLadySynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "YoungLadyReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/YoungLadyReport.pdf", 
+      "filename": "downloads/448c425052e1214097e1436d888c93cbbb5b5c30/YoungLadyReport.pdf", 
+      "original_filename": "YoungLadyReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/YoungLadyAnnexes%2Epdf", 
+      "filename": "downloads/44aa5947301f4e96d480188f64d24e9cf37690d6/YoungLadyAnnexes.pdf", 
+      "original_filename": "YoungLadyAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Young Lady", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/YoungLadySynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/YoungLadySynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (152.90 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Young Lady</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">25 June 2007</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of Young Lady dragging anchor 5 miles east of Teesport and snagging the CATS gas pipeline, resulting in material damage to the pipe 25 June 2007. Report 3/2008. Published 1 February 2008.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/YoungLadyReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/YoungLadyReport.pdf');\">YoungLadyReport.pdf</a>\r\n (1,325.59 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/YoungLadyAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/YoungLadyAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,036.30 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (152.90 kb)\n\n  \nReport on the investigation of Young Lady dragging anchor 5 miles east of Teesport and snagging the CATS gas pipeline, resulting in material damage to the pipe 25 June 2007. Report 3/2008. Published 1 February 2008.\n\n  \n[ASSET_TAG](#ASSET1) (1,325.59 kb) \n\n[ASSET_TAG](#ASSET2) (2,036.30 kb)\n"
+}

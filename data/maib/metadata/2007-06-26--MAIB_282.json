@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "LogosIIReport.pdf\r\n (1,341.10 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "26 June 2007", 
+    "Report name:": "Logos II", 
+    "Summary:": "Report on the investigation of two accidents during berthing and unberthing of Logos II St Helier, Jersey on 20 and 26 June 2007. Report no 1/2008. Published 22 January 2008."
+  }, 
+  "date_of_occurrence": "2007-06-26", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2008/logos_ii.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/LogosIISynopsis%2Epdf", 
+      "filename": "downloads/229482031e02a4fc9fcc8161eb09c66f37ef1780/LogosIISynopsis.pdf", 
+      "original_filename": "LogosIISynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "LogosIIReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/LogosIIReport.pdf", 
+      "filename": "downloads/ad863267fd64a7613e42c3efa39036bdae49e7d7/LogosIIReport.pdf", 
+      "original_filename": "LogosIIReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/LogosIIAnnexes%2Epdf", 
+      "filename": "downloads/2c9b12522d619ea3e1f26dc64e4f4d15d432bb5d/LogosIIAnnexes.pdf", 
+      "original_filename": "LogosIIAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Logos II", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/LogosIISynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/LogosIISynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (41.72 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Logos II</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">26 June 2007</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of two accidents during berthing and unberthing of Logos II St Helier, Jersey on 20 and 26 June 2007. Report no 1/2008. Published 22 January 2008.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/LogosIIReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/LogosIIReport.pdf');\">LogosIIReport.pdf</a>\r\n (1,341.10 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/LogosIIAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/LogosIIAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (933.86 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (41.72 kb)\n\n  \nReport on the investigation of two accidents during berthing and unberthing of Logos II St Helier, Jersey on 20 and 26 June 2007. Report no 1/2008. Published 22 January 2008.\n\n  \n[ASSET_TAG](#ASSET1) (1,341.10 kb) \n\n[ASSET_TAG](#ASSET2) (933.86 kb)\n"
+}

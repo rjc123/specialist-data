@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Jambo.pdf\r\n (294.71 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "29 June 2003", 
+    "Report name:": "Jambo (27/2003)", 
+    "Summary:": "Grounding and loss of the Cypriot-registered general cargo ship Jambo off Summer Islands West Coast of Scotland 29 June 2003"
+  }, 
+  "date_of_occurrence": "2003-06-29", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/jambo.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Jambo Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Jambo%20synopsis%2Epdf", 
+      "filename": "downloads/e65970bd4aa38a38dc4e4f63823762c07635af46/Jambo synopsis.pdf", 
+      "original_filename": "Jambo synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Jambo.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Jambo.pdf", 
+      "filename": "downloads/3ab9c4b4203cdd7a1b14c1f0691cb23c39127304/Jambo.pdf", 
+      "original_filename": "Jambo.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Jambo", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Jambo%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Jambo Synopsis</a>\r\n (12.36 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Jambo (27/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">29 June 2003</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Grounding and loss of the Cypriot-registered general cargo ship Jambo off Summer Islands West Coast of Scotland 29 June 2003</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Jambo.pdf\">Jambo.pdf</a>\r\n (294.71 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (12.36 kb)\n\n  \nGrounding and loss of the Cypriot-registered general cargo ship Jambo off Summer Islands West Coast of Scotland 29 June 2003\n\n  \n[ASSET_TAG](#ASSET1) (294.71 kb) \n"
+}

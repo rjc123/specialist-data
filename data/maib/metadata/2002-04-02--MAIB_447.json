@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "stena-gothica.pdf\r\n (1,031.51 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "02 April 2002", 
+    "Report name:": "Stena Gothica (39/2002)", 
+    "Summary:": "Report on the investigation of the collision between the ro-ro ferry Stena Gothica and the eastern approach jetty at Immingham on 2 April 2002"
+  }, 
+  "date_of_occurrence": "2002-04-02", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/stena_gothica.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Stena Gothica synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/stena%2Dgothica%20synopsis%2Epdf", 
+      "filename": "downloads/33c0c5e55b443139aea6447d1cac323b6200e3c6/stena-gothica synopsis.pdf", 
+      "original_filename": "stena-gothica synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "stena-gothica.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/stena-gothica.pdf", 
+      "filename": "downloads/7ba815fdeef1b14f3f96affd8111c855cd41269f/stena-gothica.pdf", 
+      "original_filename": "stena-gothica.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Stena Gothica", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/stena%2Dgothica%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Stena Gothica synopsis</a>\r\n (335.31 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Stena Gothica (39/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">02 April 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the collision between the ro-ro ferry Stena Gothica and the eastern approach jetty at Immingham on 2 April 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/stena-gothica.pdf\">stena-gothica.pdf</a>\r\n (1,031.51 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (335.31 kb)\n\n  \nReport on the investigation of the collision between the ro-ro ferry Stena Gothica and the eastern approach jetty at Immingham on 2 April 2002\n\n  \n[ASSET_TAG](#ASSET1) (1,031.51 kb) \n"
+}

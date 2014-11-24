@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "stena-explorer.pdf\r\n (401.35 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "20 September 2001", 
+    "Report name:": "Stena Explorer (05/2003)", 
+    "Summary:": "Fire on board HSS Stena Explorer entering Holyhead 20 September 2001"
+  }, 
+  "date_of_occurrence": "2001-09-20", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/stena_explorer.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Stena Explorer Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/stena%2Dexplorer%20synopsis%2Epdf", 
+      "filename": "downloads/3641e95e2825d17d01133b6c214f98f3f9ac25bb/stena-explorer synopsis.pdf", 
+      "original_filename": "stena-explorer synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "stena-explorer.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/stena-explorer.pdf", 
+      "filename": "downloads/bc9648963c06e3b0f2643340699cb61e16203655/stena-explorer.pdf", 
+      "original_filename": "stena-explorer.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Stena Explorer", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/stena%2Dexplorer%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Stena Explorer Synopsis</a>\r\n (12.75 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Stena Explorer (05/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">20 September 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fire on board HSS Stena Explorer entering Holyhead 20 September 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/stena-explorer.pdf\">stena-explorer.pdf</a>\r\n (401.35 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (12.75 kb)\n\n  \nFire on board HSS Stena Explorer entering Holyhead 20 September 2001\n\n  \n[ASSET_TAG](#ASSET1) (401.35 kb) \n"
+}

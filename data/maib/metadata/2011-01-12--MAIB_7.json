@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "SapphireSilverChordReport.pdf\r\n (1,558.40 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "12 January 2011", 
+    "Report name:": "21/2011", 
+    "Summary:": "MAIB report on the investigation into the collision between the fishing vessels Sapphire II and Silver Chord, resulting in the foundering of Sapphire II off Stornoway, Scotland on 12 January 2011. Report No 21/2011. Published 13 October 2011."
+  }, 
+  "date_of_occurrence": "2011-01-12", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/sapphire_ii_and_silver_chord.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "SapphireSilverChordReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SapphireSilverChordReport.pdf", 
+      "filename": "downloads/e24f92e732c4081e31fd0e2ce32b5daedaccea95/SapphireSilverChordReport.pdf", 
+      "original_filename": "SapphireSilverChordReport.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report - Sapphire II and Silver Chord", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">21/2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">12 January 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation into the collision between the fishing vessels Sapphire II and Silver Chord, resulting in the foundering of Sapphire II off Stornoway, Scotland on 12 January 2011. Report No 21/2011. Published 13 October 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SapphireSilverChordReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SapphireSilverChordReport.pdf');\">SapphireSilverChordReport.pdf</a>\r\n (1,558.40 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB report on the investigation into the collision between the fishing vessels Sapphire II and Silver Chord, resulting in the foundering of Sapphire II off Stornoway, Scotland on 12 January 2011. Report No 21/2011. Published 13 October 2011.\n\n  \n[ASSET_TAG](#ASSET0) (1,558.40 kb) \n"
+}

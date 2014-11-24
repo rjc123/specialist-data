@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "pride of lehavre 18 march.pdf\r\n (2,728.81 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "18 March 1999", 
+    "Report name:": "Pride of Le Havre", 
+    "Summary:": "Report of the investigation into an engine room fire on mv Pride of Le Havre on 18 March 1999 off the Isle of Wight"
+  }, 
+  "date_of_occurrence": "1999-03-18", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/pride_of_le_havre.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Pride of le Havre Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/pride%20of%20lehavre%2018th%20Synopsis%2Epdf", 
+      "filename": "downloads/b96266efdce2fffafaac2e9f00d4fce9ca3b41cb/pride of lehavre 18th Synopsis.pdf", 
+      "original_filename": "pride of lehavre 18th Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "pride of lehavre 18 march.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/pride of lehavre 18 march.pdf", 
+      "filename": "downloads/e7f41dd4ed2accdbaacfd73331bdf166d880ebc9/pride of lehavre 18 march.pdf", 
+      "original_filename": "pride of lehavre 18 march.pdf"
+    }
+  ], 
+  "title": "Investigation report - Pride of Le Havre", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/pride%20of%20lehavre%2018th%20Synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Pride of le Havre Synopsis</a>\r\n (13.88 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Pride of Le Havre</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">18 March 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation into an engine room fire on mv Pride of Le Havre on 18 March 1999 off the Isle of Wight</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/pride%20of%20lehavre%2018%20march.pdf\">pride of lehavre 18 march.pdf</a>\r\n (2,728.81 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (13.88 kb)\n\n  \nReport of the investigation into an engine room fire on mv Pride of Le Havre on 18 March 1999 off the Isle of Wight\n\n  \n[ASSET_TAG](#ASSET1) (2,728.81 kb) \n"
+}

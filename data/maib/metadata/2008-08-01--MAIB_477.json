@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "VisionIIReport.pdf\r\n (1,201.23 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "01 August 2008", 
+    "Report name:": "Vision II", 
+    "Summary:": "MAIB report on the investigation of the fire on board the fishing vessel Vision II, alongside in Fraserburgh on 1 August 2008, resulting in 3 fatalities. Report No 8/2009. Published 25 March 2009."
+  }, 
+  "date_of_occurrence": "2008-08-01", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/vision_ii.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/VisionIISynopsis%2Epdf", 
+      "filename": "downloads/e5a136b32e0fa2d3d07c1ed3cf0f798a1a35e37d/VisionIISynopsis.pdf", 
+      "original_filename": "VisionIISynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "VisionIIReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/VisionIIReport.pdf", 
+      "filename": "downloads/7e8da0bdfc999c5ff823ad9cc288fdc324dedb02/VisionIIReport.pdf", 
+      "original_filename": "VisionIIReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/VisionIIAnnexes%2Epdf", 
+      "filename": "downloads/3deabf426ae45b6bfe56d082c1c965763aaff738/VisionIIAnnexes.pdf", 
+      "original_filename": "VisionIIAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation report - Vision II", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/VisionIISynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/VisionIISynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (197.59 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Vision II</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">01 August 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation of the fire on board the fishing vessel Vision II, alongside in Fraserburgh on 1 August 2008, resulting in 3 fatalities. Report No 8/2009. Published 25 March 2009.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/VisionIIReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/VisionIIReport.pdf');\">VisionIIReport.pdf</a>\r\n (1,201.23 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/VisionIIAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/VisionIIAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,954.13 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (197.59 kb)\n\n  \nMAIB report on the investigation of the fire on board the fishing vessel Vision II, alongside in Fraserburgh on 1 August 2008, resulting in 3 fatalities. Report No 8/2009. Published 25 March 2009.\n\n  \n[ASSET_TAG](#ASSET1) (1,201.23 kb) \n\n[ASSET_TAG](#ASSET2) (1,954.13 kb)\n"
+}

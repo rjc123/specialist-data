@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "CanoeSwampingIncident.pdf\r\n (565.00 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "06 April 2005", 
+    "Report name:": "Canoe swamping accident", 
+    "Summary:": "The investigation of a canoe swamping accident in Poole Harbour, Dorset on 6 April 2005. Report no 22/2005."
+  }, 
+  "date_of_occurrence": "2005-04-06", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2005/canoeswampingincident.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Brenscombe%2DSynopsis%2Epdf", 
+      "filename": "downloads/94b68d657dce8fadce22ba4bc1a56f3e0bb14536/Brenscombe-Synopsis.pdf", 
+      "original_filename": "Brenscombe-Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "CanoeSwampingIncident.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/CanoeSwampingIncident.pdf", 
+      "filename": "downloads/f0ed6940c163fb7f1f38c038486743f69498abed/CanoeSwampingIncident.pdf", 
+      "original_filename": "CanoeSwampingIncident.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annex", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Annex%5FCanoeSwampingIncident%2Epdf", 
+      "filename": "downloads/e44e0b4ceef02c2f32ff50172d7bc1bc2c42a6ad/Annex_CanoeSwampingIncident.pdf", 
+      "original_filename": "Annex_CanoeSwampingIncident.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Canoe swamping accident", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Brenscombe-Synopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/Brenscombe%2DSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (83.55 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Canoe swamping accident</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">06 April 2005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">The investigation of a canoe swamping accident in Poole Harbour, Dorset on 6 April 2005. Report no 22/2005.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/CanoeSwampingIncident.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CanoeSwampingIncident.pdf');\">CanoeSwampingIncident.pdf</a>\r\n (565.00 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>To download the <span>Annex only:</span></p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Annex_CanoeSwampingIncident.pdf');\" href=\"http://maib.gov.uk/cms_resources/Annex%5FCanoeSwampingIncident%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annex</a>\r\n (1,588.07 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (83.55 kb)\n\n  \nThe investigation of a canoe swamping accident in Poole Harbour, Dorset on 6 April 2005. Report no 22/2005.\n\n  \n[ASSET_TAG](#ASSET1) (565.00 kb) \n\nTo download the Annex only:\n\n[ASSET_TAG](#ASSET2) (1,588.07 kb)\n"
+}

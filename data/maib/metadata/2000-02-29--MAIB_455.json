@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "the princess anne.pdf\r\n (1,866.99 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "29 February 2000", 
+    "Report name:": "The Princess Anne (26/2000)", 
+    "Summary:": "Report of the investigation of heavy weather damage to Hovercraft GH-2007 The Princess Anne while crossing from Calais to Dover on 29 February 2000"
+  }, 
+  "date_of_occurrence": "2000-02-29", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/the_princess_anne.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "The Princess Anne - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/the%20princess%20anne%20synopsis%2Epdf", 
+      "filename": "downloads/f2202a14a3c67bdca0ec5096622447778efd0f9d/the princess anne synopsis.pdf", 
+      "original_filename": "the princess anne synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "the princess anne.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/the princess anne.pdf", 
+      "filename": "downloads/cdc7efab529f092f51472bbab645ad80db5f1305/the princess anne.pdf", 
+      "original_filename": "the princess anne.pdf"
+    }
+  ], 
+  "title": "Investigation report - The Princess Anne", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/the%20princess%20anne%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">The Princess Anne - Synopsis</a>\r\n (43.70 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">The Princess Anne (26/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">29 February 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation of heavy weather damage to Hovercraft GH-2007 The Princess Anne while crossing from Calais to Dover on 29 February 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/the%20princess%20anne.pdf\">the princess anne.pdf</a>\r\n (1,866.99 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (43.70 kb)\n\n  \nReport of the investigation of heavy weather damage to Hovercraft GH-2007 The Princess Anne while crossing from Calais to Dover on 29 February 2000\n\n  \n[ASSET_TAG](#ASSET1) (1,866.99 kb) \n"
+}

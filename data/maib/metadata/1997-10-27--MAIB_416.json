@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "sandkite_pub_1999.pdf\r\n (4,325.70 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "27 October 1997", 
+    "Report name:": "Sand Kite", 
+    "Summary:": "Report of the investigation into the collision of mv Sand Kite with the Thames Flood Barrier on 27 October 1997"
+  }, 
+  "date_of_occurrence": "1997-10-27", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/sand_kite.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Sandkite Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/sandkite%20synopsis%2Epdf", 
+      "filename": "downloads/486585b63666d8fa76be7778439b1ef7c7d14f7b/sandkite synopsis.pdf", 
+      "original_filename": "sandkite synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "sandkite_pub_1999.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/sandkite_pub_1999.pdf", 
+      "filename": "downloads/b43be7c9996e72bb0d1bc851db5140edd7ba9a79/sandkite_pub_1999.pdf", 
+      "original_filename": "sandkite_pub_1999.pdf"
+    }
+  ], 
+  "title": "Investigation report - Sand Kite", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/sandkite%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Sandkite Synopsis</a>\r\n (57.35 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Sand Kite</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">27 October 1997</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation into the collision of mv Sand Kite with the Thames Flood Barrier on 27 October 1997</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/sandkite_pub_1999.pdf\">sandkite_pub_1999.pdf</a>\r\n (4,325.70 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (57.35 kb)\n\n  \nReport of the investigation into the collision of mv Sand Kite with the Thames Flood Barrier on 27 October 1997\n\n  \n[ASSET_TAG](#ASSET1) (4,325.70 kb) \n"
+}

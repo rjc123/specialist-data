@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "chapter2.pdf\r\n (2,832.42 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "31 December 1999", 
+    "Report name:": "Chapter Two (36/2000)", 
+    "Summary:": "Report on the investigation of the intake of exhaust gas fumes into the cabin spaces of the motor cruiser Chapter Two while transiting the River Medway on 31 December 1999"
+  }, 
+  "date_of_occurrence": "1999-12-31", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/chapter_two.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Chapter II - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/chapter2%20synopsis%2Epdf", 
+      "filename": "downloads/4cc1febeee19992d23e2b4b59d5cf4d6068200e7/chapter2 synopsis.pdf", 
+      "original_filename": "chapter2 synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "chapter2.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/chapter2.pdf", 
+      "filename": "downloads/dd2e5b8dd6ca1e7a8a7be85af7cdf5c9cde8912d/chapter2.pdf", 
+      "original_filename": "chapter2.pdf"
+    }
+  ], 
+  "title": "Investigation report - Chapter Two", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/chapter2%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Chapter II - Synopsis</a>\r\n (60.07 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Chapter Two (36/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">31 December 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the intake of exhaust gas fumes into the cabin spaces of the motor cruiser Chapter Two while transiting the River Medway on 31 December 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/chapter2.pdf\">chapter2.pdf</a>\r\n (2,832.42 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (60.07 kb)\n\n  \nReport on the investigation of the intake of exhaust gas fumes into the cabin spaces of the motor cruiser Chapter Two while transiting the River Medway on 31 December 1999\n\n  \n[ASSET_TAG](#ASSET1) (2,832.42 kb) \n"
+}

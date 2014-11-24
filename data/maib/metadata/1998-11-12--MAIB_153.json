@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "blue hooker.pdf\r\n (1,046.19 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "12 November 1998", 
+    "Report name:": "Blue Hooker", 
+    "Summary:": "Report of the Inspector's Investigation into the loss of the fishing vessel Blue Hooker PW250 with two lives on 12 November 1998 off Blackchurch Rock, North Devon"
+  }, 
+  "date_of_occurrence": "1998-11-12", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/blue_hooker.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Blue Hooker Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/blue%20hooker%20synopsis%2Epdf", 
+      "filename": "downloads/ef15ab72e10e402caf6d370ffca48497bbeda4e6/blue hooker synopsis.pdf", 
+      "original_filename": "blue hooker synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "blue hooker.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/blue hooker.pdf", 
+      "filename": "downloads/4bfeec9b53f86cf44d0cebaaf2d882c01dbad1fd/blue hooker.pdf", 
+      "original_filename": "blue hooker.pdf"
+    }
+  ], 
+  "title": "Investigation report - Blue Hooker", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/blue%20hooker%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Blue Hooker Synopsis</a>\r\n (48.56 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Blue Hooker</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">12 November 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the Inspector's Investigation into the loss of the fishing vessel Blue Hooker PW250 with two lives on 12 November 1998 off Blackchurch Rock, North Devon</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/blue%20hooker.pdf\">blue hooker.pdf</a>\r\n (1,046.19 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (48.56 kb)\n\n  \nReport of the Inspector's Investigation into the loss of the fishing vessel Blue Hooker PW250 with two lives on 12 November 1998 off Blackchurch Rock, North Devon\n\n  \n[ASSET_TAG](#ASSET1) (1,046.19 kb) \n"
+}

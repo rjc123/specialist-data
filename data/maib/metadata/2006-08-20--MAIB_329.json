@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "Download report:": "OuzoReport.pdf\r\n (1,444.82 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "20 August 2006", 
+    "Report name:": "Ouzo", 
+    "Summary:": "Report on the investigation of the loss of the sailing yacht Ouzo and her three crew, South of the Isle of Wight during the night of 20/21 August 2006. Report no 7/2007. Published 12 April 2007."
+  }, 
+  "date_of_occurrence": "2006-08-20", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/ouzo.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/OuzoSynopsis%2Epdf", 
+      "filename": "downloads/2ea08e48c484c219be94eeed7a1cbad32c1bb968/OuzoSynopsis.pdf", 
+      "original_filename": "OuzoSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "OuzoReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/OuzoReport.pdf", 
+      "filename": "downloads/f97c1d7021aec9daebd816b82698341860128150/OuzoReport.pdf", 
+      "original_filename": "OuzoReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/OuzoAnnexes%2Epdf", 
+      "filename": "downloads/838198b36cb1e0f186dca1138f6a1c3c6fc744c7/OuzoAnnexes.pdf", 
+      "original_filename": "OuzoAnnexes.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Radar Reflectors Report", 
+      "assetid": 3, 
+      "original_url": "http://maib.gov.uk/cms_resources/Radar%20reflectors%20report%2Epdf", 
+      "filename": "downloads/bd206c8933cdc62eb05c924f07c69896c5f3ddd5/Radar reflectors report.pdf", 
+      "original_filename": "Radar reflectors report.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Ouzo", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/OuzoSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/OuzoSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (127.60 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Ouzo</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">20 August 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the loss of the sailing yacht Ouzo and her three crew, South of the Isle of Wight during the night of 20/21 August 2006. Report no 7/2007. Published 12 April 2007.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/OuzoReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/OuzoReport.pdf');\">OuzoReport.pdf</a>\r\n (1,444.82 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/OuzoAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/OuzoAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,790.76 kb)</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Radar reflectors report.pdf');\" href=\"http://maib.gov.uk/cms_resources/Radar%20reflectors%20report%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Radar Reflectors Report</a>\r\n (2,180.00 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (127.60 kb)\n\n  \nReport on the investigation of the loss of the sailing yacht Ouzo and her three crew, South of the Isle of Wight during the night of 20/21 August 2006. Report no 7/2007. Published 12 April 2007.\n\n  \n[ASSET_TAG](#ASSET1) (1,444.82 kb) \n\n[ASSET_TAG](#ASSET2) (2,790.76 kb)\n\n[ASSET_TAG](#ASSET3) (2,180.00 kb)\n"
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "Finnarrow.pdf\r\n (521.93 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "16 February 2013", 
+    "Report name:": "Finnarrow", 
+    "Summary:": "MAIB Report on the investigation of MV Finnarrow's contact with the berth and subsequent flooding, in Holyhead on 16 February 2013. Report No 24/2013. Published 22 November 2013."
+  }, 
+  "date_of_occurrence": "2013-02-16", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2013/finnarrow.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Finnarrow.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Finnarrow.pdf", 
+      "filename": "downloads/45caf7827e98e351c6336a1610f3177ee1485821/Finnarrow.pdf", 
+      "original_filename": "Finnarrow.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report  24/2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Finnarrow</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">16 February 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of MV <span>Finnarrow</span>'s contact with the berth and subsequent flooding, in Holyhead on 16 February 2013. Report No 24/2013. Published 22 November 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Finnarrow.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Finnarrow.pdf');\">Finnarrow.pdf</a>\r\n (521.93 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of MV Finnarrow's contact with the berth and subsequent flooding, in Holyhead on 16 February 2013. Report No 24/2013. Published 22 November 2013.\n\n  \n[ASSET_TAG](#ASSET0) (521.93 kb) \n"
+}

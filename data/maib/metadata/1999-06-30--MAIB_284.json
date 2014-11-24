@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "lord trenchard.pdf\r\n (2,191.09 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "30 June 1999", 
+    "Report name:": "Lord Trenchard (10/2000)", 
+    "Summary:": "Report on investigation of explosion on Lord Trenchard in Poole Harbour on 30 June 1999 with one serious injury"
+  }, 
+  "date_of_occurrence": "1999-06-30", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/lord_trenchard.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Lord Trenchard - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/lord%20trenchard%20synopsis%2Epdf", 
+      "filename": "downloads/1e07f3d31b66283720ad2950b04959d7b003d129/lord trenchard synopsis.pdf", 
+      "original_filename": "lord trenchard synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "lord trenchard.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/lord trenchard.pdf", 
+      "filename": "downloads/c84248488034db586a99da91807073befa606463/lord trenchard.pdf", 
+      "original_filename": "lord trenchard.pdf"
+    }
+  ], 
+  "title": "Investigation report - Lord Trenchard", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/lord%20trenchard%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Lord Trenchard - Synopsis</a>\r\n (49.84 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Lord Trenchard (10/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">30 June 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on investigation of explosion on Lord Trenchard in Poole Harbour on 30 June 1999 with one serious injury</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/lord%20trenchard.pdf\">lord trenchard.pdf</a>\r\n (2,191.09 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (49.84 kb)\n\n  \nReport on investigation of explosion on Lord Trenchard in Poole Harbour on 30 June 1999 with one serious injury\n\n  \n[ASSET_TAG](#ASSET1) (2,191.09 kb) \n"
+}

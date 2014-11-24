@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "Download report:": "Trijnie.pdf\r\n (1,630.64 kb)", 
+    "Category:": "Merchant vessels,Fishing vessels", 
+    "Incident date:": "08 September 1998", 
+    "Report name:": "Trijnie", 
+    "Summary:": "Capsize and foundering of the workboat/tug Trijnie with the loss of one life in the approach channel to Milford Docks, Milford Haven on 8 September 1998"
+  }, 
+  "date_of_occurrence": "1998-09-08", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/trijnie.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Trijnie Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Trijnie%20synopsis%2Epdf", 
+      "filename": "downloads/b0aa373f19b8b38ac79713f41ce249f8554b9fe8/Trijnie synopsis.pdf", 
+      "original_filename": "Trijnie synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Trijnie.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Trijnie.pdf", 
+      "filename": "downloads/4a5732037218e6114d3deaa966140c477385ccbd/Trijnie.pdf", 
+      "original_filename": "Trijnie.pdf"
+    }
+  ], 
+  "title": "Investigation report - Trijnie", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Trijnie%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Trijnie Synopsis</a>\r\n (75.13 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Trijnie</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">08 September 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Capsize and foundering of the workboat/tug Trijnie with the loss of one life in the approach channel to Milford Docks, Milford Haven on 8 September 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Trijnie.pdf\">Trijnie.pdf</a>\r\n (1,630.64 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (75.13 kb)\n\n  \nCapsize and foundering of the workboat/tug Trijnie with the loss of one life in the approach channel to Milford Docks, Milford Haven on 8 September 1998\n\n  \n[ASSET_TAG](#ASSET1) (1,630.64 kb) \n"
+}

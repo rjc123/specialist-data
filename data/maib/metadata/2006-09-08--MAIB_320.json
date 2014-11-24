@@ -1,0 +1,46 @@
+{
+  "meta": {
+    "Download report:": "Harold&OctopusReport.pdf\r\n (2,518.51 kb)", 
+    "Category:": "Merchant vessels,Fishing vessels", 
+    "Incident date:": "08 September 2006", 
+    "Report name:": "Octopus/Harald", 
+    "Summary:": "Report of the investigation of the grounding of the jack-up barge Octopus towed by the tug Harald Stronsay Firth, Orkney Islands 8 September 2006. Report no 18/2007. Published 14 August 2007."
+  }, 
+  "date_of_occurrence": "2006-09-08", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/octopus_harald.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Harold%26OctopusSynopsis%2Epdf", 
+      "filename": "downloads/dc43a15e1f9597f02bc8d2bafcbc42be0e45e6f6/Harold&OctopusSynopsis.pdf", 
+      "original_filename": "Harold&OctopusSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Harold&OctopusReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Harold&OctopusReport.pdf", 
+      "filename": "downloads/e8940ec6a68ef759e91967efc2f44e6ed19d51f7/Harold&OctopusReport.pdf", 
+      "original_filename": "Harold&OctopusReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Harald%26OctopusAnnexes%2Epdf", 
+      "filename": "downloads/a504bd3f583387d51aac4e4f854ad22720da72d2/Harald&OctopusAnnexes.pdf", 
+      "original_filename": "Harald&OctopusAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Octopus and Harald", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Harold&amp;OctopusSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/Harold%26OctopusSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (143.92 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Octopus/Harald</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">08 September 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation of the grounding of the jack-up barge Octopus towed by the tug Harald Stronsay Firth, Orkney Islands 8 September 2006. Report no 18/2007. Published 14 August 2007.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Harold&amp;OctopusReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Harold&amp;OctopusReport.pdf');\">Harold&amp;OctopusReport.pdf</a>\r\n (2,518.51 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Harald&amp;OctopusAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/Harald%26OctopusAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,026.33 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (143.92 kb)\n\n  \nReport of the investigation of the grounding of the jack-up barge Octopus towed by the tug Harald Stronsay Firth, Orkney Islands 8 September 2006. Report no 18/2007. Published 14 August 2007.\n\n  \n[ASSET_TAG](#ASSET1) (2,518.51 kb) \n\n[ASSET_TAG](#ASSET2) (1,026.33 kb)\n"
+}

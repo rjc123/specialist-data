@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "ERathina_Report.pdf\r\n (563.55 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "10 June 2012", 
+    "Report name:": "E.R.Athina", 
+    "Summary:": "MAIB Report on the investigation of the fatal injury to a crew member on board E.R.Athina at anchor off Aberdeen on 10 June 2012. Report No 3/2013. Published 23 January 2013."
+  }, 
+  "date_of_occurrence": "2012-06-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2013/e_r_athina.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "ERathina_Report.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/ERathina_Report.pdf", 
+      "filename": "downloads/202269ce3712361076c948d45e58151738c3565b/ERathina_Report.pdf", 
+      "original_filename": "ERathina_Report.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 3/2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>E.R.Athina</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 June 2012</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the fatal injury to a crew member on board <span>E.R.Athina</span> at anchor off Aberdeen on 10 June 2012. Report No 3/2013. Published 23 January 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/ERathina_Report.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ERathina_Report.pdf');\">ERathina_Report.pdf</a>\r\n (563.55 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the fatal injury to a crew member on board E.R.Athina at anchor off Aberdeen on 10 June 2012. Report No 3/2013. Published 23 January 2013.\n\n  \n[ASSET_TAG](#ASSET0) (563.55 kb) \n"
+}

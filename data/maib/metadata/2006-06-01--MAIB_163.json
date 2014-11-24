@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "BrothersReport.pdf\r\n (1,597.79 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "01 June 2006", 
+    "Report name:": "Brothers", 
+    "Summary:": "Report on the investigation of the grounding of fv Brothers with the loss of two lives, off Eilean Trodday\r\r\non 1 June 2006. Report No 1/2007. Published 31 January 2007."
+  }, 
+  "date_of_occurrence": "2006-06-01", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/brothers.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/BrothersSynopsis%2Epdf", 
+      "filename": "downloads/5fc9f0e27d0e8e24af13c00e13a5b72aa27e7a0d/BrothersSynopsis.pdf", 
+      "original_filename": "BrothersSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "BrothersReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/BrothersReport.pdf", 
+      "filename": "downloads/a95d3d38a27ed3587e90783cb63cc1b36e4eccca/BrothersReport.pdf", 
+      "original_filename": "BrothersReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/BrothersAnnexes%2Epdf", 
+      "filename": "downloads/a62b6efa6be93f334ec0a8e922e851ebf75c3518/BrothersAnnexes.pdf", 
+      "original_filename": "BrothersAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Brothers", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/BrothersSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/BrothersSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (178.21 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Brothers</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">01 June 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the grounding of fv Brothers with the loss of two lives, off Eilean Trodday\r\r\non 1 June 2006. Report No 1/2007. Published 31 January 2007.\r\r\n\r\r\n</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/BrothersReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/BrothersReport.pdf');\">BrothersReport.pdf</a>\r\n (1,597.79 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/BrothersAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/BrothersAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (987.79 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">An accident flyer was produced for this incident and can also be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2007/brothers.cfm\">Accident Flyer - Brothers</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (178.21 kb)\n\n  \nReport on the investigation of the grounding of fv Brothers with the loss of two lives, off Eilean Trodday on 1 June 2006. Report No 1/2007. Published 31 January 2007. \n\n  \n[ASSET_TAG](#ASSET1) (1,597.79 kb) \n\n[ASSET_TAG](#ASSET2) (987.79 kb)\n\nAn accident flyer was produced for this incident and can also be viewed on this website:  \n[Accident Flyer - Brothers](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2007/brothers.cfm)\n"
+}

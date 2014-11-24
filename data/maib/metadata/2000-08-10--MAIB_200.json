@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Dunan Star.pdf\r\n (858.26 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "10 August 2000", 
+    "Report name:": "Dunan Star (38/2000)", 
+    "Summary:": "Report on the investigation of a fatal accident on board mfv Dunan Star 1.5 miles south-west of the Isle of Arran on 10 August 2000"
+  }, 
+  "date_of_occurrence": "2000-08-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/dunan_star.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Dunnan Star - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Dunan%20Star%20synopsis%2Epdf", 
+      "filename": "downloads/1c3c77e6429ba62f72f746f31738eed00b0d08f3/Dunan Star synopsis.pdf", 
+      "original_filename": "Dunan Star synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Dunan Star.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Dunan Star.pdf", 
+      "filename": "downloads/c03214914fd891e861ad193f9ed539c5b3d4ec4b/Dunan Star.pdf", 
+      "original_filename": "Dunan Star.pdf"
+    }
+  ], 
+  "title": "Investigation report - Dunan Star", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Dunan%20Star%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Dunnan Star - Synopsis</a>\r\n (43.55 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Dunan Star (38/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 August 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of a fatal accident on board mfv Dunan Star 1.5 miles south-west of the Isle of Arran on 10 August 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Dunan%20Star.pdf\">Dunan Star.pdf</a>\r\n (858.26 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (43.55 kb)\n\n  \nReport on the investigation of a fatal accident on board mfv Dunan Star 1.5 miles south-west of the Isle of Arran on 10 August 2000\n\n  \n[ASSET_TAG](#ASSET1) (858.26 kb) \n"
+}

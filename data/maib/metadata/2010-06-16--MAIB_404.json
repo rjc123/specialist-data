@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "SB3_10.pdf\r\n (2,217.03 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "16 June 2010", 
+    "Report name:": "Safety Bulletin 3/2010", 
+    "Summary:": "Safety Bulletin following a vehicle deck fire on board the ro-ro passenger ferry Commodore Clipper"
+  }, 
+  "date_of_occurrence": "2010-06-16", 
+  "original_url": "http://maib.gov.uk/publications/safety_bulletins/safety_bulletins_2010/safety_bulletin_3_2010.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "SB3_10.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SB3_10.pdf", 
+      "filename": "downloads/61259b3e2a27d7ce229d36ee0b791e27ea4b1ca1/SB3_10.pdf", 
+      "original_filename": "SB3_10.pdf"
+    }
+  ], 
+  "title": "Safety Bulletin 3/2010", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Safety Bulletin 3/2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">16 June 2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Safety Bulletin following a vehicle deck fire on board the ro-ro passenger ferry Commodore Clipper</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SB3_10.pdf\">SB3_10.pdf</a>\r\n (2,217.03 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "safety-bulletin", 
+  "body": "  \nSafety Bulletin following a vehicle deck fire on board the ro-ro passenger ferry Commodore Clipper\n\n  \n[ASSET_TAG](#ASSET0) (2,217.03 kb) \n"
+}

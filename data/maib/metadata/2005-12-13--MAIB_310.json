@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "Download report:": "Noordster.pdf\r\n (2,935.27 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "13 December 2005", 
+    "Report name:": "Noordster", 
+    "Summary:": "Report on the investigation of the capsize of the fishing vessel Noordster Z122 with the loss of three crew 11.5nm south of Beachy Head on 13 December 2005"
+  }, 
+  "date_of_occurrence": "2005-12-13", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/noordster.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "English Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Noordster%5FSynopsis%2Epdf", 
+      "filename": "downloads/395dfc5151fd6c8cafa8e93c5649750cb045e8b0/Noordster_Synopsis.pdf", 
+      "original_filename": "Noordster_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Flemish Synopsis", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Noordster%5FFlemish%20Synopsis%2Epdf", 
+      "filename": "downloads/b1d0f1a00e060bccfc0b4bce3d7c3b9605d97ad0/Noordster_Flemish Synopsis.pdf", 
+      "original_filename": "Noordster_Flemish Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Noordster.pdf", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Noordster.pdf", 
+      "filename": "downloads/ca9f01092144d7e32299fde48491197f83cc396a/Noordster.pdf", 
+      "original_filename": "Noordster.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 3, 
+      "original_url": "http://maib.gov.uk/cms_resources/Noordster%5FAnnex%2Epdf", 
+      "filename": "downloads/4347d8fb29e1f297d8e43c35ba1d6ec798e3db63/Noordster_Annex.pdf", 
+      "original_filename": "Noordster_Annex.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Noordster", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>&#160;</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Noordster_Synopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/Noordster%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">English Synopsis</a>\r\n (126.10 kb)</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Noordster_Flemish Synopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/Noordster%5FFlemish%20Synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Flemish Synopsis</a>\r\n (127.39 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Noordster</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">13 December 2005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the capsize of the fishing vessel Noordster Z122 with the loss of three crew 11.5nm south of Beachy Head on 13 December 2005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Noordster.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Noordster.pdf');\">Noordster.pdf</a>\r\n (2,935.27 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Noordster_Annex.pdf');\" href=\"http://maib.gov.uk/cms_resources/Noordster%5FAnnex%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (176.74 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "\u00a0\n\n[ASSET_TAG](#ASSET0) (126.10 kb)\n\n[ASSET_TAG](#ASSET1) (127.39 kb)\n\n  \nReport on the investigation of the capsize of the fishing vessel Noordster Z122 with the loss of three crew 11.5nm south of Beachy Head on 13 December 2005\n\n  \n[ASSET_TAG](#ASSET2) (2,935.27 kb) \n\n[ASSET_TAG](#ASSET3) (176.74 kb)\n"
+}

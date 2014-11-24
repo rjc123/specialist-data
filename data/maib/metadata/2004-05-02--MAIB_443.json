@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Star Clipper.pdf\r\n (811.25 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "02 May 2004", 
+    "Report name:": "Star Clipper", 
+    "Summary:": "Report on the investigation \r\r\nof the failure of a mooring bollard from the Class V passenger vessel Star Clipper\r\r\nresulting in a fatal accident at St Katharine\u2019s Pier, River Thames, London on 2 May 2004"
+  }, 
+  "date_of_occurrence": "2004-05-02", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2005/star_clipper.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Star Clipper.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Star Clipper.pdf", 
+      "filename": "downloads/a1f8f2d0cb99a9403dcb910038a891248d35b53a/Star Clipper.pdf", 
+      "original_filename": "Star Clipper.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Star Clipper - Annexes", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Annexes%2Epdf", 
+      "filename": "downloads/ad89f6462a65291036b53ad8fb3c2cbe4b8e8638/Annexes.pdf", 
+      "original_filename": "Annexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Star Clipper", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Star Clipper</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">02 May 2004</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation \r\r\nof the failure of a mooring bollard from the Class V passenger vessel Star Clipper\r\r\nresulting in a fatal accident at St Katharine&#8217;s Pier, River Thames, London on 2 May 2004\r\r\n</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Star%20Clipper.pdf\">Star Clipper.pdf</a>\r\n (811.25 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Annexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Star Clipper - Annexes</a>\r\n (2,850.11 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nReport on the investigation of the failure of a mooring bollard from the Class V passenger vessel Star Clipper resulting in a fatal accident at St Katharine\u2019s Pier, River Thames, London on 2 May 2004 \n\n  \n[ASSET_TAG](#ASSET0) (811.25 kb) \n\n[ASSET_TAG](#ASSET1) (2,850.11 kb)\n"
+}

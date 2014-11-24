@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "SirenaSeaways.pdf\r\n (798.84 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "22 June 2013", 
+    "Report name:": "Sirena Seaways", 
+    "Summary:": "MAIB Report on the investigation of Sirena Seaways's heavy contact with the berth at Harwich International Port on 22 June 2013. Report No 6/2014. Published 31 January 2014."
+  }, 
+  "date_of_occurrence": "2013-06-22", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2014/sirena_seaways.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "SirenaSeaways.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SirenaSeaways.pdf", 
+      "filename": "downloads/75db7911332a51d7331a40944493847838ad3318/SirenaSeaways.pdf", 
+      "original_filename": "SirenaSeaways.pdf"
+    }, 
+    {
+      "content_type": "image/jpeg", 
+      "title": "Sirena Seaways Photo", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/SirenaSeaways_Pic.jpg", 
+      "filename": "downloads/eaddbc240241cf32fb402e035b866e7207109096/SirenaSeaways_Pic.jpg", 
+      "original_filename": "SirenaSeaways_Pic.jpg"
+    }
+  ], 
+  "title": "Accident Investigation Report 6/2014", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n\r\n<div id=\"graphicContainer\">\r\n<img align=\"top\" border=\"0\" src=\"http://maib.gov.uk/cms_resources/SirenaSeaways_Pic.jpg\" width=\"400\" height=\"243\" alt=\"Sirena Seaways Photo\"><br>\r\n<span class=\"siteGraphicCaption\">Sirena Seaways Photo</span>\r\n</div>\r\n\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Sirena Seaways</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">22 June 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of <span>Sirena Seaways's</span> heavy contact with the berth at Harwich International Port on 22 June 2013. Report No 6/2014. Published 31 January 2014.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SirenaSeaways.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SirenaSeaways.pdf');\">SirenaSeaways.pdf</a>\r\n (798.84 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "![ASSET_TAG](#ASSET1)  \nSirena Seaways Photo\n\n  \nMAIB Report on the investigation of Sirena Seaways's heavy contact with the berth at Harwich International Port on 22 June 2013. Report No 6/2014. Published 31 January 2014.\n\n  \n[ASSET_TAG](#ASSET0) (798.84 kb) \n"
+}

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "lysfoss.pdf\r\n (505.15 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "07 May 2002", 
+    "Report name:": "mv Lysfoss (23/2002)", 
+    "Summary:": "Report on the investigation of the grounding of mv Lysfoss, Sound of Mull, Scotland 7 May 2001"
+  }, 
+  "date_of_occurrence": "2002-05-07", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/mv_lysfoss.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Lysfoss Synopis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/lysfoss%20synopsis%2Epdf", 
+      "filename": "downloads/46f144757eaa8f8b27a93e10ae42c45e7eed37d8/lysfoss synopsis.pdf", 
+      "original_filename": "lysfoss synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "lysfoss.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/lysfoss.pdf", 
+      "filename": "downloads/2797123fa896012efd5dcfa8e5dcdae9b2270be8/lysfoss.pdf", 
+      "original_filename": "lysfoss.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Mv Lysfoss", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/lysfoss%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Lysfoss Synopis</a>\r\n (361.92 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">mv Lysfoss (23/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">07 May 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the grounding of mv Lysfoss, Sound of Mull, Scotland 7 May 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/lysfoss.pdf\">lysfoss.pdf</a>\r\n (505.15 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (361.92 kb)\n\n  \nReport on the investigation of the grounding of mv Lysfoss, Sound of Mull, Scotland 7 May 2001\n\n  \n[ASSET_TAG](#ASSET1) (505.15 kb) \n"
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "solway-summary-report.pdf\r\n (24.12 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "11 January 2000", 
+    "Report name:": "Solway Harvester (1/2003) - summary report", 
+    "Summary:": "Capsize and sinking of the fishing vessel Solway Harvester 11 miles east of the Isle of Man on 11 January 2000 with the loss of seven lives"
+  }, 
+  "date_of_occurrence": "2000-01-11", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/solway_harvester.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "solway-summary-report.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/solway-summary-report.pdf", 
+      "filename": "downloads/678dba2e650f0f19b7e0e6ff8fc217022cc340c8/solway-summary-report.pdf", 
+      "original_filename": "solway-summary-report.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Solway HarvesterQ", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Solway Harvester (1/2003) - summary report</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">11 January 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Capsize and sinking of the fishing vessel Solway Harvester 11 miles east of the Isle of Man on 11 January 2000 with the loss of seven lives</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/solway-summary-report.pdf\">solway-summary-report.pdf</a>\r\n (24.12 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nCapsize and sinking of the fishing vessel Solway Harvester 11 miles east of the Isle of Man on 11 January 2000 with the loss of seven lives\n\n  \n[ASSET_TAG](#ASSET0) (24.12 kb) \n"
+}

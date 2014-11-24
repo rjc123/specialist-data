@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "SB_4_1999_unstable_dories.pdf\n (127.87 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "22 November 1999", 
+    "Report name:": "Safety Bulletin 4/1999", 
+    "Summary:": "Unstable Dories, flooded void space on 22 November 1999"
+  }, 
+  "date_of_occurrence": "1999-11-22", 
+  "original_url": "http://maib.gov.uk/publications/safety_bulletins/safety_bulletins_1999/safety_bulletin_4_1999.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "SB_4_1999_unstable_dories.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SB_4_1999_unstable_dories.pdf", 
+      "filename": "downloads/42061a3bbaca4a6c8135f682f42a00c69925b4a2/SB_4_1999_unstable_dories.pdf", 
+      "original_filename": "SB_4_1999_unstable_dories.pdf"
+    }
+  ], 
+  "title": "Safety Bulletin 4/1999", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\n<p>\n</p>\n</div>\n<div id=\"aibContainer\">\n<div id=\"aibRows\">\n<span class=\"siteAibReportTextBold\">Report name: </span>\n<br>\n<span class=\"siteAibReportText\">Safety Bulletin 4/1999 </span>\n</div>\n<div id=\"aibRows\">\n<span class=\"siteAibReportTextBold\">Incident date:</span>\n<br>\n<span class=\"siteAibReportText\">22 November 1999</span>\n</div>\n<div id=\"aibRows\">\n<span class=\"siteAibReportTextBold\">Category: </span>\n<br>\n<span class=\"siteAibReportText\">Leisure</span>\n</div>\n<div id=\"aibRows\">\n<span class=\"siteAibReportTextBold\">Summary: </span>\n<br>\n<span class=\"siteAibReportText\">Unstable Dories, flooded void space on 22 November 1999</span>\n</div>\n<div id=\"aibRows\">\n<span class=\"siteAibReportTextBold\">Download report: </span>\n<br>\n\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SB_4_1999_unstable_dories.pdf\" onclick=\"javascript: pageTracker._trackPageview('/downloads/SB_4_1999_unstable_dories'); \">SB_4_1999_unstable_dories.pdf</a>\n (127.87 kb)\n\t\t\t\t</div>\n</div>\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "safety-bulletin", 
+  "body": "  \nUnstable Dories, flooded void space on 22 November 1999\n\n  \n[ASSET_TAG](#ASSET0) (127.87 kb) \n"
+}

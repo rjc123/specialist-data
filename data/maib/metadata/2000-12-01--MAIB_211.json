@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "european-highway.pdf\r\n (177.40 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "01 December 2000", 
+    "Report name:": "European Highway (01/2002)", 
+    "Summary:": "Report of accident to lifeboat and fast rescue craft from European Highway in Zeebrugge on 1 December 2000  four injured"
+  }, 
+  "date_of_occurrence": "2000-12-01", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/european_highway.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "European Highway synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/european%2Dhighway%20synopsis%2Epdf", 
+      "filename": "downloads/7974db828c488cbd1dea064da888f66db8f55042/european-highway synopsis.pdf", 
+      "original_filename": "european-highway synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "european-highway.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/european-highway.pdf", 
+      "filename": "downloads/30ef6bd22558dcd1b447969668998d56237c4cce/european-highway.pdf", 
+      "original_filename": "european-highway.pdf"
+    }
+  ], 
+  "title": "Investigation Report - European Highway", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/european%2Dhighway%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">European Highway synopsis</a>\r\n (275.32 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">European Highway (01/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">01 December 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of accident to lifeboat and fast rescue craft from European Highway in Zeebrugge on 1 December 2000  four injured </span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/european-highway.pdf\">european-highway.pdf</a>\r\n (177.40 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (275.32 kb)\n\n  \nReport of accident to lifeboat and fast rescue craft from European Highway in Zeebrugge on 1 December 2000 four injured \n\n  \n[ASSET_TAG](#ASSET1) (177.40 kb) \n"
+}

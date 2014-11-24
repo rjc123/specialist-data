@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "AntonisReport.pdf\r\n (456.41 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "11 December 2010", 
+    "Report name:": "Antonis", 
+    "Summary:": "MAIB Investigation report following the contact of MV Antonis with Langton-Alexandra swing bridge in the Port of Liverpool on 11 December 2010. Report No 10/2011. Published 2 June 2011."
+  }, 
+  "date_of_occurrence": "2010-12-11", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/antonis.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "AntonisReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/AntonisReport.pdf", 
+      "filename": "downloads/9bdb283eabe62be91a4fe74abd1b1c628286a5c9/AntonisReport.pdf", 
+      "original_filename": "AntonisReport.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Antonis", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Antonis</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">11 December 2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Investigation report following the contact of MV <span>Antonis</span> with Langton-Alexandra swing bridge in the Port of Liverpool on 11 December 2010. Report No 10/2011. Published 2 June 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/AntonisReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AntonisReport.pdf');\">AntonisReport.pdf</a>\r\n (456.41 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Investigation report following the contact of MV Antonis with Langton-Alexandra swing bridge in the Port of Liverpool on 11 December 2010. Report No 10/2011. Published 2 June 2011.\n\n  \n[ASSET_TAG](#ASSET0) (456.41 kb) \n"
+}

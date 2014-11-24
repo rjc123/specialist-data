@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "Download report:": "bro _axel.pdf\r\n (1,672.54 kb)", 
+    "Category:": "Merchant vessels,Fishing vessels", 
+    "Incident date:": "05 December 2002", 
+    "Report name:": "Bro Axel (22/2003)", 
+    "Summary:": "Near miss between Bro Axel/Noorhinder and the subsequent grounding of Bro Axel at Milford Haven on 5 December 2002"
+  }, 
+  "date_of_occurrence": "2002-12-05", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/bro_axel.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Bro Axel Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/bro%20%5Faxel%20synopsis%2Epdf", 
+      "filename": "downloads/aaeaff24d26971bba0b474ea58f4550a512b7823/bro _axel synopsis.pdf", 
+      "original_filename": "bro _axel synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "bro _axel.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/bro _axel.pdf", 
+      "filename": "downloads/37f3b6e9a92966428b36e9862b8c164e1aca1266/bro _axel.pdf", 
+      "original_filename": "bro _axel.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Bro Axel", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/bro%20%5Faxel%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Bro Axel Synopsis</a>\r\n (12.64 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bro Axel (22/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">05 December 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Near miss between Bro Axel/Noorhinder and the subsequent grounding of Bro Axel at Milford Haven on 5 December 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/bro%20_axel.pdf\">bro _axel.pdf</a>\r\n (1,672.54 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (12.64 kb)\n\n  \nNear miss between Bro Axel/Noorhinder and the subsequent grounding of Bro Axel at Milford Haven on 5 December 2002\n\n  \n[ASSET_TAG](#ASSET1) (1,672.54 kb) \n"
+}

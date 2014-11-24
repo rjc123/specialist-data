@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "SpringBokGasArctic.pdf\r\n (894.42 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "24 March 2012", 
+    "Report name:": "Spring Bok and Gas Arctic", 
+    "Summary:": "MAIB Report on the investigation of the collision involving mv Spring Bok and Gas Arctic 6nm south of Dungeness on 24 March 2012. Report No 24/2012. Published 26 October 2012."
+  }, 
+  "date_of_occurrence": "2012-03-24", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/spring_bok_and_gas_arctic.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "SpringBokGasArctic.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SpringBokGasArctic.pdf", 
+      "filename": "downloads/c5b88e40fbbf170868b4f26eb6304d0cd4707934/SpringBokGasArctic.pdf", 
+      "original_filename": "SpringBokGasArctic.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 24/2012", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Spring Bok and Gas Arctic</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">24 March 2012</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the collision involving mv <span>Spring Bok</span> and <span>Gas Arctic</span> 6nm south of Dungeness on 24 March 2012. Report No 24/2012. Published 26 October 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SpringBokGasArctic.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SpringBokGasArctic.pdf');\">SpringBokGasArctic.pdf</a>\r\n (894.42 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the collision involving mv Spring Bok and Gas Arctic 6nm south of Dungeness on 24 March 2012. Report No 24/2012. Published 26 October 2012.\n\n  \n[ASSET_TAG](#ASSET0) (894.42 kb) \n"
+}

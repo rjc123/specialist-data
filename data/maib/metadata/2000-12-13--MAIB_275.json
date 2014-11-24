@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "lagik.pdf\r\n (303.70 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "13 December 2000", 
+    "Report name:": "Lagik (42/2001)", 
+    "Summary:": "Report of the grounding of Lagik at Port Sutton Bridge on 13 December 2000"
+  }, 
+  "date_of_occurrence": "2000-12-13", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/lagik.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Lagik synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/lagik%20synopsis%2Epdf", 
+      "filename": "downloads/3ab2f7997deed1fb4b65984b4c5c8ed3a6c8934d/lagik synopsis.pdf", 
+      "original_filename": "lagik synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "lagik.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/lagik.pdf", 
+      "filename": "downloads/89f0154b647bbdd131fd34ec9a9c7af515a7564f/lagik.pdf", 
+      "original_filename": "lagik.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Lagik", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/lagik%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Lagik synopsis</a>\r\n (368.10 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Lagik (42/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">13 December 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the grounding of Lagik at Port Sutton Bridge on 13 December 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/lagik.pdf\">lagik.pdf</a>\r\n (303.70 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (368.10 kb)\n\n  \nReport of the grounding of Lagik at Port Sutton Bridge on 13 December 2000\n\n  \n[ASSET_TAG](#ASSET1) (303.70 kb) \n"
+}

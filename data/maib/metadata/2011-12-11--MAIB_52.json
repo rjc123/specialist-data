@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "ACXHibiscus-HyundaiDiscovery_Report.pdf\r\n (1,676.61 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "11 December 2011", 
+    "Report name:": "Hyundai Discovery and ACX Hibiscus", 
+    "Summary:": "MAIB Report on the investigation of the collision between mv Hyundai Discovery and mv ACX Hibiscus in the approaches to the eastern Singapore Strait TSS at 0756 local time on 11 December 2011. Report No 15/2013. Published 19 June 2013."
+  }, 
+  "date_of_occurrence": "2011-12-11", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2013/hyundai_discovery_and_acx_hibiscus.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "ACXHibiscus-HyundaiDiscovery_Report.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/ACXHibiscus-HyundaiDiscovery_Report.pdf", 
+      "filename": "downloads/5acb8bb01ed007423d91574c5fa57c91541fa304/ACXHibiscus-HyundaiDiscovery_Report.pdf", 
+      "original_filename": "ACXHibiscus-HyundaiDiscovery_Report.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/ACXHibiscus%2DHyundaiDiscovery%5FAnnexes%2Epdf", 
+      "filename": "downloads/a2f0d09e382b969fadab940a60a48ea07d17c96e/ACXHibiscus-HyundaiDiscovery_Annexes.pdf", 
+      "original_filename": "ACXHibiscus-HyundaiDiscovery_Annexes.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 15/2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Hyundai Discovery and ACX Hibiscus</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">11 December 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the collision between mv <span>Hyundai Discovery</span> and mv <span>ACX Hibiscus</span> in the approaches to the eastern Singapore Strait TSS at 0756 local time on 11 December 2011. Report No 15/2013. Published 19 June 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/ACXHibiscus-HyundaiDiscovery_Report.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ACXHibiscus-HyundaiDiscovery_Report.pdf');\">ACXHibiscus-HyundaiDiscovery_Report.pdf</a>\r\n (1,676.61 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ACXHibiscus-HyundaiDiscovery_Annexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/ACXHibiscus%2DHyundaiDiscovery%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (12,132.56 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the collision between mv Hyundai Discovery and mv ACX Hibiscus in the approaches to the eastern Singapore Strait TSS at 0756 local time on 11 December 2011. Report No 15/2013. Published 19 June 2013.\n\n  \n[ASSET_TAG](#ASSET0) (1,676.61 kb) \n\n[ASSET_TAG](#ASSET1) (12,132.56 kb)\n"
+}

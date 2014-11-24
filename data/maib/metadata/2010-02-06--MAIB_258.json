@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "IsleofArranReport.pdf\r\n (1,277.31 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "06 February 2010", 
+    "Report name:": "Isle of Arran", 
+    "Summary:": "MAIB report on the investigation of the contact by Isle of Arran with the linkspan at Kennacraig West Loch Tarbert, Kintyre on 6 February 2010. Report No 13/2010. Published 14 October 2010."
+  }, 
+  "date_of_occurrence": "2010-02-06", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2010/isle_of_arran.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/IsleofArranSynopsis%2Epdf", 
+      "filename": "downloads/2c4ea14ee1482db7fc8fab790f817eab810521ba/IsleofArranSynopsis.pdf", 
+      "original_filename": "IsleofArranSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "IsleofArranReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/IsleofArranReport.pdf", 
+      "filename": "downloads/c4f9c5233a08e15e32b426b4bbe9cf54a5a06668/IsleofArranReport.pdf", 
+      "original_filename": "IsleofArranReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/IsleofArranAnnexes%2Epdf", 
+      "filename": "downloads/17650c8e1d0676960e6197f2d07cc880be8da35d/IsleofArranAnnexes.pdf", 
+      "original_filename": "IsleofArranAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Isle of Arran", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/IsleofArranSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/IsleofArranSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (111.68 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Isle of Arran</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">06 February 2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation of the contact by Isle of Arran with the linkspan at Kennacraig West Loch Tarbert, Kintyre on 6 February 2010. Report No 13/2010. Published 14 October 2010.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/IsleofArranReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/IsleofArranReport.pdf');\">IsleofArranReport.pdf</a>\r\n (1,277.31 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/IsleofArranAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/IsleofArranAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,809.44 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (111.68 kb)\n\n  \nMAIB report on the investigation of the contact by Isle of Arran with the linkspan at Kennacraig West Loch Tarbert, Kintyre on 6 February 2010. Report No 13/2010. Published 14 October 2010.\n\n  \n[ASSET_TAG](#ASSET1) (1,277.31 kb) \n\n[ASSET_TAG](#ASSET2) (2,809.44 kb)\n"
+}

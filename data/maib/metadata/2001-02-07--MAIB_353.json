@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "pride-of-cherbourg.pdf\r\n (342.84 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "07 February 2001", 
+    "Report name:": "Pride of Cherbourg and Briarthorn (04/2002)", 
+    "Summary:": "Report on the investigation of the near miss between Pride of Cherbourg and Briathorn in Eastern Solent on 7 February 2001"
+  }, 
+  "date_of_occurrence": "2001-02-07", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/pride_of_cherbourg_and_briarthorn.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Pride of Cherbourg synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/pride%2Dof%2Dcherbourg%20synopsis%2Epdf", 
+      "filename": "downloads/285bd1f2225c40524f73999ad3c3f8d0e4e9bb92/pride-of-cherbourg synopsis.pdf", 
+      "original_filename": "pride-of-cherbourg synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "pride-of-cherbourg.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/pride-of-cherbourg.pdf", 
+      "filename": "downloads/314d5024d14d9e0536ff929747ba3507766e3770/pride-of-cherbourg.pdf", 
+      "original_filename": "pride-of-cherbourg.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Pride of Cherbourg and Briarthorn", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/pride%2Dof%2Dcherbourg%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Pride of Cherbourg synopsis</a>\r\n (382.81 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Pride of Cherbourg and Briarthorn (04/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">07 February 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the near miss between Pride of Cherbourg and Briathorn in Eastern Solent on 7 February 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/pride-of-cherbourg.pdf\">pride-of-cherbourg.pdf</a>\r\n (342.84 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (382.81 kb)\n\n  \nReport on the investigation of the near miss between Pride of Cherbourg and Briathorn in Eastern Solent on 7 February 2001\n\n  \n[ASSET_TAG](#ASSET1) (342.84 kb) \n"
+}

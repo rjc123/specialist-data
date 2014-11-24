@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "Download report:": "our-sarah-jane-and-thelisis.pdf\r\n (605.94 kb)", 
+    "Category:": "Merchant vessels,Fishing vessels", 
+    "Incident date:": "20 June 2001", 
+    "Report name:": "Thelisis and Our Sarah Jayne (09/2002)", 
+    "Summary:": "Report of the collision between Thelisis and Our Sarah Jayne in the Thames Estuary 20 June 2001"
+  }, 
+  "date_of_occurrence": "2001-06-20", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/thelisis_and_our_sarah_jane.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Thelisis and Our Sarah Jane synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/our%2Dsarah%2Djane%2Dand%2Dthelisis%20synopsis%2Epdf", 
+      "filename": "downloads/aa8d866334fce81e766e448daae98cbdebc5543f/our-sarah-jane-and-thelisis synopsis.pdf", 
+      "original_filename": "our-sarah-jane-and-thelisis synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "our-sarah-jane-and-thelisis.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/our-sarah-jane-and-thelisis.pdf", 
+      "filename": "downloads/95aaab210bf3c21768b649358d1aae3e68d33f31/our-sarah-jane-and-thelisis.pdf", 
+      "original_filename": "our-sarah-jane-and-thelisis.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Thelisis and Our Sarah Jane", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/our%2Dsarah%2Djane%2Dand%2Dthelisis%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Thelisis and Our Sarah Jane synopsis</a>\r\n (299.56 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Thelisis and Our Sarah Jayne (09/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">20 June 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the collision between Thelisis and Our Sarah Jayne in the Thames Estuary 20 June 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/our-sarah-jane-and-thelisis.pdf\">our-sarah-jane-and-thelisis.pdf</a>\r\n (605.94 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (299.56 kb)\n\n  \nReport of the collision between Thelisis and Our Sarah Jayne in the Thames Estuary 20 June 2001\n\n  \n[ASSET_TAG](#ASSET1) (605.94 kb) \n"
+}

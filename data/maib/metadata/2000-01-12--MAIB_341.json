@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "pasadena universal nordheim.pdf\r\n (1,987.02 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "12 January 2000", 
+    "Report name:": "Pasadena Universal/Nordheim (35/2000)", 
+    "Summary:": "Report on the investigation of the collision between the Cayman Islands registered reefer Pasadena Universal and the Cyprus registered bulk carrier Nordheim in the Dover Strait on 12 January 2000"
+  }, 
+  "date_of_occurrence": "2000-01-12", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/pasadena_universal_nordheim.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Pasadena Universal Nordheim - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/pasadena%20universal%20nordheim%20synopsis%2Epdf", 
+      "filename": "downloads/0b091aa5e9755376c34e08ce52620400a57e9a38/pasadena universal nordheim synopsis.pdf", 
+      "original_filename": "pasadena universal nordheim synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "pasadena universal nordheim.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/pasadena universal nordheim.pdf", 
+      "filename": "downloads/788252d824d59aea5714aa57bcdb455ae5b2fe6d/pasadena universal nordheim.pdf", 
+      "original_filename": "pasadena universal nordheim.pdf"
+    }
+  ], 
+  "title": "Investigation report - Pasadena Universal/Nordheim", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/pasadena%20universal%20nordheim%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Pasadena Universal Nordheim - Synopsis</a>\r\n (88.80 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Pasadena Universal/Nordheim (35/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">12 January 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the collision between the Cayman Islands registered reefer Pasadena Universal and the Cyprus registered bulk carrier Nordheim in the Dover Strait on 12 January 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/pasadena%20universal%20nordheim.pdf\">pasadena universal nordheim.pdf</a>\r\n (1,987.02 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (88.80 kb)\n\n  \nReport on the investigation of the collision between the Cayman Islands registered reefer Pasadena Universal and the Cyprus registered bulk carrier Nordheim in the Dover Strait on 12 January 2000\n\n  \n[ASSET_TAG](#ASSET1) (1,987.02 kb) \n"
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "Mollyanna.pdf\r\n (358.93 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "02 July 2005", 
+    "Report name:": "Mollyanna", 
+    "Summary:": "Report on the investigation of the capsize of the sailing dinghy Mollyanna, with two fatalities, off Puffin Island, North Wales on\r\r\n2 July 2005. Report no 9/2006."
+  }, 
+  "date_of_occurrence": "2005-07-02", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/mollyanna.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Mollyanna%5FSynopsis%2Epdf", 
+      "filename": "downloads/5013931a97cc3fa7267e7bd3df4ffe0b6cf8e475/Mollyanna_Synopsis.pdf", 
+      "original_filename": "Mollyanna_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Mollyanna.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Mollyanna.pdf", 
+      "filename": "downloads/f6f8ce047755fb916b019a2edcab91aca51d2444/Mollyanna.pdf", 
+      "original_filename": "Mollyanna.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Mollyanna%5FAnnexes%2Epdf", 
+      "filename": "downloads/d68093e316a821b38c2512e2c3df14895a449ddc/Mollyanna_Annexes.pdf", 
+      "original_filename": "Mollyanna_Annexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Mollyanna", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>This report has been split into sections to make it easier to view:</p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Mollyanna%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (18.40 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Mollyanna</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">02 July 2005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the capsize of the sailing dinghy Mollyanna, with two fatalities, off Puffin Island, North Wales on\r\r\n2 July 2005. Report no 9/2006.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Mollyanna.pdf\">Mollyanna.pdf</a>\r\n (358.93 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Mollyanna%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,386.89 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "This report has been split into sections to make it easier to view:\n\n[ASSET_TAG](#ASSET0) (18.40 kb)\n\n  \nReport on the investigation of the capsize of the sailing dinghy Mollyanna, with two fatalities, off Puffin Island, North Wales on 2 July 2005. Report no 9/2006.\n\n  \n[ASSET_TAG](#ASSET1) (358.93 kb) \n\n[ASSET_TAG](#ASSET2) (2,386.89 kb)\n"
+}

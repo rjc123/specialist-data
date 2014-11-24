@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "toisa gryphon.pdf\r\n (2,393.65 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "02 February 1999", 
+    "Report name:": "Toisa Gryphon (1/2000)", 
+    "Summary:": "Report into the investigation into the engine room fire on  the UK registered merchant vessel Toisa Gryphon 150 miles west-south-west of the Isles of Scilly on 2 February 1999"
+  }, 
+  "date_of_occurrence": "1999-02-02", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/toisa_gryphon.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Toisa Gryphon- Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/toisa%20gryphon%20synopsis%2Epdf", 
+      "filename": "downloads/227a0ae32e61a7b499ff68854edd73c1e6a203c3/toisa gryphon synopsis.pdf", 
+      "original_filename": "toisa gryphon synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "toisa gryphon.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/toisa gryphon.pdf", 
+      "filename": "downloads/f895dc9079f682b520b1f87f024b830ce45b14c8/toisa gryphon.pdf", 
+      "original_filename": "toisa gryphon.pdf"
+    }
+  ], 
+  "title": "Investigation report - Toisa Gryphon", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/toisa%20gryphon%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Toisa Gryphon- Synopsis</a>\r\n (83.57 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Toisa Gryphon (1/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">02 February 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report into the investigation into the engine room fire on  the UK registered merchant vessel Toisa Gryphon 150 miles west-south-west of the Isles of Scilly on 2 February 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/toisa%20gryphon.pdf\">toisa gryphon.pdf</a>\r\n (2,393.65 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (83.57 kb)\n\n  \nReport into the investigation into the engine room fire on the UK registered merchant vessel Toisa Gryphon 150 miles west-south-west of the Isles of Scilly on 2 February 1999\n\n  \n[ASSET_TAG](#ASSET1) (2,393.65 kb) \n"
+}

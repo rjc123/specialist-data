@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Donald Redford.pdf\r\n (569.52 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "01 November 2003", 
+    "Report name:": "Donald Redford, Hythe Pier, 1 November 2003 (06/2004)", 
+    "Summary:": "The aggregates dredger Donald Redford collided with Hythe Pier in Southampton water on 1 November 2003"
+  }, 
+  "date_of_occurrence": "2003-11-01", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2004/donald_redford__hythe_pier__1_november_2003.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Donald Redford Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Donald%20Redford%20synopsis%2Epdf", 
+      "filename": "downloads/de33224eeef009a74668dff8aa78bb467af97574/Donald Redford synopsis.pdf", 
+      "original_filename": "Donald Redford synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Donald Redford.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Donald Redford.pdf", 
+      "filename": "downloads/e4884e5ee0f5c4b2f66d24315eb3f8f1d966575e/Donald Redford.pdf", 
+      "original_filename": "Donald Redford.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Donald Redford", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Donald%20Redford%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Donald Redford Synopsis</a>\r\n (11.58 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Donald Redford, Hythe Pier, 1 November 2003 (06/2004)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">01 November 2003</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">The aggregates dredger Donald Redford collided with Hythe Pier in Southampton water on 1 November 2003</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Donald%20Redford.pdf\">Donald Redford.pdf</a>\r\n (569.52 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (11.58 kb)\n\n  \nThe aggregates dredger Donald Redford collided with Hythe Pier in Southampton water on 1 November 2003\n\n  \n[ASSET_TAG](#ASSET1) (569.52 kb) \n"
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "LadyCandidaReport.pdf\r\n (1,186.62 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "28 July 2007", 
+    "Report name:": "Lady Candida", 
+    "Summary:": "Report on the investigation of\r\r\nthe fire and subsequent sinking of Lady Candida off Corsica on 28 July 2007. Report No 4/2008. Published 18 February 2008."
+  }, 
+  "date_of_occurrence": "2007-07-28", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2008/lady_candida.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/LadyCandidaSynopsis%2Epdf", 
+      "filename": "downloads/15ed89b0eadf89c1e103243ff0f3b50c74729ba1/LadyCandidaSynopsis.pdf", 
+      "original_filename": "LadyCandidaSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "LadyCandidaReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/LadyCandidaReport.pdf", 
+      "filename": "downloads/91fbc70f167339c83784a393e2dc9becf9daad6a/LadyCandidaReport.pdf", 
+      "original_filename": "LadyCandidaReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/LadyCandidaAnnexes%2Epdf", 
+      "filename": "downloads/fb978a306dd2e2ccc7d91de31b02e7ad88e14713/LadyCandidaAnnexes.pdf", 
+      "original_filename": "LadyCandidaAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Lady Candida", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/LadyCandidaSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/LadyCandidaSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (128.63 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Lady Candida</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">28 July 2007</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of\r\r\nthe fire and subsequent sinking of Lady Candida off Corsica on 28 July 2007. Report No 4/2008. Published 18 February 2008.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/LadyCandidaReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/LadyCandidaReport.pdf');\">LadyCandidaReport.pdf</a>\r\n (1,186.62 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/LadyCandidaAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/LadyCandidaAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (190.00 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (128.63 kb)\n\n  \nReport on the investigation of the fire and subsequent sinking of Lady Candida off Corsica on 28 July 2007. Report No 4/2008. Published 18 February 2008.\n\n  \n[ASSET_TAG](#ASSET1) (1,186.62 kb) \n\n[ASSET_TAG](#ASSET2) (190.00 kb)\n"
+}

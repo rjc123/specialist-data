@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "gemma-fidelis.pdf\r\n (293.25 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "23 October 2001", 
+    "Report name:": "Gemma Fidelis (24/2002)", 
+    "Summary:": "Report on the investigation of a fatal accident on board Gemma Fidelis (GY 419)9 miles east of the River Tees on 23 October 2001"
+  }, 
+  "date_of_occurrence": "2001-10-23", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/gemma_fidelis__gy_419_.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Gemma Fidelis synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/gemma%2Dfidelis%20synopsis%2Epdf", 
+      "filename": "downloads/ca64b6dd2a6104adf0b3c9d6ca8466531c699e6c/gemma-fidelis synopsis.pdf", 
+      "original_filename": "gemma-fidelis synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "gemma-fidelis.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/gemma-fidelis.pdf", 
+      "filename": "downloads/a5cc0c3fba61b5867406c6f363161c7bf3a6f82e/gemma-fidelis.pdf", 
+      "original_filename": "gemma-fidelis.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Fv Gemma Fidelis (GY 419)", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/gemma%2Dfidelis%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Gemma Fidelis synopsis</a>\r\n (369.36 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Gemma Fidelis (24/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">23 October 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of a fatal accident on board Gemma Fidelis (GY 419)9 miles east of the River Tees on 23 October 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/gemma-fidelis.pdf\">gemma-fidelis.pdf</a>\r\n (293.25 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (369.36 kb)\n\n  \nReport on the investigation of a fatal accident on board Gemma Fidelis (GY 419)9 miles east of the River Tees on 23 October 2001\n\n  \n[ASSET_TAG](#ASSET1) (293.25 kb) \n"
+}

@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "Download report:": "xuchanghai.pdf\r\n (294.60 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "12 December 2000", 
+    "Report name:": "Xuchanghai and Aberdeen (30/2001)"
+  }, 
+  "date_of_occurrence": "2000-12-12", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/xuchanghai_and_aberdeen.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Xuchanghai and Aberdeen synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/xuchanghai%20synopsis%2Epdf", 
+      "filename": "downloads/76d09cb04bc92145a0398b0b7f424f0aae15710b/xuchanghai synopsis.pdf", 
+      "original_filename": "xuchanghai synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "xuchanghai.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/xuchanghai.pdf", 
+      "filename": "downloads/a9a8b943bd9a25bb229958b4a9b629c350186e04/xuchanghai.pdf", 
+      "original_filename": "xuchanghai.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Xuchanghai and Aberdeen", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/xuchanghai%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Xuchanghai and Aberdeen synopsis</a>\r\n (323.31 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Xuchanghai and Aberdeen (30/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">12 December 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/xuchanghai.pdf\">xuchanghai.pdf</a>\r\n (294.60 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (323.31 kb)\n\n  \n[ASSET_TAG](#ASSET1) (294.60 kb) \n"
+}

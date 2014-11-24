@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "Download report:": "betty james.pdf\r\n (785.01 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "10 July 2000", 
+    "Report name:": "Betty James (34/2000)"
+  }, 
+  "date_of_occurrence": "2000-07-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/betty_james.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Betty James - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/betty%20james%20synopsis%2Epdf", 
+      "filename": "downloads/e719e58bfc5870c9073bad7bb1ad267c637cbf86/betty james synopsis.pdf", 
+      "original_filename": "betty james synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "betty james.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/betty james.pdf", 
+      "filename": "downloads/fd5d1fc588196ef049a16751e336ed5d9caa9709/betty james.pdf", 
+      "original_filename": "betty james.pdf"
+    }
+  ], 
+  "title": "Investigation report - Betty James", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/betty%20james%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Betty James - Synopsis</a>\r\n (36.91 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Betty James (34/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 July 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/betty%20james.pdf\">betty james.pdf</a>\r\n (785.01 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (36.91 kb)\n\n  \n[ASSET_TAG](#ASSET1) (785.01 kb) \n"
+}

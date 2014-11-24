@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "CarrierReport.pdf\r\n (2,846.92 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "03 April 2012", 
+    "Report name:": "Carrier", 
+    "Summary:": "MAIB Report on the investigation of the grounding of the cargo ship Carrier at Raynes Jetty in Llanddulas, North Wales on 3 April 2012. Report No 8/2013. Published 22 May 2013."
+  }, 
+  "date_of_occurrence": "2012-04-03", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2013/carrier.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "CarrierReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/CarrierReport.pdf", 
+      "filename": "downloads/bc9749f5602f95bc4c1ed7565014a7210af02af0/CarrierReport.pdf", 
+      "original_filename": "CarrierReport.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 8/2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Carrier</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">03 April 2012</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the grounding of the cargo ship <span>Carrier</span> at Raynes Jetty in Llanddulas, North Wales on 3 April 2012. Report No 8/2013. Published 22 May 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/CarrierReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CarrierReport.pdf');\">CarrierReport.pdf</a>\r\n (2,846.92 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the grounding of the cargo ship Carrier at Raynes Jetty in Llanddulas, North Wales on 3 April 2012. Report No 8/2013. Published 22 May 2013.\n\n  \n[ASSET_TAG](#ASSET0) (2,846.92 kb) \n"
+}

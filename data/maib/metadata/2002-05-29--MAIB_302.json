@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "maria-h.pdf\r\n (250.29 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "29 May 2002", 
+    "Report name:": "Maria H (08/2003)", 
+    "Summary:": "Report on the investigation of Maria H striking the Keadby railway bridge 29 May 2002"
+  }, 
+  "date_of_occurrence": "2002-05-29", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/maria_h.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Maria H Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/maria%2Dh%20synopsis%2Epdf", 
+      "filename": "downloads/d057bef228c8da860cf3584a4ef7db82a334cefc/maria-h synopsis.pdf", 
+      "original_filename": "maria-h synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "maria-h.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/maria-h.pdf", 
+      "filename": "downloads/d7bd1fc22ad1de7d66fdbf99e1ae1ee60a121421/maria-h.pdf", 
+      "original_filename": "maria-h.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Maria H", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/maria%2Dh%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Maria H Synopsis</a>\r\n (13.01 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Maria H (08/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">29 May 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of Maria H striking the Keadby railway bridge 29 May 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/maria-h.pdf\">maria-h.pdf</a>\r\n (250.29 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (13.01 kb)\n\n  \nReport on the investigation of Maria H striking the Keadby railway bridge 29 May 2002\n\n  \n[ASSET_TAG](#ASSET1) (250.29 kb) \n"
+}

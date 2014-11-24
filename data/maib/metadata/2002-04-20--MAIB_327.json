@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "osprey.pdf\r\n (646.31 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "20 April 2002", 
+    "Report name:": "Osprey (INS130) (03/2003)", 
+    "Summary:": "Fatal accident to a man overboard from the fishing vessel Osprey in Lochinver Harbour 20 April  2002"
+  }, 
+  "date_of_occurrence": "2002-04-20", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/osprey__ins130_.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Osprey Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/osprey%20synopsis%2Epdf", 
+      "filename": "downloads/62fad3d16258147d894fdb0910682d57e2bb2aa2/osprey synopsis.pdf", 
+      "original_filename": "osprey synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "osprey.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/osprey.pdf", 
+      "filename": "downloads/b00ba50b572180306cb28a8bb0855a489cfa8c39/osprey.pdf", 
+      "original_filename": "osprey.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Fv Osprey (INS130)", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/osprey%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Osprey Synopsis</a>\r\n (12.67 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Osprey (INS130) (03/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">20 April 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fatal accident to a man overboard from the fishing vessel Osprey in Lochinver Harbour 20 April  2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/osprey.pdf\">osprey.pdf</a>\r\n (646.31 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (12.67 kb)\n\n  \nFatal accident to a man overboard from the fishing vessel Osprey in Lochinver Harbour 20 April 2002\n\n  \n[ASSET_TAG](#ASSET1) (646.31 kb) \n"
+}

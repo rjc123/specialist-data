@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "MaggieAnnReport.pdf\r\n (840.63 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "12 February 2009", 
+    "Report name:": "Maggie Ann", 
+    "Summary:": "MAIB Report on the investigation of a manoverboard accident, FV Maggie Ann in Cardigan Bay on 12 February 2009, resulting in one fatality. Report No 19/2009. Published 8 September 2009."
+  }, 
+  "date_of_occurrence": "2009-02-12", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/maggie_ann.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaggieAnnSynopsis%2Epdf", 
+      "filename": "downloads/351de05ce1fa0e2851121f0ccc9cbab756276926/MaggieAnnSynopsis.pdf", 
+      "original_filename": "MaggieAnnSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "MaggieAnnReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaggieAnnReport.pdf", 
+      "filename": "downloads/7609e395b584ff54354c5b791da59d368b3de9d2/MaggieAnnReport.pdf", 
+      "original_filename": "MaggieAnnReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaggieAnnAnnexes%2Epdf", 
+      "filename": "downloads/8e9d49c0260ded9250dad157f493ca9b5644f1e0/MaggieAnnAnnexes.pdf", 
+      "original_filename": "MaggieAnnAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Maggie Ann", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaggieAnnSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/MaggieAnnSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (92.94 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Maggie Ann</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">12 February 2009</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of a manoverboard accident, FV Maggie Ann in Cardigan Bay on 12 February 2009, resulting in one fatality. Report No 19/2009. Published 8 September 2009.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/MaggieAnnReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaggieAnnReport.pdf');\">MaggieAnnReport.pdf</a>\r\n (840.63 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaggieAnnAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/MaggieAnnAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,169.27 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">An Accident Flyer was produced for this incident and can also be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2009/maggie_ann.cfm\">Flyer to the Fishing Industry</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (92.94 kb)\n\n  \nMAIB Report on the investigation of a manoverboard accident, FV Maggie Ann in Cardigan Bay on 12 February 2009, resulting in one fatality. Report No 19/2009. Published 8 September 2009.\n\n  \n[ASSET_TAG](#ASSET1) (840.63 kb) \n\n[ASSET_TAG](#ASSET2) (1,169.27 kb)\n\nAn Accident Flyer was produced for this incident and can also be viewed on this website:  \n[Flyer to the Fishing Industry](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2009/maggie_ann.cfm)\n"
+}

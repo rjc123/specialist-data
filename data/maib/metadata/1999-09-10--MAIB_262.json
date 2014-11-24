@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "jasper3.pdf\r\n (806.89 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "10 September 1999", 
+    "Report name:": "Jasper III (12/2000)", 
+    "Summary:": "Report on the investigation of the foundering of the fv Jasper III PD174 90 miles north-east of Fraserburgh on 10 September 1999"
+  }, 
+  "date_of_occurrence": "1999-09-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/jasper_iii.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Jasper III - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/jasper3%20synopsis%2Epdf", 
+      "filename": "downloads/ba370b58a6e06fa294c3ba1fab833de246539c83/jasper3 synopsis.pdf", 
+      "original_filename": "jasper3 synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "jasper3.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/jasper3.pdf", 
+      "filename": "downloads/5e30c43feb7b8dc9c92f02ae3b225264a31ee8f5/jasper3.pdf", 
+      "original_filename": "jasper3.pdf"
+    }
+  ], 
+  "title": "Investigation report - Jasper III", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/jasper3%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Jasper III - Synopsis</a>\r\n (67.25 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Jasper III (12/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 September 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the foundering of the fv Jasper III PD174 90 miles north-east of Fraserburgh on 10 September 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/jasper3.pdf\">jasper3.pdf</a>\r\n (806.89 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (67.25 kb)\n\n  \nReport on the investigation of the foundering of the fv Jasper III PD174 90 miles north-east of Fraserburgh on 10 September 1999\n\n  \n[ASSET_TAG](#ASSET1) (806.89 kb) \n"
+}

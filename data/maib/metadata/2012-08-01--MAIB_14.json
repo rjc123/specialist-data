@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "AlexanderTvardovskiy.pdf\r\n (4,714.26 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "01 August 2012", 
+    "Report name:": "Alexander Tvardovskiy", 
+    "Summary:": "MAIB report on the investigation of the collision between Alexander Tvardovskiy and UKD Bluefin and Wilson Hawk in Immingham on 1 August 2012. Report No 10/2013. Published 31 May 2013."
+  }, 
+  "date_of_occurrence": "2012-08-01", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2013/alexander_tvardovskiy.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "AlexanderTvardovskiy.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/AlexanderTvardovskiy.pdf", 
+      "filename": "downloads/d51ee715eb1df60aa79a651aa8d2bdbcd969c724/AlexanderTvardovskiy.pdf", 
+      "original_filename": "AlexanderTvardovskiy.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 10/2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Alexander Tvardovskiy</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">01 August 2012</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation of the collision between <span>Alexander Tvardovskiy</span> and <span>UKD Bluefin</span> and <span>Wilson Hawk</span> in Immingham on 1 August 2012. Report No 10/2013. Published 31 May 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/AlexanderTvardovskiy.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AlexanderTvardovskiy.pdf');\">AlexanderTvardovskiy.pdf</a>\r\n (4,714.26 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB report on the investigation of the collision between Alexander Tvardovskiy and UKD Bluefin and Wilson Hawk in Immingham on 1 August 2012. Report No 10/2013. Published 31 May 2013.\n\n  \n[ASSET_TAG](#ASSET0) (4,714.26 kb) \n"
+}

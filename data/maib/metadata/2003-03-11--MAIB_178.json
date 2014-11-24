@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Claymore.pdf\r\n (809.10 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "11 March 2003", 
+    "Report name:": "Claymore (24/2003)", 
+    "Summary:": "Report on the investigation of the entanglement in moorings of mv Claymore St Margaret's Hope 11 March 2003"
+  }, 
+  "date_of_occurrence": "2003-03-11", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/claymore.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Claymore Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Claymore%20synopsis%2Epdf", 
+      "filename": "downloads/ad3977d64a05ca5dff59c51e42f9a78ee1ab2481/Claymore synopsis.pdf", 
+      "original_filename": "Claymore synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Claymore.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Claymore.pdf", 
+      "filename": "downloads/278e5fc3845716df62360fbbbde546d7a835ac29/Claymore.pdf", 
+      "original_filename": "Claymore.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Claymore", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Claymore%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Claymore Synopsis</a>\r\n (12.02 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Claymore (24/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">11 March 2003</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the entanglement in moorings of mv Claymore St Margaret's Hope 11 March 2003</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Claymore.pdf\">Claymore.pdf</a>\r\n (809.10 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (12.02 kb)\n\n  \nReport on the investigation of the entanglement in moorings of mv Claymore St Margaret's Hope 11 March 2003\n\n  \n[ASSET_TAG](#ASSET1) (809.10 kb) \n"
+}

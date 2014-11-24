@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "CostaAtlanticaGrandNeptuneReport.pdf\r\n (1,134.90 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "15 May 2008", 
+    "Report name:": "Costa Atlantica & Grand Neptune", 
+    "Summary:": "MAIB report on the investigation of a close-quarter situation between Costa Atlantica and Grand Neptune in the Dover Strait. Report No 20/2008. Published 19 November 2008."
+  }, 
+  "date_of_occurrence": "2008-05-15", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2008/costa_atlantica___grand_neptune.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/CostaAtlanticaGrandNeptuneSynopsis%2Epdf", 
+      "filename": "downloads/8e0beaf5b71f4b7d6cb8a9aa75a8acc7ba53d4a8/CostaAtlanticaGrandNeptuneSynopsis.pdf", 
+      "original_filename": "CostaAtlanticaGrandNeptuneSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "CostaAtlanticaGrandNeptuneReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/CostaAtlanticaGrandNeptuneReport.pdf", 
+      "filename": "downloads/976c77befd4333e8c9fd493b4ddedeb646263c43/CostaAtlanticaGrandNeptuneReport.pdf", 
+      "original_filename": "CostaAtlanticaGrandNeptuneReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/CostaAtlanticaGrandNeptuneAnnexes%2Epdf", 
+      "filename": "downloads/59f3f2317d7d12e22365f7244f64bd0a55258b03/CostaAtlanticaGrandNeptuneAnnexes.pdf", 
+      "original_filename": "CostaAtlanticaGrandNeptuneAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Costa Atlantica & Grand Neptune", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>Synopsis 20/2008</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CostaAtlanticaGrandNeptuneSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/CostaAtlanticaGrandNeptuneSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (41.13 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Costa Atlantica &amp; Grand Neptune</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">15 May 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation of a close-quarter situation between Costa Atlantica and Grand Neptune in the Dover Strait. Report No 20/2008. Published 19 November 2008.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/CostaAtlanticaGrandNeptuneReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CostaAtlanticaGrandNeptuneReport.pdf');\">CostaAtlanticaGrandNeptuneReport.pdf</a>\r\n (1,134.90 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CostaAtlanticaGrandNeptuneAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/CostaAtlanticaGrandNeptuneAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (201.25 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "Synopsis 20/2008\n\n[ASSET_TAG](#ASSET0) (41.13 kb)\n\n  \nMAIB report on the investigation of a close-quarter situation between Costa Atlantica and Grand Neptune in the Dover Strait. Report No 20/2008. Published 19 November 2008.\n\n  \n[ASSET_TAG](#ASSET1) (1,134.90 kb) \n\n[ASSET_TAG](#ASSET2) (201.25 kb)\n"
+}

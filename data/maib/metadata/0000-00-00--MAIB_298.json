@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "Download report:": "MaerskNewportReport.pdf\r\n (1,243.51 kb)", 
+    "Category:": "Merchant vessels", 
+    "Summary:": "MAIB report on the investigations of heavy weather damage on board the container ship Maersk Newport, 50 miles west of Guernsey on 10 November 2008, and fire alongside at the container berth in Algeciras, Spain on 15 November 2008. Report No 13/2009. Published 17 June 2009.", 
+    "Report name:": "Maersk Newport"
+  }, 
+  "date_of_occurrence": "2014-11-20T15:52:24.392540", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/maersk_newport.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaerskNewportSynopsis%2Epdf", 
+      "filename": "downloads/d8c8b17763efea2a01645068dd8df79adb8a8151/MaerskNewportSynopsis.pdf", 
+      "original_filename": "MaerskNewportSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "MaerskNewportReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaerskNewportReport.pdf", 
+      "filename": "downloads/9d29c1efdadc111945fcffb1e91179d0463c85ae/MaerskNewportReport.pdf", 
+      "original_filename": "MaerskNewportReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaerskNewportAnnexes%2Epdf", 
+      "filename": "downloads/5f3592214d23b16ba3830cbdcf6f33ac793ff8d3/MaerskNewportAnnexes.pdf", 
+      "original_filename": "MaerskNewportAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Maersk Newport", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaerskNewportSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/MaerskNewportSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (88.59 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Maersk Newport</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigations of heavy weather damage on board the container ship Maersk Newport, 50 miles west of Guernsey on 10 November 2008, and fire alongside at the container berth in Algeciras, Spain on 15 November 2008. Report No 13/2009. Published 17 June 2009.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/MaerskNewportReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaerskNewportReport.pdf');\">MaerskNewportReport.pdf</a>\r\n (1,243.51 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaerskNewportAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/MaerskNewportAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,210.87 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (88.59 kb)\n\n  \nMAIB report on the investigations of heavy weather damage on board the container ship Maersk Newport, 50 miles west of Guernsey on 10 November 2008, and fire alongside at the container berth in Algeciras, Spain on 15 November 2008. Report No 13/2009. Published 17 June 2009.\n\n  \n[ASSET_TAG](#ASSET1) (1,243.51 kb) \n\n[ASSET_TAG](#ASSET2) (2,210.87 kb)\n"
+}

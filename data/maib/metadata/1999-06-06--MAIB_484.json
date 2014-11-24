@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "Download report:": "willemb all annexes.pdf\r\n (2,222.90 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "06 June 1999", 
+    "Report name:": "Willem B - all annexes (5/2000)"
+  }, 
+  "date_of_occurrence": "1999-06-06", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/willem_b___all_annexes.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "willemb all annexes.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/willemb all annexes.pdf", 
+      "filename": "downloads/1810fadacf64cd122dd4dd33bc04a35c996a3b06/willemb all annexes.pdf", 
+      "original_filename": "willemb all annexes.pdf"
+    }
+  ], 
+  "title": "Willem B - All annexes", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Willem B - all annexes (5/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">06 June 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/willemb%20all%20annexes.pdf\">willemb all annexes.pdf</a>\r\n (2,222.90 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \n[ASSET_TAG](#ASSET0) (2,222.90 kb) \n"
+}

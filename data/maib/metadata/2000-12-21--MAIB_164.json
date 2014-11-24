@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "Download report:": "brucestone .pdf\r\n (151.11 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "21 December 2000", 
+    "Report name:": "Bruce Stone and Loverval (31/2001)"
+  }, 
+  "date_of_occurrence": "2000-12-21", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/bruce_stone_and_loverval.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Brucestone synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/brucestone%20synopsis%2Epdf", 
+      "filename": "downloads/e72d50db4ac0800af6272a5290ce7f2007d5524d/brucestone synopsis.pdf", 
+      "original_filename": "brucestone synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "brucestone .pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/brucestone .pdf", 
+      "filename": "downloads/46f9401165001b4ed42cac8812a342df1414b16d/brucestone .pdf", 
+      "original_filename": "brucestone .pdf"
+    }
+  ], 
+  "title": "Investigation Report - Bruce Stone and Loverval", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/brucestone%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Brucestone synopsis</a>\r\n (214.91 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bruce Stone and Loverval (31/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">21 December 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/brucestone%20.pdf\">brucestone .pdf</a>\r\n (151.11 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (214.91 kb)\n\n  \n[ASSET_TAG](#ASSET1) (151.11 kb) \n"
+}

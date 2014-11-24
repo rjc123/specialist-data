@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "Onward.pdf\r\n (797.31 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "11 April 2012", 
+    "Report name:": "Onward", 
+    "Summary:": "MAIB Report on the fire on board the FV Onward 60nm off the north coast of Scotland resulting in the loss of the vessel on 11 April 2012. Report No 27/2012. Published 21 November 2012."
+  }, 
+  "date_of_occurrence": "2012-04-11", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/onward.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Onward.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Onward.pdf", 
+      "filename": "downloads/e93e36639461641661549d7b77f03f4d513532d7/Onward.pdf", 
+      "original_filename": "Onward.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 27/2012", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Onward</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">11 April 2012</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the fire on board the FV <span>Onward</span> 60nm off the north coast of Scotland resulting in the loss of the vessel on 11 April 2012. Report No 27/2012. Published 21 November 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Onward.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Onward.pdf');\">Onward.pdf</a>\r\n (797.31 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the fire on board the FV Onward 60nm off the north coast of Scotland resulting in the loss of the vessel on 11 April 2012. Report No 27/2012. Published 21 November 2012.\n\n  \n[ASSET_TAG](#ASSET0) (797.31 kb) \n"
+}

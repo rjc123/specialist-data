@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "KWaveReport.pdf\r\n (2,491.09 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "15 February 2011", 
+    "Report name:": "K- Wave", 
+    "Summary:": "MAIB report on the grounding of K-Wave near Malaga, Spain on 15 February 2011. Report No 18/2011. Published 22 September 2011."
+  }, 
+  "date_of_occurrence": "2011-02-15", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/k_wave.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "KWaveReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/KWaveReport.pdf", 
+      "filename": "downloads/ca2425729147587c7bb5f689d6add3e7bbada108/KWaveReport.pdf", 
+      "original_filename": "KWaveReport.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 18/2011 - K-Wave", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">K- Wave</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">15 February 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the grounding of K-Wave near Malaga, Spain on 15 February 2011. Report No 18/2011. Published 22 September 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/KWaveReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/KWaveReport.pdf');\">KWaveReport.pdf</a>\r\n (2,491.09 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB report on the grounding of K-Wave near Malaga, Spain on 15 February 2011. Report No 18/2011. Published 22 September 2011.\n\n  \n[ASSET_TAG](#ASSET0) (2,491.09 kb) \n"
+}

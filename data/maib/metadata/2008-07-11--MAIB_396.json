@@ -1,0 +1,31 @@
+{
+  "meta": {
+    "Download report:": "SB2-08.pdf\r\n (169.57 kb)", 
+    "Category:": "Leisure,Merchant vessels,Fishing vessels", 
+    "Incident date:": "11 July 2008", 
+    "Report name:": "Safety Bulletin 2/2008", 
+    "Summary:": "Fatalities in enclosed spaces"
+  }, 
+  "date_of_occurrence": "2008-07-11", 
+  "original_url": "http://maib.gov.uk/publications/safety_bulletins/safety_bulletins_2008/safety_bulletin_2_2008.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "SB2-08.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SB2-08.pdf", 
+      "filename": "downloads/a0048b05d392bff3cb2c64d248c7f644c228948a/SB2-08.pdf", 
+      "original_filename": "SB2-08.pdf"
+    }
+  ], 
+  "title": "Safety Bulletin 2/2008", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Safety Bulletin 2/2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">11 July 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure,Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fatalities in enclosed spaces</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SB2-08.pdf\">SB2-08.pdf</a>\r\n (169.57 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail", 
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "safety-bulletin", 
+  "body": "  \nFatalities in enclosed spaces\n\n  \n[ASSET_TAG](#ASSET0) (169.57 kb) \n"
+}

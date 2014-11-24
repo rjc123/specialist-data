@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "SavaLakeReport.pdf\r\n (1,892.18 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "18 January 2008", 
+    "Report name:": "Sava Lake report", 
+    "Summary:": "MAIB Report on the investigation of the death by asphyxiation of two crewmen on board Sava Lake, approaching the Dover Strait. Report no 15/2008. Published on 23 September 2008."
+  }, 
+  "date_of_occurrence": "2008-01-18", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2008/sava_lake.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SavaLakeSynopsis%2Epdf", 
+      "filename": "downloads/d914dffacca166f609f4123d8d3fd217906b20b7/SavaLakeSynopsis.pdf", 
+      "original_filename": "SavaLakeSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "SavaLakeReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/SavaLakeReport.pdf", 
+      "filename": "downloads/f227e0a10a3f7ee426613d2b822ca685c0b1c707/SavaLakeReport.pdf", 
+      "original_filename": "SavaLakeReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/SavaLakeAnnexes%2Epdf", 
+      "filename": "downloads/80a735233c0a0210495231fc4579fcf68a1b8903/SavaLakeAnnexes.pdf", 
+      "original_filename": "SavaLakeAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Sava Lake", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SavaLakeSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/SavaLakeSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (135.31 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Sava Lake report</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">18 January 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the death by asphyxiation of two crewmen on board Sava Lake, approaching the Dover Strait. Report no 15/2008. Published on 23 September 2008.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SavaLakeReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SavaLakeReport.pdf');\">SavaLakeReport.pdf</a>\r\n (1,892.18 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SavaLakeAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/SavaLakeAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,362.36 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">An accident flyer was produced for this incident and can also be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2008/sava_lake.cfm\">Flyer to the shipping industry</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (135.31 kb)\n\n  \nMAIB Report on the investigation of the death by asphyxiation of two crewmen on board Sava Lake, approaching the Dover Strait. Report no 15/2008. Published on 23 September 2008.\n\n  \n[ASSET_TAG](#ASSET1) (1,892.18 kb) \n\n[ASSET_TAG](#ASSET2) (2,362.36 kb)\n\nAn accident flyer was produced for this incident and can also be viewed on this website:  \n[Flyer to the shipping industry](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2008/sava_lake.cfm)\n"
+}

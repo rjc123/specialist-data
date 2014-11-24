@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "willy.pdf\r\n (375.52 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "01 January 2002", 
+    "Report name:": "mv Willy (31/2002)", 
+    "Summary:": "Report on the investigation of the grounding of mv willy Cawsand Bay, Plymouth Sound on 1 January 2002"
+  }, 
+  "date_of_occurrence": "2002-01-01", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/mv_willy.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Willy synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/willy%20synopsis%2Epdf", 
+      "filename": "downloads/a534aad85b022dcc98505ddb608588728794aa45/willy synopsis.pdf", 
+      "original_filename": "willy synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "willy.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/willy.pdf", 
+      "filename": "downloads/0051fd055482e34c339c9e9cf7cd56ef02f9e8dc/willy.pdf", 
+      "original_filename": "willy.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Mv Willy", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/willy%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Willy synopsis</a>\r\n (282.29 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">mv Willy (31/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">01 January 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the grounding of mv willy Cawsand Bay, Plymouth Sound on 1 January 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/willy.pdf\">willy.pdf</a>\r\n (375.52 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (282.29 kb)\n\n  \nReport on the investigation of the grounding of mv willy Cawsand Bay, Plymouth Sound on 1 January 2002\n\n  \n[ASSET_TAG](#ASSET1) (375.52 kb) \n"
+}

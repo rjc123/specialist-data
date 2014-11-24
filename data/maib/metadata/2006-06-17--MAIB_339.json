@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "Pamela S.pdf\r\n (2,018.72 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "17 June 2006", 
+    "Report name:": "Pamela S", 
+    "Summary:": "Report on the investigation of the capsize and foundering of fv PAMELA S,\r\r\nIH 308, in Carmarthen Bay on 17 June 2006, with the loss of one life. Report no 32/2006."
+  }, 
+  "date_of_occurrence": "2006-06-17", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/pamela_s.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Pamela%20S%5FSynopsis%2Epdf", 
+      "filename": "downloads/6bc8d4c5a90e692d288b1a1145c8bc31c531d161/Pamela S_Synopsis.pdf", 
+      "original_filename": "Pamela S_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Pamela S.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Pamela S.pdf", 
+      "filename": "downloads/74757b38f0914a08e91446cabac4a3e16de626aa/Pamela S.pdf", 
+      "original_filename": "Pamela S.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Annexes%5FPamela%20S%2Epdf", 
+      "filename": "downloads/de67c3b2edcba0cf52e53e814f30b40b8ddc3799/Annexes_Pamela S.pdf", 
+      "original_filename": "Annexes_Pamela S.pdf"
+    }
+  ], 
+  "title": "Investigation Report  - Pamela S", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Pamela%20S%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (37.84 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Pamela S</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">17 June 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the capsize and foundering of fv PAMELA S,\r\r\nIH 308, in Carmarthen Bay on 17 June 2006, with the loss of one life. Report no 32/2006.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Pamela%20S.pdf\">Pamela S.pdf</a>\r\n (2,018.72 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Annexes%5FPamela%20S%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,197.65 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (37.84 kb)\n\n  \nReport on the investigation of the capsize and foundering of fv PAMELA S, IH 308, in Carmarthen Bay on 17 June 2006, with the loss of one life. Report no 32/2006.\n\n  \n[ASSET_TAG](#ASSET1) (2,018.72 kb) \n\n[ASSET_TAG](#ASSET2) (2,197.65 kb)\n"
+}

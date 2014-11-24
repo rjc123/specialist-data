@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Kingfisher II.pdf\r\n (910.83 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "26 April 2004", 
+    "Report name:": "Kingfisher II", 
+    "Summary:": "Investigation of the fire on board the fishing vessel Kingfisher II whilst on passage to recover creels, 5 miles east of North Uist on 26 April 2004.  Report No: 15/2004. Published: 30 November 2004."
+  }, 
+  "date_of_occurrence": "2004-04-26", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2004/kingfisher_ii.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Kingfisher Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Kingfisher%20II%20synopsis%2Epdf", 
+      "filename": "downloads/dc4098eec82500f41d84a2be42161ed90ec716de/Kingfisher II synopsis.pdf", 
+      "original_filename": "Kingfisher II synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Kingfisher II.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Kingfisher II.pdf", 
+      "filename": "downloads/eb6101f86d73ec407a551d63aac44dd839f4bb30/Kingfisher II.pdf", 
+      "original_filename": "Kingfisher II.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Kingfisher II", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Kingfisher%20II%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Kingfisher Synopsis</a>\r\n (12.04 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Kingfisher II</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">26 April 2004</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Investigation of the fire on board the fishing vessel Kingfisher II whilst on passage to recover creels, 5 miles east of North Uist on 26 April 2004. <br> Report No: 15/2004. Published: 30 November 2004. \r\r\n</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Kingfisher%20II.pdf\">Kingfisher II.pdf</a>\r\n (910.83 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (12.04 kb)\n\n  \nInvestigation of the fire on board the fishing vessel Kingfisher II whilst on passage to recover creels, 5 miles east of North Uist on 26 April 2004.   \nReport No: 15/2004. Published: 30 November 2004. \n\n  \n[ASSET_TAG](#ASSET1) (910.83 kb) \n"
+}

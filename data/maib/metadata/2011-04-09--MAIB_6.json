@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "Download report:": "PhilippLynnMarieReport.pdf\r\n (1,033.69 kb)", 
+    "Category:": "Merchant vessels,Fishing vessels", 
+    "Incident date:": "09 April 2011", 
+    "Report name:": "20/2011", 
+    "Summary:": "MAIB report on the collision between MV Philipp and FV Lynn Marie, 6nm south of the Isle of Man on 9 April 2011. Report No 20/2011. Published 13 October 2011."
+  }, 
+  "date_of_occurrence": "2011-04-09", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/philipp_and_lynn_marie.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "PhilippLynnMarieReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/PhilippLynnMarieReport.pdf", 
+      "filename": "downloads/707f465ff83b5f9e7c8637128aaa64402c54e054/PhilippLynnMarieReport.pdf", 
+      "original_filename": "PhilippLynnMarieReport.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report - Philipp and Lynn Marie", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">20/2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">09 April 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the collision between MV Philipp and FV Lynn Marie, 6nm south of the Isle of Man on 9 April 2011. Report No 20/2011. Published 13 October 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/PhilippLynnMarieReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/PhilippLynnMarieReport.pdf');\">PhilippLynnMarieReport.pdf</a>\r\n (1,033.69 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB report on the collision between MV Philipp and FV Lynn Marie, 6nm south of the Isle of Man on 9 April 2011. Report No 20/2011. Published 13 October 2011.\n\n  \n[ASSET_TAG](#ASSET0) (1,033.69 kb) \n"
+}

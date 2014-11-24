@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "Pastime.pdf\r\n (1,454.59 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "17 March 2006", 
+    "Report name:": "Pastime", 
+    "Summary:": "Report on the investigation of the loss of one man overboard from the sailing yacht Pastime in the English Channel on 17 March 2006. \r\r\nPublished 8 September 2006"
+  }, 
+  "date_of_occurrence": "2006-03-17", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/pastime.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Pastime - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Pastime%5FSynopsis%2Epdf", 
+      "filename": "downloads/92e734d9e3abf527901e252ac7f65f4e46d7c7ee/Pastime_Synopsis.pdf", 
+      "original_filename": "Pastime_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Pastime.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Pastime.pdf", 
+      "filename": "downloads/a510e7cda60568513f55951c9f87ce6c1b206646/Pastime.pdf", 
+      "original_filename": "Pastime.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Text for article on MAIB investigation into the death of a skipper.", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Pastime%2DAppendix%2Epdf", 
+      "filename": "downloads/6b905f3dbd6e9fcdef934d27e8abdb94df81e56e/Pastime-Appendix.pdf", 
+      "original_filename": "Pastime-Appendix.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Pastime", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Pastime%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Pastime - Synopsis</a>\r\n (222.65 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Pastime</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">17 March 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the loss of one man overboard from the sailing yacht Pastime in the English Channel on 17 March 2006. \r\r\nPublished 8 September 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Pastime.pdf\">Pastime.pdf</a>\r\n (1,454.59 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p><span>Pastime - Appendix</span></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Pastime%2DAppendix%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Text for article on MAIB investigation into the death of a skipper.</a>\r\n (98.47 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (222.65 kb)\n\n  \nReport on the investigation of the loss of one man overboard from the sailing yacht Pastime in the English Channel on 17 March 2006. Published 8 September 2006\n\n  \n[ASSET_TAG](#ASSET1) (1,454.59 kb) \n\nPastime - Appendix\n\n[ASSET_TAG](#ASSET2) (98.47 kb)\n"
+}

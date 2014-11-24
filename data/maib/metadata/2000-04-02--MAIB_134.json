@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "astra2.pdf\r\n (733.12 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "02 April 2000", 
+    "Report name:": "Astra II (31/2000)", 
+    "Summary:": "Report of the investigation of the loss of two crewmen from fv Astra II while berthed at Carbost Pier Loch Harport Isle of Skye on 2 April 2000"
+  }, 
+  "date_of_occurrence": "2000-04-02", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/astra_ii.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Astra II - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/astra2%20synopsis%2Epdf", 
+      "filename": "downloads/68075014a66c50237fc0d7db96bdbc8c46b07a3c/astra2 synopsis.pdf", 
+      "original_filename": "astra2 synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "astra2.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/astra2.pdf", 
+      "filename": "downloads/f38477bbbe4cb15b67cea9733ac577e8fb2bf3e0/astra2.pdf", 
+      "original_filename": "astra2.pdf"
+    }
+  ], 
+  "title": "Investigation report - Astra II", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/astra2%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Astra II - Synopsis</a>\r\n (47.87 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Astra II (31/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">02 April 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation of the loss of two crewmen from fv Astra II while berthed at Carbost Pier Loch Harport Isle of Skye on 2 April 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/astra2.pdf\">astra2.pdf</a>\r\n (733.12 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (47.87 kb)\n\n  \nReport of the investigation of the loss of two crewmen from fv Astra II while berthed at Carbost Pier Loch Harport Isle of Skye on 2 April 2000\n\n  \n[ASSET_TAG](#ASSET1) (733.12 kb) \n"
+}

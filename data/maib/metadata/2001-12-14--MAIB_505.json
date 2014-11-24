@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "rosebank.pdf\r\n (317.58 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "14 December 2001", 
+    "Report name:": "mv Rosebank (28/2002)", 
+    "Summary:": "Report on the  investigation of an accommodation fire on mv Rosebank 7 miles east of Alnmouth, off the Northumberland coast 14 December 2001"
+  }, 
+  "date_of_occurrence": "2001-12-14", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/mv_rosebank.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Rosebank synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/rosebank%20synopsis%2Epdf", 
+      "filename": "downloads/27cb5e89f0fae4604904d9e474ca072da51bedef/rosebank synopsis.pdf", 
+      "original_filename": "rosebank synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "rosebank.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/rosebank.pdf", 
+      "filename": "downloads/0d1e9a70c851f58162b9da6f739bbfca43374c3b/rosebank.pdf", 
+      "original_filename": "rosebank.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Mv Rosebank", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/rosebank%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Rosebank synopsis</a>\r\n (458.91 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">mv Rosebank (28/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">14 December 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the  investigation of an accommodation fire on mv Rosebank 7 miles east of Alnmouth, off the Northumberland coast 14 December 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/rosebank.pdf\">rosebank.pdf</a>\r\n (317.58 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (458.91 kb)\n\n  \nReport on the investigation of an accommodation fire on mv Rosebank 7 miles east of Alnmouth, off the Northumberland coast 14 December 2001\n\n  \n[ASSET_TAG](#ASSET1) (317.58 kb) \n"
+}

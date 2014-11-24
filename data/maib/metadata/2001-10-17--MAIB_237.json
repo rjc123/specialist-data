@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "gulser-ana.pdf\r\n (1,489.53 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "17 October 2001", 
+    "Report name:": "Gulser Ana (41/2002)", 
+    "Summary:": "Report on the investigation of an accident involving the starboard lifeboat of the Turkish registered bulk carrier mv Gulsar Ana in Belfast harbour on 17 October 2001"
+  }, 
+  "date_of_occurrence": "2001-10-17", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/gulser_ana.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Gulsar Anna synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/gulser%2Dana%20synopsis%2Epdf", 
+      "filename": "downloads/968255685dfc713146d2f8b69837b8e3ca42b8f7/gulser-ana synopsis.pdf", 
+      "original_filename": "gulser-ana synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "gulser-ana.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/gulser-ana.pdf", 
+      "filename": "downloads/9eebe146d808b1f7f8c844141c8986932d0c1e1c/gulser-ana.pdf", 
+      "original_filename": "gulser-ana.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Gulser Ana", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/gulser%2Dana%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Gulsar Anna synopsis</a>\r\n (319.34 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Gulser Ana (41/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">17 October 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of an accident involving the starboard lifeboat of the Turkish registered bulk carrier mv Gulsar Ana in Belfast harbour on 17 October 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/gulser-ana.pdf\">gulser-ana.pdf</a>\r\n (1,489.53 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (319.34 kb)\n\n  \nReport on the investigation of an accident involving the starboard lifeboat of the Turkish registered bulk carrier mv Gulsar Ana in Belfast harbour on 17 October 2001\n\n  \n[ASSET_TAG](#ASSET1) (1,489.53 kb) \n"
+}

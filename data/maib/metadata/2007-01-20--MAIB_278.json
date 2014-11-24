@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "LindyLouReport.pdf\r\n (2,411.25 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "20 January 2007", 
+    "Report name:": "Lindy Lou", 
+    "Summary:": "Report on the investigation of the fire on board the canal boat Lindy Lou at Lyme View Marina, Adlington resulting in 1 fatality on 20 January 2007. Report no 23/2007. Published 3 October 2007."
+  }, 
+  "date_of_occurrence": "2007-01-20", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/lindy_lou.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/LindyLouSynopsis%2Epdf", 
+      "filename": "downloads/9a6934dd1b111f055b108d56ac28dffb586d1fed/LindyLouSynopsis.pdf", 
+      "original_filename": "LindyLouSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "LindyLouReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/LindyLouReport.pdf", 
+      "filename": "downloads/069c814c21fc6bb905a6a22362c4e5871e4fbced/LindyLouReport.pdf", 
+      "original_filename": "LindyLouReport.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Lindy Lou", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/LindyLouSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/LindyLouSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (132.68 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Lindy Lou</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">20 January 2007</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the fire on board the canal boat Lindy Lou at Lyme View Marina, Adlington resulting in 1 fatality on 20 January 2007. Report no 23/2007. Published 3 October 2007.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/LindyLouReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/LindyLouReport.pdf');\">LindyLouReport.pdf</a>\r\n (2,411.25 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (132.68 kb)\n\n  \nReport on the investigation of the fire on board the canal boat Lindy Lou at Lyme View Marina, Adlington resulting in 1 fatality on 20 January 2007. Report no 23/2007. Published 3 October 2007.\n\n  \n[ASSET_TAG](#ASSET1) (2,411.25 kb) \n"
+}

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Auriga.pdf\r\n (959.74 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "30 June 2006", 
+    "Report name:": "Auriga", 
+    "Summary:": "The investigation of the loss of the fishing vessel Auriga off Portavogie, Northern Ireland on 30 June 2005. Report 3/2006. Published 3 February 2006."
+  }, 
+  "date_of_occurrence": "2006-06-30", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/auriga.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Auriga%5Fsynopsis%2Epdf", 
+      "filename": "downloads/0d8bfe5bddf0644b5b67fe2bf6c6bae3be53549d/Auriga_synopsis.pdf", 
+      "original_filename": "Auriga_synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Auriga.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Auriga.pdf", 
+      "filename": "downloads/6c54d7d8ca9506bd7c4b34b09ec317628d81a572/Auriga.pdf", 
+      "original_filename": "Auriga.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Auriga", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Auriga%5Fsynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (22.39 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Auriga</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">30 June 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">The investigation of the loss of the fishing vessel Auriga off Portavogie, Northern Ireland on 30 June 2005. Report 3/2006. Published 3 February 2006.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Auriga.pdf\">Auriga.pdf</a>\r\n (959.74 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (22.39 kb)\n\n  \nThe investigation of the loss of the fishing vessel Auriga off Portavogie, Northern Ireland on 30 June 2005. Report 3/2006. Published 3 February 2006.\n\n  \n[ASSET_TAG](#ASSET1) (959.74 kb) \n"
+}

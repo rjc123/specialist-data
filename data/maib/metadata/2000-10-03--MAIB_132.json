@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "Download report:": "arosa-spanish.pdf\r\n (606.03 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "03 October 2000", 
+    "Report name:": "Arosa (M321) (41/2001) - Spanish version"
+  }, 
+  "date_of_occurrence": "2000-10-03", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/arosa__m321____spanish_version.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Arosa synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/arosa%2Dspanish%20synopsis%2Epdf", 
+      "filename": "downloads/3faee0234607f59f4d1e30263b4f915d1bbc4ed2/arosa-spanish synopsis.pdf", 
+      "original_filename": "arosa-spanish synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "arosa-spanish.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/arosa-spanish.pdf", 
+      "filename": "downloads/94f95d774e848a62c8bf6b86d0cb7ed71148f547/arosa-spanish.pdf", 
+      "original_filename": "arosa-spanish.pdf"
+    }
+  ], 
+  "title": "Arosa (M321) - Spanish version", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/arosa%2Dspanish%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Arosa synopsis</a>\r\n (445.69 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Arosa (M321) (41/2001) - Spanish version</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">03 October 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/arosa-spanish.pdf\">arosa-spanish.pdf</a>\r\n (606.03 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (445.69 kb)\n\n  \n[ASSET_TAG](#ASSET1) (606.03 kb) \n"
+}

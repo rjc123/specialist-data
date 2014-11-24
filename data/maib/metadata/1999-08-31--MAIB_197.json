@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "donna m.pdf\r\n (1,194.19 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "31 August 1999", 
+    "Report name:": "Donna M (11/2000)", 
+    "Summary:": "Report of the investigation into the capsize of the fishing vessel Donna M off the coast of the Orkney Islands with the loss of two lives on 31 August 1999"
+  }, 
+  "date_of_occurrence": "1999-08-31", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/donna_m.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Donna M - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/donna%20m%20synopsis%2Epdf", 
+      "filename": "downloads/e0ef23ca0b8dbebf36aaa9ae8edad7acb1acbc77/donna m synopsis.pdf", 
+      "original_filename": "donna m synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "donna m.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/donna m.pdf", 
+      "filename": "downloads/9d28b2aa2bddf37fc0f10895814d9554173ffc2e/donna m.pdf", 
+      "original_filename": "donna m.pdf"
+    }
+  ], 
+  "title": "Investigation report - Donna M", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/donna%20m%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Donna M - Synopsis</a>\r\n (44.61 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Donna M (11/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">31 August 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation into the capsize of the fishing vessel Donna M off the coast of the Orkney Islands with the loss of two lives on 31 August 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/donna%20m.pdf\">donna m.pdf</a>\r\n (1,194.19 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (44.61 kb)\n\n  \nReport of the investigation into the capsize of the fishing vessel Donna M off the coast of the Orkney Islands with the loss of two lives on 31 August 1999\n\n  \n[ASSET_TAG](#ASSET1) (1,194.19 kb) \n"
+}

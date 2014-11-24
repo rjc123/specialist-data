@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "Norsea.pdf\r\n (480.09 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "02 September 2002", 
+    "Report name:": "Norsea (16/2003)", 
+    "Summary:": "Fire in the aft engine room of ro-ro ferry Norsea on 2 September 2002"
+  }, 
+  "date_of_occurrence": "2002-09-02", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/norsea.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Norsea.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Norsea.pdf", 
+      "filename": "downloads/15be22eb22f88d4dca8533e3a622368b3b35349f/Norsea.pdf", 
+      "original_filename": "Norsea.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Norsea", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Norsea (16/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">02 September 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fire in the aft engine room of ro-ro ferry Norsea on 2 September 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Norsea.pdf\">Norsea.pdf</a>\r\n (480.09 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nFire in the aft engine room of ro-ro ferry Norsea on 2 September 2002\n\n  \n[ASSET_TAG](#ASSET0) (480.09 kb) \n"
+}

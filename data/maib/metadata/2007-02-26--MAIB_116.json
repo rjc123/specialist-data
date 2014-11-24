@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "AnnabellaReport.pdf\r\n (2,189.94 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "26 February 2007", 
+    "Report name:": "Annabella", 
+    "Summary:": "Report on the investigation of the collapse of cargo containers on Annabella Baltic Sea on 26 February 2007. Report no 21/2007. Published 13 September 2007."
+  }, 
+  "date_of_occurrence": "2007-02-26", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/annabella.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/AnnabellaSynopsis%2Epdf", 
+      "filename": "downloads/b4a148a7c3ac1464c1d463cbb57ba41b727c3b4a/AnnabellaSynopsis.pdf", 
+      "original_filename": "AnnabellaSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "AnnabellaReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/AnnabellaReport.pdf", 
+      "filename": "downloads/e3b5507a181ce408a7f97c42e0760c37973ad400/AnnabellaReport.pdf", 
+      "original_filename": "AnnabellaReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annex", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/AnnabellaAnnex%2Epdf", 
+      "filename": "downloads/cbd5f0e02b5f5665e2d3b745f87c44871cabb51c/AnnabellaAnnex.pdf", 
+      "original_filename": "AnnabellaAnnex.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Annabella", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AnnabellaSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/AnnabellaSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (139.73 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Annabella</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">26 February 2007</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the collapse of cargo containers on Annabella Baltic Sea on 26 February 2007. Report no 21/2007. Published 13 September 2007.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/AnnabellaReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AnnabellaReport.pdf');\">AnnabellaReport.pdf</a>\r\n (2,189.94 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AnnabellaAnnex.pdf');\" href=\"http://maib.gov.uk/cms_resources/AnnabellaAnnex%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annex</a>\r\n (1,880.89 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (139.73 kb)\n\n  \nReport on the investigation of the collapse of cargo containers on Annabella Baltic Sea on 26 February 2007. Report no 21/2007. Published 13 September 2007.\n\n  \n[ASSET_TAG](#ASSET1) (2,189.94 kb) \n\n[ASSET_TAG](#ASSET2) (1,880.89 kb)\n"
+}

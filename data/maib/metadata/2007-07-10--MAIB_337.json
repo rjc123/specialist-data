@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "PacificStarReport.pdf\r\n (2,050.41 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "10 July 2007", 
+    "Report name:": "Pacific Star", 
+    "Summary:": "Report on the Investigation of heavy weather\r\r\ndamage to the passenger cruise ship Pacific Star on 10 July 2007. Report No 5/2008. Published on 29 February 2008."
+  }, 
+  "date_of_occurrence": "2007-07-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2008/pacific_star.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/PacificStarSynopsis%2Epdf", 
+      "filename": "downloads/6c3435fac1c7ab04b88f7f3b3266d5dd304607e1/PacificStarSynopsis.pdf", 
+      "original_filename": "PacificStarSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "PacificStarReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/PacificStarReport.pdf", 
+      "filename": "downloads/1a7841ab7295864bb73ab79bef63aa4a0bd1c8bb/PacificStarReport.pdf", 
+      "original_filename": "PacificStarReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/PacificStarAnnexes%2Epdf", 
+      "filename": "downloads/6fb876247bf41fbb76e4c04d808db45fcd0bf48e/PacificStarAnnexes.pdf", 
+      "original_filename": "PacificStarAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Pacific Star", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/PacificStarSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/PacificStarSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (122.93 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Pacific Star</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 July 2007</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the Investigation of heavy weather\r\r\ndamage to the passenger cruise ship Pacific Star on 10 July 2007. Report No 5/2008. Published on 29 February 2008.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/PacificStarReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/PacificStarReport.pdf');\">PacificStarReport.pdf</a>\r\n (2,050.41 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/PacificStarAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/PacificStarAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (309.10 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (122.93 kb)\n\n  \nReport on the Investigation of heavy weather damage to the passenger cruise ship Pacific Star on 10 July 2007. Report No 5/2008. Published on 29 February 2008.\n\n  \n[ASSET_TAG](#ASSET1) (2,050.41 kb) \n\n[ASSET_TAG](#ASSET2) (309.10 kb)\n"
+}

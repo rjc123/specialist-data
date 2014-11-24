@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "rachel harvey.pdf\r\n (1,575.66 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "01 October 1999", 
+    "Report name:": "Rachael Harvey (23/2000)", 
+    "Summary:": "Report on the investigation of the Grounding and Loss of the Fishing Vessel Rahchel Harvey Peninnis Head, Isles of Scilly on 1 October 1999 with one fatality"
+  }, 
+  "date_of_occurrence": "1999-10-01", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/rachel_harvey.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Rachel Harvey - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/rachel%20harvey%20synopsis%2Epdf", 
+      "filename": "downloads/9dee905d24cd42421fa1a3d031790d48bc31b2ea/rachel harvey synopsis.pdf", 
+      "original_filename": "rachel harvey synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "rachel harvey.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/rachel harvey.pdf", 
+      "filename": "downloads/be63cd9aaf726c6f24a0b8d7536eaf4e63b7c8cf/rachel harvey.pdf", 
+      "original_filename": "rachel harvey.pdf"
+    }
+  ], 
+  "title": "Investigation report - Rachel Harvey", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/rachel%20harvey%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Rachel Harvey - Synopsis</a>\r\n (55.41 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Rachael Harvey (23/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">01 October 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the Grounding and Loss of the Fishing Vessel Rahchel Harvey Peninnis Head, Isles of Scilly on 1 October 1999 with one fatality</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/rachel%20harvey.pdf\">rachel harvey.pdf</a>\r\n (1,575.66 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (55.41 kb)\n\n  \nReport on the investigation of the Grounding and Loss of the Fishing Vessel Rahchel Harvey Peninnis Head, Isles of Scilly on 1 October 1999 with one fatality\n\n  \n[ASSET_TAG](#ASSET1) (1,575.66 kb) \n"
+}

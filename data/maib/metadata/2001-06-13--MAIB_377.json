@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "resplendent.pdf\r\n (305.27 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "13 June 2001", 
+    "Report name:": "Resplendent (10/2002)", 
+    "Summary:": "Report of the grounding of Resplendent in Bluemull Sound Shetland Islands 13 June 2001"
+  }, 
+  "date_of_occurrence": "2001-06-13", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/resplendent.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Resplendent synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/resplendent%20synopsis%2Epdf", 
+      "filename": "downloads/a8f9efe3b14d832fc6e41404220db728a60642cb/resplendent synopsis.pdf", 
+      "original_filename": "resplendent synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "resplendent.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/resplendent.pdf", 
+      "filename": "downloads/2b3233fdba3d46b4c235669de57aa0fc97900266/resplendent.pdf", 
+      "original_filename": "resplendent.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Resplendent", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/resplendent%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Resplendent synopsis</a>\r\n (369.07 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Resplendent (10/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">13 June 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the grounding of Resplendent in Bluemull Sound Shetland Islands 13 June 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/resplendent.pdf\">resplendent.pdf</a>\r\n (305.27 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (369.07 kb)\n\n  \nReport of the grounding of Resplendent in Bluemull Sound Shetland Islands 13 June 2001\n\n  \n[ASSET_TAG](#ASSET1) (305.27 kb) \n"
+}

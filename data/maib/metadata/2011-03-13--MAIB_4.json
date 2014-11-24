@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "ForthGuardsmanReport.pdf\r\n (2,758.46 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "13 March 2011", 
+    "Report name:": "16/2011", 
+    "Summary:": "MAIB report following the investigation into the fatal injuries sustained by a crewman on board Forth Guardsman during mooring operations south of Jura on 13 March 2011. Report No 16/2011. Published 8 September 2011."
+  }, 
+  "date_of_occurrence": "2011-03-13", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/forth_guardsman.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "ForthGuardsmanReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/ForthGuardsmanReport.pdf", 
+      "filename": "downloads/ade42b9d35a9f297c76fcff0542e85f13b834b7a/ForthGuardsmanReport.pdf", 
+      "original_filename": "ForthGuardsmanReport.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report - Forth Guardsman", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">16/2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">13 March 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report following the investigation into the fatal injuries sustained by a crewman on board <span>Forth Guardsman</span> during mooring operations south of Jura on 13 March 2011. Report No 16/2011. Published 8 September 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/ForthGuardsmanReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ForthGuardsmanReport.pdf');\">ForthGuardsmanReport.pdf</a>\r\n (2,758.46 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB report following the investigation into the fatal injuries sustained by a crewman on board Forth Guardsman during mooring operations south of Jura on 13 March 2011. Report No 16/2011. Published 8 September 2011.\n\n  \n[ASSET_TAG](#ASSET0) (2,758.46 kb) \n"
+}

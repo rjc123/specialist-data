@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "CormorantReport.pdf\r\n (782.71 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "07 March 2010", 
+    "Report name:": "Cormorant", 
+    "Summary:": "MAIB report on the investigation of a lifting equipment failure on board the floating sheerleg Cormorant at 102 berth, Southampton on 7 March 2010. Report no 15/2010. Published 25 November 2010."
+  }, 
+  "date_of_occurrence": "2010-03-07", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2010/cormorant.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/CormorantSynopsis%2Epdf", 
+      "filename": "downloads/ee32c52d5705ccb8cc0468944921322ac31c2f6a/CormorantSynopsis.pdf", 
+      "original_filename": "CormorantSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "CormorantReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/CormorantReport.pdf", 
+      "filename": "downloads/e21bd3df1e0bdeb633597f032ff60109a7360a49/CormorantReport.pdf", 
+      "original_filename": "CormorantReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/CormorantAnnexes%2Epdf", 
+      "filename": "downloads/0a56a8c49a6b74f63c6f2f0448cfab4135cf3744/CormorantAnnexes.pdf", 
+      "original_filename": "CormorantAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Cormorant", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CormorantSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/CormorantSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (222.45 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Cormorant</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">07 March 2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation of a lifting equipment failure on board the floating sheerleg Cormorant at 102 berth, Southampton on 7 March 2010. Report no 15/2010. Published 25 November 2010.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/CormorantReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CormorantReport.pdf');\">CormorantReport.pdf</a>\r\n (782.71 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>Annexes 15/2010</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CormorantAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/CormorantAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,574.91 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">A combined flyer was produced for this incident and that of the Sand Falcon, which can be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2010/cormorant___sand_falcon.cfm\">Flyer to the shipping industry</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (222.45 kb)\n\n  \nMAIB report on the investigation of a lifting equipment failure on board the floating sheerleg Cormorant at 102 berth, Southampton on 7 March 2010. Report no 15/2010. Published 25 November 2010.\n\n  \n[ASSET_TAG](#ASSET1) (782.71 kb) \n\nAnnexes 15/2010\n\n[ASSET_TAG](#ASSET2) (1,574.91 kb)\n\nA combined flyer was produced for this incident and that of the Sand Falcon, which can be viewed on this website:  \n[Flyer to the shipping industry](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2010/cormorant___sand_falcon.cfm)\n"
+}

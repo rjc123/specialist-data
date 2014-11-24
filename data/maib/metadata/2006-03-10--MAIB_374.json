@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "Red Falcon.pdf\r\n (1,384.49 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "10 March 2006", 
+    "Report name:": "Red Falcon", 
+    "Summary:": "Report on the investigation of Red Falcon\u2019s contact with the linkspan at Town Quay, Southampton on 10 March 2006. Report no 26/2006. Published 3 October 2006."
+  }, 
+  "date_of_occurrence": "2006-03-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/red_falcon.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Red Falcon.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Red Falcon.pdf", 
+      "filename": "downloads/3f0feb7958f06b8e548180403de6e7072c18c30e/Red Falcon.pdf", 
+      "original_filename": "Red Falcon.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Red Falcon", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Red Falcon</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 March 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of Red Falcon&#8217;s contact with the linkspan at Town Quay, Southampton on 10 March 2006. Report no 26/2006. Published 3 October 2006.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Red%20Falcon.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Red Falcon.pdf');\">Red Falcon.pdf</a>\r\n (1,384.49 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nReport on the investigation of Red Falcon\u2019s contact with the linkspan at Town Quay, Southampton on 10 March 2006. Report no 26/2006. Published 3 October 2006.\n\n  \n[ASSET_TAG](#ASSET0) (1,384.49 kb) \n"
+}

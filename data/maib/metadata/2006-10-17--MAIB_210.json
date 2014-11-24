@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "EnnerdaleReport.pdf\r\n (2,607.42 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "17 October 2006", 
+    "Report name:": "Ennerdale", 
+    "Summary:": "Report on the investigation of a major LPG leak from the gas carrier \r\r\nEnnerdale while alongside Fawley Marine Terminal on 17 October 2006. Report No 10/2007. Published 25 May 2007."
+  }, 
+  "date_of_occurrence": "2006-10-17", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/ennerdale.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/EnnerdaleSynopsis%2Epdf", 
+      "filename": "downloads/556b5a3e54f23f1b5db37b08ccc5cfbc783d145f/EnnerdaleSynopsis.pdf", 
+      "original_filename": "EnnerdaleSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "EnnerdaleReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/EnnerdaleReport.pdf", 
+      "filename": "downloads/63ea83e2c3a14b63a8d58e9ebc360dc26b01618e/EnnerdaleReport.pdf", 
+      "original_filename": "EnnerdaleReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/EnnerdaleAnnexes%2Epdf", 
+      "filename": "downloads/1d7b190fcd35f85c4bf8aaddaa93e2ba38a6708f/EnnerdaleAnnexes.pdf", 
+      "original_filename": "EnnerdaleAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Ennerdale", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>The full investigation report has been split into sections; Synopsis, Full Report and Annexes . This is to make downloading easier.</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/EnnerdaleSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/EnnerdaleSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (172.18 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Ennerdale</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">17 October 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of a major LPG leak from the gas carrier \r\r\nEnnerdale while alongside Fawley Marine Terminal on 17 October 2006. Report No 10/2007. Published 25 May 2007. </span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/EnnerdaleReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/EnnerdaleReport.pdf');\">EnnerdaleReport.pdf</a>\r\n (2,607.42 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/EnnerdaleAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/EnnerdaleAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,203.55 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "The full investigation report has been split into sections; Synopsis, Full Report and Annexes . This is to make downloading easier.\n\n[ASSET_TAG](#ASSET0) (172.18 kb)\n\n  \nReport on the investigation of a major LPG leak from the gas carrier Ennerdale while alongside Fawley Marine Terminal on 17 October 2006. Report No 10/2007. Published 25 May 2007. \n\n  \n[ASSET_TAG](#ASSET1) (2,607.42 kb) \n\n[ASSET_TAG](#ASSET2) (1,203.55 kb)\n"
+}

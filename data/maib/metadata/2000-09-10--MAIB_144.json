@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "baltiyskiy.pdf\r\n (1,695.36 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "10 September 2000", 
+    "Report name:": "Baltyskiy (20/2001)", 
+    "Summary:": "Report on the investigation of an accident on the general cargo vessel Baltiyskiy-107 resulting in the death of a seaman on the 10 September 2000 while on passage from Riga, Latvia, to Poole, UK"
+  }, 
+  "date_of_occurrence": "2000-09-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/baltyskiy.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/baltiyskiy%20synopsis%2Epdf", 
+      "filename": "downloads/f9d797473ad6c7f0811870e5d0403bb24e621b56/baltiyskiy synopsis.pdf", 
+      "original_filename": "baltiyskiy synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "baltiyskiy.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/baltiyskiy.pdf", 
+      "filename": "downloads/2932f09eca2a272627c3accfe17318e6d4160b42/baltiyskiy.pdf", 
+      "original_filename": "baltiyskiy.pdf"
+    }
+  ], 
+  "title": "Investigation report - Baltiyskiy", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/baltiyskiy%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (320.66 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Baltyskiy (20/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 September 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of an accident on the general cargo vessel Baltiyskiy-107 resulting in the death of a seaman on the 10 September 2000 while on passage from Riga, Latvia, to Poole, UK</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/baltiyskiy.pdf\">baltiyskiy.pdf</a>\r\n (1,695.36 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (320.66 kb)\n\n  \nReport on the investigation of an accident on the general cargo vessel Baltiyskiy-107 resulting in the death of a seaman on the 10 September 2000 while on passage from Riga, Latvia, to Poole, UK\n\n  \n[ASSET_TAG](#ASSET1) (1,695.36 kb) \n"
+}

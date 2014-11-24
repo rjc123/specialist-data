@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "CFLPerformerReport.pdf\r\n (1,180.44 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "12 May 2008", 
+    "Report name:": "CFL Performer", 
+    "Summary:": "MAIB Report on the Investigation of the grounding of CFL Performer on Haisborough Sand, North Sea. Report No 21/2008. Published 17 December 2008."
+  }, 
+  "date_of_occurrence": "2008-05-12", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2008/cfl_performer.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/CFLPerformerSynopsis%2Epdf", 
+      "filename": "downloads/aaaecb9f43632bf51f076010850313fda934b1eb/CFLPerformerSynopsis.pdf", 
+      "original_filename": "CFLPerformerSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "CFLPerformerReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/CFLPerformerReport.pdf", 
+      "filename": "downloads/1dd5bdd069108e9bc8b7a82e206e37be93df599c/CFLPerformerReport.pdf", 
+      "original_filename": "CFLPerformerReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/CostaAtlanticaGrandNeptuneAnnexes%2Epdf", 
+      "filename": "downloads/59f3f2317d7d12e22365f7244f64bd0a55258b03/CostaAtlanticaGrandNeptuneAnnexes.pdf", 
+      "original_filename": "CostaAtlanticaGrandNeptuneAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - CFL Performer", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CFLPerformerSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/CFLPerformerSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (245.19 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">CFL Performer</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">12 May 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the Investigation of the grounding of CFL Performer on Haisborough Sand, North Sea. Report No 21/2008. Published 17 December 2008.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/CFLPerformerReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CFLPerformerReport.pdf');\">CFLPerformerReport.pdf</a>\r\n (1,180.44 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/CostaAtlanticaGrandNeptuneAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/CostaAtlanticaGrandNeptuneAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,760.34 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (245.19 kb)\n\n  \nMAIB Report on the Investigation of the grounding of CFL Performer on Haisborough Sand, North Sea. Report No 21/2008. Published 17 December 2008.\n\n  \n[ASSET_TAG](#ASSET1) (1,180.44 kb) \n\n[ASSET_TAG](#ASSET2) (1,760.34 kb)\n"
+}

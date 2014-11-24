@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "Savannah Express.pdf\r\n (1,135.82 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "19 July 2005", 
+    "Report name:": "Savannah Express", 
+    "Summary:": "Report on the investigation of the engine failure of Savannah Express and her subsequent contact with a\r\r\nlinkspan at Southampton Docks on 19 July 2005. Report no 8/2006."
+  }, 
+  "date_of_occurrence": "2005-07-19", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/savannah_express.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Savannah%20Express%5FSynopsis%2Epdf", 
+      "filename": "downloads/22cc0154f3c90a3529ce5a475e27a8761ce0d08a/Savannah Express_Synopsis.pdf", 
+      "original_filename": "Savannah Express_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Savannah Express.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Savannah Express.pdf", 
+      "filename": "downloads/285cbde7909f63bb215609355b44c608d232bbab/Savannah Express.pdf", 
+      "original_filename": "Savannah Express.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Accident Flyer - Savanagh Express", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Savannah%20Express%5FFlyer%2Epdf", 
+      "filename": "downloads/44cd905b6b34b3dc4a0afe74a16c6cc9c50cf5b1/Savannah Express_Flyer.pdf", 
+      "original_filename": "Savannah Express_Flyer.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Savannah Express", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>The full investigation report is split into sections to make downloading easier;</p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Savannah%20Express%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (19.44 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Savannah Express</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">19 July 2005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the engine failure of Savannah Express and her subsequent contact with a\r\r\nlinkspan at Southampton Docks on 19 July 2005. Report no 8/2006.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Savannah%20Express.pdf\">Savannah Express.pdf</a>\r\n (1,135.82 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>An accident Flyer was produced for this incident and can be viewed on this website:</p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Savannah%20Express%5FFlyer%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Accident Flyer - Savanagh Express</a>\r\n (38.36 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "The full investigation report is split into sections to make downloading easier;\n\n[ASSET_TAG](#ASSET0) (19.44 kb)\n\n  \nReport on the investigation of the engine failure of Savannah Express and her subsequent contact with a linkspan at Southampton Docks on 19 July 2005. Report no 8/2006.\n\n  \n[ASSET_TAG](#ASSET1) (1,135.82 kb) \n\nAn accident Flyer was produced for this incident and can be viewed on this website:\n\n[ASSET_TAG](#ASSET2) (38.36 kb)\n"
+}

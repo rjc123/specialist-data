@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "SootyReport.pdf\r\n (1,036.57 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "18 May 2009", 
+    "Report name:": "Sooty", 
+    "Summary:": "MAIB report on the investigation of the grounding at high speed of the RIB Sooty at Calve Island, Isle of Mull on 18 May 2009 resulting in one fatality."
+  }, 
+  "date_of_occurrence": "2009-05-18", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/sooty.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SootySynopsis%2Epdf", 
+      "filename": "downloads/8409c1c33e5289d1ad2d33de70138cc8ab0a1cd7/SootySynopsis.pdf", 
+      "original_filename": "SootySynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "SootyReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/SootyReport.pdf", 
+      "filename": "downloads/f908772c63b0971cce63c0ad4e16a596fcfd9bfa/SootyReport.pdf", 
+      "original_filename": "SootyReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/SootyAnnexes%2Epdf", 
+      "filename": "downloads/878751ac40d61915e2804255cc826632091859f6/SootyAnnexes.pdf", 
+      "original_filename": "SootyAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Sooty", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>Sooty Synopsis</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SootySynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/SootySynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (211.16 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Sooty</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">18 May 2009</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation of the grounding at high speed of the RIB <span>Sooty</span> at Calve Island, Isle of Mull on 18 May 2009 resulting in one fatality.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SootyReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SootyReport.pdf');\">SootyReport.pdf</a>\r\n (1,036.57 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>Sooty Annexes</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SootyAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/SootyAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,557.92 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "Sooty Synopsis\n\n[ASSET_TAG](#ASSET0) (211.16 kb)\n\n  \nMAIB report on the investigation of the grounding at high speed of the RIB Sooty at Calve Island, Isle of Mull on 18 May 2009 resulting in one fatality.\n\n  \n[ASSET_TAG](#ASSET1) (1,036.57 kb) \n\nSooty Annexes\n\n[ASSET_TAG](#ASSET2) (1,557.92 kb)\n"
+}

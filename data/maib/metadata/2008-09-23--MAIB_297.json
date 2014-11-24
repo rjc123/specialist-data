@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "MaerskKithiraReport.pdf\r\n (391.12 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "23 September 2008", 
+    "Report name:": "Maersk Kithira", 
+    "Summary:": "Report on the investigation of the fatal injury of a crew member and the serious injury of a second crew member in heavy weather on board the UK registered container ship\r\r\nMaersk Kithira, South China Sea on 23 September 2008.\r\r\nReport No 9/2009. Published 28 April 2009"
+  }, 
+  "date_of_occurrence": "2008-09-23", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/maersk_kithira.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaerskKithiraSynopsis%2Epdf", 
+      "filename": "downloads/02f335ebbc5c7672f66567e12467bc474ebefbed/MaerskKithiraSynopsis.pdf", 
+      "original_filename": "MaerskKithiraSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "MaerskKithiraReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaerskKithiraReport.pdf", 
+      "filename": "downloads/c52c326e6d3840b2eb71cdfb37bfc78775073542/MaerskKithiraReport.pdf", 
+      "original_filename": "MaerskKithiraReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaerskKithiraAnnexes%2Epdf", 
+      "filename": "downloads/4355019dd3d408bbb6fc20a279be4ed0a0707c46/MaerskKithiraAnnexes.pdf", 
+      "original_filename": "MaerskKithiraAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation report - Maersk Kithira", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaerskKithiraSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/MaerskKithiraSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (88.69 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Maersk Kithira</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">23 September 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the fatal injury of a crew member and the serious injury of a second crew member in heavy weather on board the UK registered container ship\r\r\nMaersk Kithira, South China Sea on 23 September 2008.\r\r\nReport No 9/2009. Published 28 April 2009</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/MaerskKithiraReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaerskKithiraReport.pdf');\">MaerskKithiraReport.pdf</a>\r\n (391.12 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaerskKithiraAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/MaerskKithiraAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,034.76 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (88.69 kb)\n\n  \nReport on the investigation of the fatal injury of a crew member and the serious injury of a second crew member in heavy weather on board the UK registered container ship Maersk Kithira, South China Sea on 23 September 2008. Report No 9/2009. Published 28 April 2009\n\n  \n[ASSET_TAG](#ASSET1) (391.12 kb) \n\n[ASSET_TAG](#ASSET2) (1,034.76 kb)\n"
+}

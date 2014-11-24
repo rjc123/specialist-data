@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "purbeck 2.pdf\r\n (764.40 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "07 June 1999", 
+    "Report name:": "Purbeck", 
+    "Summary:": "Injury to crew member on board mfv Purbeck II on 7 June 1999"
+  }, 
+  "date_of_occurrence": "1999-06-07", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/purbeck_ii.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Purbeck II Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/purbeck%202%20synopsis%2Epdf", 
+      "filename": "downloads/2e27ab29a6f5685e26e6c1b244d55c559700433c/purbeck 2 synopsis.pdf", 
+      "original_filename": "purbeck 2 synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "purbeck 2.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/purbeck 2.pdf", 
+      "filename": "downloads/b4890a4010ddec3c11c25edfb3f061ceac16eba8/purbeck 2.pdf", 
+      "original_filename": "purbeck 2.pdf"
+    }
+  ], 
+  "title": "Investigation report - Purbeck II", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/purbeck%202%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Purbeck II Synopsis</a>\r\n (35.28 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Purbeck</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">07 June 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Injury to crew member on board mfv Purbeck II on 7 June 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/purbeck%202.pdf\">purbeck 2.pdf</a>\r\n (764.40 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (35.28 kb)\n\n  \nInjury to crew member on board mfv Purbeck II on 7 June 1999\n\n  \n[ASSET_TAG](#ASSET1) (764.40 kb) \n"
+}

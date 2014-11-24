@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "edinburgh castle fire.pdf\r\n (1,165.48 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "21 August 1998", 
+    "Report name:": "Edinburgh Castle - fire on board", 
+    "Summary:": "Report of the investigation into Fire in main galley of Edinburgh Castle on 21 August 1998"
+  }, 
+  "date_of_occurrence": "1998-08-21", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/edinburgh_castle___fire_on_board.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "edinburgh castle fire.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/edinburgh castle fire.pdf", 
+      "filename": "downloads/ba5f3b30e12f81a1ee8c40681ab49d9f35991534/edinburgh castle fire.pdf", 
+      "original_filename": "edinburgh castle fire.pdf"
+    }
+  ], 
+  "title": "Investigation report - Edinburgh Castle - fire on board", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Edinburgh Castle - fire on board</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">21 August 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation into Fire in main galley of Edinburgh Castle on 21 August 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/edinburgh%20castle%20fire.pdf\">edinburgh castle fire.pdf</a>\r\n (1,165.48 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nReport of the investigation into Fire in main galley of Edinburgh Castle on 21 August 1998\n\n  \n[ASSET_TAG](#ASSET0) (1,165.48 kb) \n"
+}

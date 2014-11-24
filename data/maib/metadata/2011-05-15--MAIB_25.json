@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "PlatonReport.pdf\r\n (1,470.47 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "15 May 2011", 
+    "Report name:": "CMA CGM Platon", 
+    "Summary:": "MAIB Report on the investigation of mv CMA CGM Platon's contact with Bevans Wharf, River Thames on 15 May 2011. Report 26/2011. Published 8 December 2011."
+  }, 
+  "date_of_occurrence": "2011-05-15", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/platon.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "PlatonReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/PlatonReport.pdf", 
+      "filename": "downloads/3078f082a8b828e21244e189cc6037b906caf419/PlatonReport.pdf", 
+      "original_filename": "PlatonReport.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 26/2011", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>CMA CGM Platon</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">15 May 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of mv <span>CMA CGM Platon</span>'s contact with Bevans Wharf, River Thames on 15 May 2011. Report 26/2011. Published 8 December 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/PlatonReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/PlatonReport.pdf');\">PlatonReport.pdf</a>\r\n (1,470.47 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of mv CMA CGM Platon's contact with Bevans Wharf, River Thames on 15 May 2011. Report 26/2011. Published 8 December 2011.\n\n  \n[ASSET_TAG](#ASSET0) (1,470.47 kb) \n"
+}

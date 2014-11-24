@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "rebecca-kay.pdf\r\n (27.90 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "20 April 2001", 
+    "Report name:": "fv Rebecca Kay (37/2001)", 
+    "Summary:": "Report of the loss of the fishing vessel Rebecca Kay on 20 April 2001 off Bideford Bar Buoy"
+  }, 
+  "date_of_occurrence": "2001-04-20", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/fv_rebecca_kay.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Rebecca-kay synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/rebecca%2Dkay%20synopsis%2Epdf", 
+      "filename": "downloads/4ba207d02f3a4c083b6074289488b0f146eea506/rebecca-kay synopsis.pdf", 
+      "original_filename": "rebecca-kay synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "rebecca-kay.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/rebecca-kay.pdf", 
+      "filename": "downloads/954846f93efe4721a6f2969e71de15ba96ffd830/rebecca-kay.pdf", 
+      "original_filename": "rebecca-kay.pdf"
+    }
+  ], 
+  "title": "Investigation Report - fv Rebecca Kay", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/rebecca%2Dkay%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Rebecca-kay synopsis</a>\r\n (344.03 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">fv Rebecca Kay (37/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">20 April 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the loss of the fishing vessel Rebecca Kay on 20 April 2001 off Bideford Bar Buoy</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/rebecca-kay.pdf\">rebecca-kay.pdf</a>\r\n (27.90 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (344.03 kb)\n\n  \nReport of the loss of the fishing vessel Rebecca Kay on 20 April 2001 off Bideford Bar Buoy\n\n  \n[ASSET_TAG](#ASSET1) (27.90 kb) \n"
+}

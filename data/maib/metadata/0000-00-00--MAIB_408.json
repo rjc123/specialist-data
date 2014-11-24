@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "Download report:": "SB4-10.pdf\r\n (1,888.20 kb)", 
+    "Category:": "Merchant vessels", 
+    "Summary:": "Catastrophic failure of a capacitor and explosion in an 11kV harmonic filter on board the passenger cruise vessel RMS Queen Mary 2. Issued 3 December 2010.", 
+    "Report name:": "Safety Bulletin 4/2010"
+  }, 
+  "date_of_occurrence": "2014-11-20T15:52:46.349997", 
+  "original_url": "http://maib.gov.uk/publications/safety_bulletins/safety_bulletins_2010/safety_bulletin_4_2010.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "SB4-10.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SB4-10.pdf", 
+      "filename": "downloads/a27274eaba71336e6b9aa5e65a952f572a2cafb2/SB4-10.pdf", 
+      "original_filename": "SB4-10.pdf"
+    }
+  ], 
+  "title": "Safety Bulletin 4/2010", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Safety Bulletin 4/2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Catastrophic failure of a capacitor and explosion in an 11kV harmonic filter on board the passenger cruise vessel RMS Queen Mary 2. Issued 3 December 2010.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SB4-10.pdf\">SB4-10.pdf</a>\r\n (1,888.20 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "safety-bulletin", 
+  "body": "  \nCatastrophic failure of a capacitor and explosion in an 11kV harmonic filter on board the passenger cruise vessel RMS Queen Mary 2. Issued 3 December 2010.\n\n  \n[ASSET_TAG](#ASSET0) (1,888.20 kb) \n"
+}

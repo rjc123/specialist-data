@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "Download report:": "AdmiralBlakeBoxfordReport.pdf\r\n (1,589.54 kb)", 
+    "Category:": "Merchant vessels,Fishing vessels", 
+    "Incident date:": "11 February 2011", 
+    "Report name:": "17/2011", 
+    "Summary:": "MAIB Report on the investigation of the collision between MV Boxford and FV Admiral Blake 29nm south of Start Point, English Channel on 11 February 2011. Report No 17/2011. Published 22 September 2011."
+  }, 
+  "date_of_occurrence": "2011-02-11", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/boxford_and_admiral_blake.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "AdmiralBlakeBoxfordReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/AdmiralBlakeBoxfordReport.pdf", 
+      "filename": "downloads/72101e6ed4f099720d21a78d278a184dc4a78df3/AdmiralBlakeBoxfordReport.pdf", 
+      "original_filename": "AdmiralBlakeBoxfordReport.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report - Boxford and Admiral Blake", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">17/2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">11 February 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the collision between MV Boxford and FV Admiral Blake 29nm south of Start Point, English Channel on 11 February 2011. Report No 17/2011. Published 22 September 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/AdmiralBlakeBoxfordReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AdmiralBlakeBoxfordReport.pdf');\">AdmiralBlakeBoxfordReport.pdf</a>\r\n (1,589.54 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the collision between MV Boxford and FV Admiral Blake 29nm south of Start Point, English Channel on 11 February 2011. Report No 17/2011. Published 22 September 2011.\n\n  \n[ASSET_TAG](#ASSET0) (1,589.54 kb) \n"
+}

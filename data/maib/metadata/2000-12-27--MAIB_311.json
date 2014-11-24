@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "Download report:": "nordsee-and-poole-scene.pdf\r\n (247.39 kb)", 
+    "Category:": "Merchant vessels,Fishing vessels", 
+    "Incident date:": "27 December 2000", 
+    "Report name:": "Nordsee and Poole Scene (40/2001)", 
+    "Summary:": "Report of a collision between Nordsee and Poole Scene in the River Clyde on 27 December 2000"
+  }, 
+  "date_of_occurrence": "2000-12-27", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/nordsee_and_poole_scene.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "nordsee-and-poole-scene.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/nordsee-and-poole-scene.pdf", 
+      "filename": "downloads/109d08cb40bd1f58e8a6a6167e2595233c0fcd3c/nordsee-and-poole-scene.pdf", 
+      "original_filename": "nordsee-and-poole-scene.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Nordsee and Poole Scene", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Nordsee and Poole Scene (40/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">27 December 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of a collision between Nordsee and Poole Scene in the River Clyde on 27 December 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/nordsee-and-poole-scene.pdf\">nordsee-and-poole-scene.pdf</a>\r\n (247.39 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nReport of a collision between Nordsee and Poole Scene in the River Clyde on 27 December 2000\n\n  \n[ASSET_TAG](#ASSET0) (247.39 kb) \n"
+}

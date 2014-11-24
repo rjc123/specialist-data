@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "sundance.pdf\r\n (277.06 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "10 September 2001", 
+    "Report name:": "fv Sundance (22/2002)", 
+    "Summary:": "Report on the capsize and foundering of fv Sundance off Gilkicker Point, East Solent with the loss of one life 10 September 2001"
+  }, 
+  "date_of_occurrence": "2001-09-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/fv_sundance.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Sundance synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/sundance%20synopsis%2Epdf", 
+      "filename": "downloads/ca7399bb70f5600115525a2d95d4ed973fef5927/sundance synopsis.pdf", 
+      "original_filename": "sundance synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "sundance.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/sundance.pdf", 
+      "filename": "downloads/b45646f03bfcd3dc327f8cc94f06416461f886ef/sundance.pdf", 
+      "original_filename": "sundance.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Fv Sundance", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/sundance%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Sundance synopsis</a>\r\n (402.39 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">fv Sundance (22/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 September 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the capsize and foundering of fv Sundance off Gilkicker Point, East Solent with the loss of one life 10 September 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/sundance.pdf\">sundance.pdf</a>\r\n (277.06 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (402.39 kb)\n\n  \nReport on the capsize and foundering of fv Sundance off Gilkicker Point, East Solent with the loss of one life 10 September 2001\n\n  \n[ASSET_TAG](#ASSET1) (277.06 kb) \n"
+}

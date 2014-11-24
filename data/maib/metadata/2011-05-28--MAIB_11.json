@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "LiquidVortexReport.pdf\r\n (1,325.79 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "28 May 2011", 
+    "Report name:": "25/2011", 
+    "Summary:": "MAIB Report on the investigation of the serious injury on board the yacht Liquid Vortex on 28 May 2011. Report No 25/2011. Published 1 December 2011."
+  }, 
+  "date_of_occurrence": "2011-05-28", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/liquid_vortex.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "LiquidVortexReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/LiquidVortexReport.pdf", 
+      "filename": "downloads/8c89f56c76bfa2c63a5a181a83448d155841d95b/LiquidVortexReport.pdf", 
+      "original_filename": "LiquidVortexReport.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report - Liquid Vortex", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">25/2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">28 May 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the serious injury on board the yacht Liquid Vortex on 28 May 2011. Report No 25/2011. Published 1 December 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/LiquidVortexReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/LiquidVortexReport.pdf');\">LiquidVortexReport.pdf</a>\r\n (1,325.79 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the serious injury on board the yacht Liquid Vortex on 28 May 2011. Report No 25/2011. Published 1 December 2011.\n\n  \n[ASSET_TAG](#ASSET0) (1,325.79 kb) \n"
+}

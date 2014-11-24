@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "FriOcean_Report.pdf\r\n (2,439.56 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "14 June 2013", 
+    "Report name:": "Fri Ocean", 
+    "Summary:": "MAIB Report on the investigation into the grounding of Fri Ocean 2.5 miles south of Tobermory on 14 June 2013. Report No 26/2013. Published 6 December 2013."
+  }, 
+  "date_of_occurrence": "2013-06-14", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2013/fri_ocean.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "FriOcean_Report.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/FriOcean_Report.pdf", 
+      "filename": "downloads/abd3ec7e1e0024ff959701c7aaed2be7cb97b2fd/FriOcean_Report.pdf", 
+      "original_filename": "FriOcean_Report.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report  26/2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Fri Ocean</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">14 June 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation into the grounding of <span>Fri Ocean</span> 2.5 miles south of Tobermory on 14 June 2013. Report No 26/2013. Published 6 December 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/FriOcean_Report.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/FriOcean_Report.pdf');\">FriOcean_Report.pdf</a>\r\n (2,439.56 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation into the grounding of Fri Ocean 2.5 miles south of Tobermory on 14 June 2013. Report No 26/2013. Published 6 December 2013.\n\n  \n[ASSET_TAG](#ASSET0) (2,439.56 kb) \n"
+}

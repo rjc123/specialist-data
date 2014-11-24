@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "SBSTyphoonReport.pdf\r\n (1,250.75 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "26 February 2011", 
+    "Report name:": "13/2011", 
+    "Summary:": "MAIB Report on the contact in Aberdeen Harbour by SBS Typhoon on 26 February 2011. Report No 13/2011. Published 3 August 2011."
+  }, 
+  "date_of_occurrence": "2011-02-26", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/sbs_typhoon.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "SBSTyphoonReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SBSTyphoonReport.pdf", 
+      "filename": "downloads/3cc02fd3bb5be4523ca2ecebd6d2688a081324ae/SBSTyphoonReport.pdf", 
+      "original_filename": "SBSTyphoonReport.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report - SBS Typhoon", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">13/2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">26 February 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the contact in Aberdeen Harbour by SBS Typhoon on 26 February 2011. Report No 13/2011. Published 3 August 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SBSTyphoonReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SBSTyphoonReport.pdf');\">SBSTyphoonReport.pdf</a>\r\n (1,250.75 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the contact in Aberdeen Harbour by SBS Typhoon on 26 February 2011. Report No 13/2011. Published 3 August 2011.\n\n  \n[ASSET_TAG](#ASSET0) (1,250.75 kb) \n"
+}

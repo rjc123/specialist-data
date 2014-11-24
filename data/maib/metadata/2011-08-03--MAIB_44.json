@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "ErnestBevin.pdf\r\n (1,601.86 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "03 August 2011", 
+    "Report name:": "Ernest Bevin", 
+    "Summary:": "MAIB Report on the investigation of the fatal accident of a crew member on the Woolwich ferry Ernest Bevin on the River Thames, London. Report No 22/2012. Published 16 August 2012."
+  }, 
+  "date_of_occurrence": "2011-08-03", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/ernest_bevin.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "ErnestBevin.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/ErnestBevin.pdf", 
+      "filename": "downloads/120c59aff98f96ccd2f8f972dcff567f875d1aac/ErnestBevin.pdf", 
+      "original_filename": "ErnestBevin.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 22/2012", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Ernest Bevin</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">03 August 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the fatal accident of a crew member on the Woolwich ferry <span>Ernest Bevin</span> on the River Thames, London. Report No 22/2012. Published 16 August 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/ErnestBevin.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ErnestBevin.pdf');\">ErnestBevin.pdf</a>\r\n (1,601.86 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the fatal accident of a crew member on the Woolwich ferry Ernest Bevin on the River Thames, London. Report No 22/2012. Published 16 August 2012.\n\n  \n[ASSET_TAG](#ASSET0) (1,601.86 kb) \n"
+}

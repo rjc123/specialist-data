@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "Download report:": "gudermes-saint-jacques.pdf\r\n (303.79 kb)", 
+    "Category:": "Leisure,Merchant vessels,Fishing vessels", 
+    "Incident date:": "23 April 2001", 
+    "Report name:": "Gudermes and Saint Jacques (05/2002)", 
+    "Summary:": "Report of the collision between Gudermes and Saint Jacques II in the Dover Strait on 23 April 2001"
+  }, 
+  "date_of_occurrence": "2001-04-23", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/gudermes_and_saint_jacques.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Gudermes Saint Jacques synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/gudermes%2Dsaint%2Djacques%20synopsis%2Epdf", 
+      "filename": "downloads/894a6906a9c5d46b44004b5f0064170fd7b50db6/gudermes-saint-jacques synopsis.pdf", 
+      "original_filename": "gudermes-saint-jacques synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "gudermes-saint-jacques.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/gudermes-saint-jacques.pdf", 
+      "filename": "downloads/605156057ab57f1779640eca127f547a92aa61c2/gudermes-saint-jacques.pdf", 
+      "original_filename": "gudermes-saint-jacques.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Gudermes and Saint Jacques", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/gudermes%2Dsaint%2Djacques%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Gudermes Saint Jacques synopsis</a>\r\n (314.33 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Gudermes and Saint Jacques (05/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">23 April 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure,Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the collision between Gudermes and Saint Jacques II in the Dover Strait on 23 April 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/gudermes-saint-jacques.pdf\">gudermes-saint-jacques.pdf</a>\r\n (303.79 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail", 
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (314.33 kb)\n\n  \nReport of the collision between Gudermes and Saint Jacques II in the Dover Strait on 23 April 2001\n\n  \n[ASSET_TAG](#ASSET1) (303.79 kb) \n"
+}

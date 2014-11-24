@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "sharona.pdf\r\n (987.59 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "03 August 1999", 
+    "Report name:": "Sharona (25/2000)", 
+    "Summary:": "Report of the investigation of the flooding and foundering of mfv Sharona 80 miles north-east of Peterhead on 3 August 1999"
+  }, 
+  "date_of_occurrence": "1999-08-03", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/sharona.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Sharona - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/sharona%20synopsis%2Epdf", 
+      "filename": "downloads/fe60bc51979d5cfe4682d85fcf59455ecc0ee319/sharona synopsis.pdf", 
+      "original_filename": "sharona synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "sharona.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/sharona.pdf", 
+      "filename": "downloads/a177f8132a0035f961961d895378970e1371ff82/sharona.pdf", 
+      "original_filename": "sharona.pdf"
+    }
+  ], 
+  "title": "Investigation report - Sharona", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/sharona%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Sharona - Synopsis</a>\r\n (47.18 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Sharona (25/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">03 August 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation of the flooding and foundering of mfv Sharona 80 miles north-east of Peterhead on 3 August 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/sharona.pdf\">sharona.pdf</a>\r\n (987.59 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (47.18 kb)\n\n  \nReport of the investigation of the flooding and foundering of mfv Sharona 80 miles north-east of Peterhead on 3 August 1999\n\n  \n[ASSET_TAG](#ASSET1) (987.59 kb) \n"
+}

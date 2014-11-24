@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "de kaper.pdf\r\n (802.49 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "12 February 1999", 
+    "Report name:": "De Kaper", 
+    "Summary:": "Report of the investigation into the fire on board the UK registered trawler DE Kaper off Hanstholm, Denmark on 12 February 1999"
+  }, 
+  "date_of_occurrence": "1999-02-12", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/de_kaper.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "De Kaper Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/de%20kaper%20synopsis%2Epdf", 
+      "filename": "downloads/173f555bba1a18af7f5fb81494152dc0dc1f79b4/de kaper synopsis.pdf", 
+      "original_filename": "de kaper synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "de kaper.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/de kaper.pdf", 
+      "filename": "downloads/a045ad3d761fea67d46df11b0786557b2f364e7f/de kaper.pdf", 
+      "original_filename": "de kaper.pdf"
+    }
+  ], 
+  "title": "Investigation report - De Kaper", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/de%20kaper%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">De Kaper Synopsis</a>\r\n (37.08 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">De Kaper</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">12 February 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation into the fire on board the UK registered trawler DE Kaper off Hanstholm, Denmark on 12 February 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/de%20kaper.pdf\">de kaper.pdf</a>\r\n (802.49 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (37.08 kb)\n\n  \nReport of the investigation into the fire on board the UK registered trawler DE Kaper off Hanstholm, Denmark on 12 February 1999\n\n  \n[ASSET_TAG](#ASSET1) (802.49 kb) \n"
+}

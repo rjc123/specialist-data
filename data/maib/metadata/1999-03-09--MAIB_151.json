@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "Download report:": "beverley ann.pdf\r\n (1,246.90 kb)", 
+    "Category:": "Merchant vessels,Fishing vessels", 
+    "Incident date:": "09 March 1999", 
+    "Report name:": "Beverley Ann II (4/2000)", 
+    "Summary:": "Report on the investigation of the collision between the UK registered fishing vessel Beverley Ann II and the Liberian registered ro-ro/vehicle carrier Cypress Pass, 12 miles south-east of the River Tyne breakwaters on 9 March 1999"
+  }, 
+  "date_of_occurrence": "1999-03-09", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/beverley_ann_ii.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Beverley Ann II- Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/beverley%20ann%20synopsis%2Epdf", 
+      "filename": "downloads/da09a8e0185c0c33db2ab1d8db9ecd5523afb29a/beverley ann synopsis.pdf", 
+      "original_filename": "beverley ann synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "beverley ann.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/beverley ann.pdf", 
+      "filename": "downloads/ba7dc80a99e9feead4b3bab40457f856bb1df213/beverley ann.pdf", 
+      "original_filename": "beverley ann.pdf"
+    }
+  ], 
+  "title": "Investigation report - Beverley Ann II", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/beverley%20ann%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Beverley Ann II- Synopsis</a>\r\n (64.71 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Beverley Ann II (4/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">09 March 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the collision between the UK registered fishing vessel Beverley Ann II and the Liberian registered ro-ro/vehicle carrier Cypress Pass, 12 miles south-east of the River Tyne breakwaters on 9 March 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/beverley%20ann.pdf\">beverley ann.pdf</a>\r\n (1,246.90 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (64.71 kb)\n\n  \nReport on the investigation of the collision between the UK registered fishing vessel Beverley Ann II and the Liberian registered ro-ro/vehicle carrier Cypress Pass, 12 miles south-east of the River Tyne breakwaters on 9 March 1999\n\n  \n[ASSET_TAG](#ASSET1) (1,246.90 kb) \n"
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "Douwent.pdf\r\n (920.17 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "26 February 2013", 
+    "Report name:": "Douwent", 
+    "Summary:": "MAIB Report on the investigation of the grounding of the general cargo ship Douwent on Haisborough Sand on 26 February 2013. Report No 4/2014. Published 29 January 2014."
+  }, 
+  "date_of_occurrence": "2013-02-26", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2014/douwent.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Douwent.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Douwent.pdf", 
+      "filename": "downloads/de831f60e2a93d89ef0696afcad55336cf51fe4d/Douwent.pdf", 
+      "original_filename": "Douwent.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 4/2014", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Douwent</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">26 February 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the grounding of the general cargo ship <span>Douwent</span> on Haisborough Sand on 26 February 2013. Report No 4/2014. Published 29 January 2014.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Douwent.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Douwent.pdf');\">Douwent.pdf</a>\r\n (920.17 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the grounding of the general cargo ship Douwent on Haisborough Sand on 26 February 2013. Report No 4/2014. Published 29 January 2014.\n\n  \n[ASSET_TAG](#ASSET0) (920.17 kb) \n"
+}

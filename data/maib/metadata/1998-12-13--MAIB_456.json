@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "the sound of iona.pdf\r\n (1,092.45 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "13 December 1998", 
+    "Report name:": "The Sound of Iona", 
+    "Summary:": "Investigation of capsizing of a Dinghy in the Sound of Iona\r\r\nwith the loss of four lives 13 December 1998"
+  }, 
+  "date_of_occurrence": "1998-12-13", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/the_sound_of_iona.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Sound of Iona Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/the%20sound%20of%20iona%20synopsis%2Epdf", 
+      "filename": "downloads/0d5c9d2ec2bf02c1bc48f6f1b35756de7d4da5f6/the sound of iona synopsis.pdf", 
+      "original_filename": "the sound of iona synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "the sound of iona.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/the sound of iona.pdf", 
+      "filename": "downloads/8816aa02fa4a5fa20175da461b2ec7760fc20bb2/the sound of iona.pdf", 
+      "original_filename": "the sound of iona.pdf"
+    }
+  ], 
+  "title": "Investigation report - The Sound of Iona", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/the%20sound%20of%20iona%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Sound of Iona Synopsis</a>\r\n (59.69 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">The Sound of Iona</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">13 December 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Investigation of capsizing of a Dinghy in the Sound of Iona\r\r\nwith the loss of four lives 13 December 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/the%20sound%20of%20iona.pdf\">the sound of iona.pdf</a>\r\n (1,092.45 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (59.69 kb)\n\n  \nInvestigation of capsizing of a Dinghy in the Sound of Iona with the loss of four lives 13 December 1998\n\n  \n[ASSET_TAG](#ASSET1) (1,092.45 kb) \n"
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "PrideofCalais.pdf\r\n (0 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "22 October 2011", 
+    "Report name:": "Pride of Calais", 
+    "Summary:": "MAIB Report on the investigation of the machinery failure on board Pride of Calais leading to contact with the berth in Calais, France on 22 October 2011. Report No 18/2012. Published 11 July 2012."
+  }, 
+  "date_of_occurrence": "2011-10-22", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/pride_of_calais.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "PrideofCalais.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/PrideofCalais.pdf", 
+      "filename": "downloads/27abecd850ee517c4aeea0d3335a6de2ac1a9c57/PrideofCalais.pdf", 
+      "original_filename": "PrideofCalais.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 18/2012", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Pride of Calais</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">22 October 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the machinery failure on board <span>Pride of Calais</span> leading to contact with the berth in Calais, France on 22 October 2011. Report No 18/2012. Published 11 July 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/PrideofCalais.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/PrideofCalais.pdf');\">PrideofCalais.pdf</a>\r\n (0 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the machinery failure on board Pride of Calais leading to contact with the berth in Calais, France on 22 October 2011. Report No 18/2012. Published 11 July 2012.\n\n  \n[ASSET_TAG](#ASSET0) (0 kb) \n"
+}

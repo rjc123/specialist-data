@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "enak loveletter.pdf\r\n (1,560.00 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "09 May 1997", 
+    "Report name:": "Enak and Loveletter", 
+    "Summary:": "Report of an investigation into the lifting arrangement failure Enak/Loveletter in Sunderland Docks on 9 May 1997 with loss of one life \r\r\nPublished 16 December 1998"
+  }, 
+  "date_of_occurrence": "1997-05-09", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/enak_loveletter.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Enak and Loveletter Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Enak%20and%20Loveletter%20Synopsis%2Epdf", 
+      "filename": "downloads/875fed25820b54e7b96ebd3f871225cd13a09eb4/Enak and Loveletter Synopsis.pdf", 
+      "original_filename": "Enak and Loveletter Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "enak loveletter.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/enak loveletter.pdf", 
+      "filename": "downloads/0e0c2f27a651d229bc616258ff01eb9e55a46bd8/enak loveletter.pdf", 
+      "original_filename": "enak loveletter.pdf"
+    }
+  ], 
+  "title": "Investigation report - Enak and Loveletter", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Enak%20and%20Loveletter%20Synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Enak and Loveletter Synopsis</a>\r\n (7.73 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Enak and Loveletter</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">09 May 1997</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of an investigation into the lifting arrangement failure Enak/Loveletter in Sunderland Docks on 9 May 1997 with loss of one life \r\r\nPublished 16 December 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/enak%20loveletter.pdf\">enak loveletter.pdf</a>\r\n (1,560.00 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (7.73 kb)\n\n  \nReport of an investigation into the lifting arrangement failure Enak/Loveletter in Sunderland Docks on 9 May 1997 with loss of one life Published 16 December 1998\n\n  \n[ASSET_TAG](#ASSET1) (1,560.00 kb) \n"
+}

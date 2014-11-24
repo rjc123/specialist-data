@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "ocean-star.pdf\r\n (423.28 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "26 November 2001", 
+    "Report name:": "Ocean Star (13/2003)", 
+    "Summary:": "Failure of warp block on board the UK registered fishing vessel Ocean star north of the Shetland Islands resulting in one fatality on 26 November 2001"
+  }, 
+  "date_of_occurrence": "2001-11-26", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/ocean_star.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Ocean Star Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/ocean%2Dstar%20synopsis%2Epdf", 
+      "filename": "downloads/207590ed0898b88db78ca9f03eff84b4995653f2/ocean-star synopsis.pdf", 
+      "original_filename": "ocean-star synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "ocean-star.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/ocean-star.pdf", 
+      "filename": "downloads/01f5967bffd49ba54e71916b036af2f4ab7dd94f/ocean-star.pdf", 
+      "original_filename": "ocean-star.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Ocean Star", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/ocean%2Dstar%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Ocean Star Synopsis</a>\r\n (12.21 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Ocean Star (13/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">26 November 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Failure of warp block on board the UK registered fishing vessel Ocean star north of the Shetland Islands resulting in one fatality on 26 November 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/ocean-star.pdf\">ocean-star.pdf</a>\r\n (423.28 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (12.21 kb)\n\n  \nFailure of warp block on board the UK registered fishing vessel Ocean star north of the Shetland Islands resulting in one fatality on 26 November 2001\n\n  \n[ASSET_TAG](#ASSET1) (423.28 kb) \n"
+}

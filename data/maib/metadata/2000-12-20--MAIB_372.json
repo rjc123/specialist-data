@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "randgrid.pdf\r\n (473.25 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "20 December 2000", 
+    "Report name:": "Randgrid (06/2002)", 
+    "Summary:": "Report of the parting of the mooring line between the Tetney buoy and the North Sea Shuttle tanker Rangrid resulting in the discharge of 12 tonnes of crude oil into the Humber Esturay on 20 December 2000"
+  }, 
+  "date_of_occurrence": "2000-12-20", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/randgrid.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/randgrid%5Fsynopsis%2Epdf", 
+      "filename": "downloads/000c81a046406e5dedbf40d1df9aaff6f4034ad0/randgrid_synopsis.pdf", 
+      "original_filename": "randgrid_synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "randgrid.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/randgrid.pdf", 
+      "filename": "downloads/a6e736f8058feb1c7b5f35f6015a5154ef25219b/randgrid.pdf", 
+      "original_filename": "randgrid.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Randgrid", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/randgrid%5Fsynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (50.01 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Randgrid (06/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">20 December 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the parting of the mooring line between the Tetney buoy and the North Sea Shuttle tanker Rangrid resulting in the discharge of 12 tonnes of crude oil into the Humber Esturay on 20 December 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/randgrid.pdf\">randgrid.pdf</a>\r\n (473.25 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (50.01 kb)\n\n  \nReport of the parting of the mooring line between the Tetney buoy and the North Sea Shuttle tanker Rangrid resulting in the discharge of 12 tonnes of crude oil into the Humber Esturay on 20 December 2000\n\n  \n[ASSET_TAG](#ASSET1) (473.25 kb) \n"
+}

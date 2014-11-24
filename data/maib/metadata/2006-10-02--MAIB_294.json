@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "MaerskDohaReport.pdf\r\n (1,521.19 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "02 October 2006", 
+    "Report name:": "Maersk Doha", 
+    "Summary:": "Report on the investigation of the machinery breakdown and subsequent fire onboard Maersk Doha in Chesapeake Bay, off Norfolk, Virginia, USA on 2 October 2006. Report no 15/2007. Published 6 July 2007."
+  }, 
+  "date_of_occurrence": "2006-10-02", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/maersk_doha.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaerskDohaSynopsis%2Epdf", 
+      "filename": "downloads/57ff2b28ba5dc582d85b7cdf4ea81f82ff7bdbf1/MaerskDohaSynopsis.pdf", 
+      "original_filename": "MaerskDohaSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "MaerskDohaReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaerskDohaReport.pdf", 
+      "filename": "downloads/d84dae3cf38fc89330e5575de369222aaa44fb5c/MaerskDohaReport.pdf", 
+      "original_filename": "MaerskDohaReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/MaerskDohaAnnexes%2Epdf", 
+      "filename": "downloads/a6c09a320ab70f387e332e4053bf6b5583fa6e73/MaerskDohaAnnexes.pdf", 
+      "original_filename": "MaerskDohaAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Maersk Doha", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaerskDohaSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/MaerskDohaSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (161.87 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Maersk Doha</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">02 October 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the machinery breakdown and subsequent fire onboard Maersk Doha in Chesapeake Bay, off Norfolk, Virginia, USA on 2 October 2006. Report no 15/2007. Published 6 July 2007.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/MaerskDohaReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaerskDohaReport.pdf');\">MaerskDohaReport.pdf</a>\r\n (1,521.19 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MaerskDohaAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/MaerskDohaAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (841.59 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (161.87 kb)\n\n  \nReport on the investigation of the machinery breakdown and subsequent fire onboard Maersk Doha in Chesapeake Bay, off Norfolk, Virginia, USA on 2 October 2006. Report no 15/2007. Published 6 July 2007.\n\n  \n[ASSET_TAG](#ASSET1) (1,521.19 kb) \n\n[ASSET_TAG](#ASSET2) (841.59 kb)\n"
+}

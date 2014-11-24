@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "AstralReport.pdf\r\n (1,418.81 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "10 March 2008", 
+    "Report name:": "Astral", 
+    "Summary:": "MAIB Report on the investigation of the grounding of Astral on Princessa Shoal, East of Isle of Wight on 10 March 2008. Report No 4/2009. Published 29 January 2009."
+  }, 
+  "date_of_occurrence": "2008-03-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/astral.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/AstralSynopsis%2Epdf", 
+      "filename": "downloads/10281ed8def06c3711e5c9557065dc509086dfdf/AstralSynopsis.pdf", 
+      "original_filename": "AstralSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "AstralReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/AstralReport.pdf", 
+      "filename": "downloads/be41a5cbb66d00e364c0eb67d4f737fb6a514a24/AstralReport.pdf", 
+      "original_filename": "AstralReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/AstralAnnexes%2Epdf", 
+      "filename": "downloads/a095e74318368f11d6fe38f392c4874063e3abbd/AstralAnnexes.pdf", 
+      "original_filename": "AstralAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Astral", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AstralSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/AstralSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (128.35 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Astral</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 March 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the grounding of Astral on Princessa Shoal, East of Isle of Wight on 10 March 2008. Report No 4/2009. Published 29 January 2009.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/AstralReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AstralReport.pdf');\">AstralReport.pdf</a>\r\n (1,418.81 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AstralAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/AstralAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,597.59 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">An accident flyer was produced for this incident and can also be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2009/astral.cfm\">Flyer to shipping industry</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (128.35 kb)\n\n  \nMAIB Report on the investigation of the grounding of Astral on Princessa Shoal, East of Isle of Wight on 10 March 2008. Report No 4/2009. Published 29 January 2009.\n\n  \n[ASSET_TAG](#ASSET1) (1,418.81 kb) \n\n[ASSET_TAG](#ASSET2) (1,597.59 kb)\n\nAn accident flyer was produced for this incident and can also be viewed on this website:  \n[Flyer to shipping industry](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2009/astral.cfm)\n"
+}

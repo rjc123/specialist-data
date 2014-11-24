@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "Download report:": "p&osl_kent.pdf\r\n (3,263.42 kb)", 
+    "Category:": "Leisure,Merchant vessels", 
+    "Incident date:": "10 November 1998", 
+    "Report name:": "P&OSL Kent", 
+    "Summary:": "Report of an Investigation into the death of a donkeyman on mv P&O SL Kent on 10 November 1998 off the Port of Dover"
+  }, 
+  "date_of_occurrence": "1998-11-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/p_osl_kent.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "P&OSL Kent Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/p%26osl%20kent%20synopsis%2Epdf", 
+      "filename": "downloads/e297fbf7b5bf0ed1817f3f24727db2381a2c4852/p&osl kent synopsis.pdf", 
+      "original_filename": "p&osl kent synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "p&osl_kent.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/p&osl_kent.pdf", 
+      "filename": "downloads/796ab3a5e5d400760ffc8ac3a2bb47384b17928a/p&osl_kent.pdf", 
+      "original_filename": "p&osl_kent.pdf"
+    }
+  ], 
+  "title": "Investigation report - P&OSL Kent", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/p%26osl%20kent%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">P&amp;OSL Kent Synopsis</a>\r\n (67.93 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">P&amp;OSL Kent</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 November 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure,Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of an Investigation into the death of a donkeyman on mv P&amp;O SL Kent on 10 November 1998 off the Port of Dover</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/p&amp;osl_kent.pdf\">p&amp;osl_kent.pdf</a>\r\n (3,263.42 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail", 
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (67.93 kb)\n\n  \nReport of an Investigation into the death of a donkeyman on mv P&O SL Kent on 10 November 1998 off the Port of Dover\n\n  \n[ASSET_TAG](#ASSET1) (3,263.42 kb) \n"
+}

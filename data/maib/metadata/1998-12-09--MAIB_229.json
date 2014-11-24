@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "geeske.pdf\r\n (978.68 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "09 December 1998", 
+    "Report name:": "Geeske", 
+    "Summary:": "Report of the investigation into the death of one person on the fishing vessel Geeske BM140 while fishing off Beachy Head on 9 December 1998"
+  }, 
+  "date_of_occurrence": "1998-12-09", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/geeske.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Geeske Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/geeske%20synopsis%2Epdf", 
+      "filename": "downloads/25e09c322a35f906db1152115ff6c9f46c4eaff8/geeske synopsis.pdf", 
+      "original_filename": "geeske synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "geeske.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/geeske.pdf", 
+      "filename": "downloads/d1e8fe4fc7027c760d5bfcd064b48bca83175dce/geeske.pdf", 
+      "original_filename": "geeske.pdf"
+    }
+  ], 
+  "title": "Investigation report - Geeske", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/geeske%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Geeske Synopsis</a>\r\n (30.32 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Geeske</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">09 December 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation into the death of one person on the fishing vessel Geeske BM140 while fishing off Beachy Head on 9 December 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/geeske.pdf\">geeske.pdf</a>\r\n (978.68 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (30.32 kb)\n\n  \nReport of the investigation into the death of one person on the fishing vessel Geeske BM140 while fishing off Beachy Head on 9 December 1998\n\n  \n[ASSET_TAG](#ASSET1) (978.68 kb) \n"
+}

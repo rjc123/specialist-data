@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "QM2Report.pdf\r\n (4,491.12 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "23 September 2010", 
+    "Report name:": "Queen Mary 2", 
+    "Summary:": "Report on the investigation of the catastrophic failure of a capacitor in the aft harmonic filter room on boardRMS Queen Mary 2 while approaching Barcelona, on 23 September 2010. Report No 28/2011. Published 22 December 2011."
+  }, 
+  "date_of_occurrence": "2010-09-23", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/qm2.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "QM2Report.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/QM2Report.pdf", 
+      "filename": "downloads/d1db5af9dabf2147c08f41a6f8a8cb7663582fc7/QM2Report.pdf", 
+      "original_filename": "QM2Report.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/QM2Annexes%2Epdf", 
+      "filename": "downloads/3f0ba435125ac81bef50ec74b5764a6061743a32/QM2Annexes.pdf", 
+      "original_filename": "QM2Annexes.pdf"
+    }
+  ], 
+  "title": "report-without-titleQQQQQQQQQQQQQQQQQQQQQQQ", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n<span class=\"sitePageTitle\"><h1>Accident Investigation Report 28/2011</h1></span>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Queen Mary 2</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">23 September 2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the catastrophic failure of a capacitor in the aft harmonic filter room on board<span>RMS Queen Mary 2</span> while approaching Barcelona, on 23 September 2010. Report No 28/2011. Published 22 December 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/QM2Report.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/QM2Report.pdf');\">QM2Report.pdf</a>\r\n (4,491.12 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/QM2Annexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/QM2Annexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (5,366.76 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">A Safety Flyer was also produced for this incident and can be viewed on our website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2011/rms_qm2.cfm\">Safety Flyer</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "# Accident Investigation Report 28/2011\n\n  \nReport on the investigation of the catastrophic failure of a capacitor in the aft harmonic filter room on boardRMS Queen Mary 2 while approaching Barcelona, on 23 September 2010. Report No 28/2011. Published 22 December 2011.\n\n  \n[ASSET_TAG](#ASSET0) (4,491.12 kb) \n\n[ASSET_TAG](#ASSET1) (5,366.76 kb)\n\nA Safety Flyer was also produced for this incident and can be viewed on our website:  \n[Safety Flyer](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2011/rms_qm2.cfm)\n"
+}

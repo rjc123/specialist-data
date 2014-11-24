@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "BlueAngelReport.pdf\r\n (2,944.04 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "06 January 2011", 
+    "Report name:": "12/2011", 
+    "Summary:": "MAIB Accident Investigation Report on the manoverboard from FV Blue Angel at West Gigha on 6 January 2011. Published 22 July 2011."
+  }, 
+  "date_of_occurrence": "2011-01-06", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/blue_angel.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "BlueAngelReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/BlueAngelReport.pdf", 
+      "filename": "downloads/eb42ba492b14dc00e688a963225267588514ff90/BlueAngelReport.pdf", 
+      "original_filename": "BlueAngelReport.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report - Blue Angel", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">12/2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">06 January 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Accident Investigation Report on the manoverboard from FV Blue Angel at West Gigha on 6 January 2011. Published 22 July 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/BlueAngelReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/BlueAngelReport.pdf');\">BlueAngelReport.pdf</a>\r\n (2,944.04 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Accident Investigation Report on the manoverboard from FV Blue Angel at West Gigha on 6 January 2011. Published 22 July 2011.\n\n  \n[ASSET_TAG](#ASSET0) (2,944.04 kb) \n"
+}

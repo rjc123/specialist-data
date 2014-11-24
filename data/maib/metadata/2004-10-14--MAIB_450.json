@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "Swan_.pdf\r\n (633.08 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "14 October 2004", 
+    "Report name:": "Swan", 
+    "Summary:": "Report on the investigation of the capsize of the passenger launch Swan on the River Avon, Bath 14 October 2004"
+  }, 
+  "date_of_occurrence": "2004-10-14", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2005/swan_report.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Swan_.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Swan_.pdf", 
+      "filename": "downloads/a92a5e56b4d57cfe542796d259604a9436dd79fc/Swan_.pdf", 
+      "original_filename": "Swan_.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Swan", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Swan</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">14 October 2004</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the capsize of the passenger launch Swan on the River Avon, Bath 14 October 2004</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Swan_.pdf\">Swan_.pdf</a>\r\n (633.08 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nReport on the investigation of the capsize of the passenger launch Swan on the River Avon, Bath 14 October 2004\n\n  \n[ASSET_TAG](#ASSET0) (633.08 kb) \n"
+}

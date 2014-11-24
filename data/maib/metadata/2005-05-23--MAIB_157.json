@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Bounty.pdf\r\n (268.57 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "23 May 2005", 
+    "Report name:": "Bounty", 
+    "Summary:": "The investigation of the capsize and loss of the 9.8m stern trawler Bounty, 4 miles of Berry Head, South Devon on 23 May 2005. Report no 2/2006."
+  }, 
+  "date_of_occurrence": "2005-05-23", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/bounty.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Bounty%5FSynopsis%2Epdf", 
+      "filename": "downloads/ba72df48d2fe9c9acb6514bb22f454600367f277/Bounty_Synopsis.pdf", 
+      "original_filename": "Bounty_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Bounty.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Bounty.pdf", 
+      "filename": "downloads/5e119f9557ff279cb553b2055217c17b0b1ca004/Bounty.pdf", 
+      "original_filename": "Bounty.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Bounty", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Bounty%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (18.82 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bounty</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">23 May 2005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">The investigation of the capsize and loss of the 9.8m stern trawler Bounty, 4 miles of Berry Head, South Devon on 23 May 2005. Report no 2/2006.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Bounty.pdf\">Bounty.pdf</a>\r\n (268.57 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (18.82 kb)\n\n  \nThe investigation of the capsize and loss of the 9.8m stern trawler Bounty, 4 miles of Berry Head, South Devon on 23 May 2005. Report no 2/2006.\n\n  \n[ASSET_TAG](#ASSET1) (268.57 kb) \n"
+}

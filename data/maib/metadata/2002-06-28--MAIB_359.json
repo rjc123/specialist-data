@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "pride-of-the-dart.pdf\r\n (286.37 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "28 June 2002", 
+    "Report name:": "Pride of the Dart (12/2003)", 
+    "Summary:": "Grounding of the class VI passenger vessel Pride of the Dart on Mew Stone rocks near the entrance to the River Dart on 28 June 2002"
+  }, 
+  "date_of_occurrence": "2002-06-28", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/pride_of_the_dart.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Pride of the Dart Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/pride%2Dof%2Dthe%2Ddart%20synopsis%2Epdf", 
+      "filename": "downloads/79bf9bc2ada2471917f148e6ffedab966630a21d/pride-of-the-dart synopsis.pdf", 
+      "original_filename": "pride-of-the-dart synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "pride-of-the-dart.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/pride-of-the-dart.pdf", 
+      "filename": "downloads/980a51947c4c1a73bf5a7386745c21293c492cec/pride-of-the-dart.pdf", 
+      "original_filename": "pride-of-the-dart.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Pride of the Dart", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/pride%2Dof%2Dthe%2Ddart%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Pride of the Dart Synopsis</a>\r\n (11.67 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Pride of the Dart (12/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">28 June 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Grounding of the class VI passenger vessel Pride of the Dart on Mew Stone rocks near the entrance to the River Dart on 28 June 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/pride-of-the-dart.pdf\">pride-of-the-dart.pdf</a>\r\n (286.37 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (11.67 kb)\n\n  \nGrounding of the class VI passenger vessel Pride of the Dart on Mew Stone rocks near the entrance to the River Dart on 28 June 2002\n\n  \n[ASSET_TAG](#ASSET1) (286.37 kb) \n"
+}

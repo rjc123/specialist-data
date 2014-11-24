@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "Download report:": "NormanArrowReport.pdf\r\n (1,071.31 kb)", 
+    "Category:": "Merchant vessels", 
+    "Summary:": "MAIB report on the investigation of contacts made by the high speed craft Norman Arrow with quays in Portsmouth International Port, Portsmouth UK on 31 March 2010 and with a mooring dolphin in Le Havre, France on 29 August 2010. Report No 7/2011. Published 19 May 2011.", 
+    "Report name:": "Norman Arrow"
+  }, 
+  "date_of_occurrence": "2014-11-20T15:52:32.036667", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/norman_arrow.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Norman%5FArrow%5FSynopsis%2Epdf", 
+      "filename": "downloads/ddf2df06a46de970ef5e22802e4535bd910311ba/Norman_Arrow_Synopsis.pdf", 
+      "original_filename": "Norman_Arrow_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "NormanArrowReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/NormanArrowReport.pdf", 
+      "filename": "downloads/99aea76cd5ece8259bc8a2168ab4abf63e129eed/NormanArrowReport.pdf", 
+      "original_filename": "NormanArrowReport.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Norman Arrow", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Norman_Arrow_Synopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/Norman%5FArrow%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (98.21 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Norman Arrow</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation of contacts made by the high speed craft Norman Arrow with quays in Portsmouth International Port, Portsmouth UK on 31 March 2010 and with a mooring dolphin in Le Havre, France on 29 August 2010. Report No 7/2011. Published 19 May 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/NormanArrowReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/NormanArrowReport.pdf');\">NormanArrowReport.pdf</a>\r\n (1,071.31 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Norman Arrow_Annexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/Norman%20Arrow%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (3,374.88 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (98.21 kb)\n\n  \nMAIB report on the investigation of contacts made by the high speed craft Norman Arrow with quays in Portsmouth International Port, Portsmouth UK on 31 March 2010 and with a mooring dolphin in Le Havre, France on 29 August 2010. Report No 7/2011. Published 19 May 2011.\n\n  \n[ASSET_TAG](#ASSET1) (1,071.31 kb) \n\n[Annexes](http://maib.gov.uk/cms_resources/Norman%20Arrow%5FAnnexes%2Epdf) (3,374.88 kb)\n"
+}

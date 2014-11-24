@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Sea Snake.pdf\r\n (532.10 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "10 July 2005", 
+    "Report name:": "Sea Snake", 
+    "Summary:": "Report on the investigation of the grounding at high  speed of the leisure powerboat Sea Snake near the entrance to Tarbert harbour, Loch Fyne on 10 July 2005\r\r\nwith the loss of three lives.  Report 10/2006."
+  }, 
+  "date_of_occurrence": "2005-07-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/sea_snake.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Sea%20Snake%5FSynopsis%2Epdf", 
+      "filename": "downloads/b49c45f0f0c9f2df7c4f32124fd1983cf0eb42c8/Sea Snake_Synopsis.pdf", 
+      "original_filename": "Sea Snake_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Sea Snake.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Sea Snake.pdf", 
+      "filename": "downloads/9c91f9518f355373627bc85272b90ad4dc090bad/Sea Snake.pdf", 
+      "original_filename": "Sea Snake.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Sea Snake", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Sea%20Snake%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (54.72 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Sea Snake</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 July 2005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the grounding at high  speed of the leisure powerboat Sea Snake near the entrance to Tarbert harbour, Loch Fyne on 10 July 2005\r\r\nwith the loss of three lives.  Report 10/2006.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Sea%20Snake.pdf\">Sea Snake.pdf</a>\r\n (532.10 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (54.72 kb)\n\n  \nReport on the investigation of the grounding at high speed of the leisure powerboat Sea Snake near the entrance to Tarbert harbour, Loch Fyne on 10 July 2005 with the loss of three lives. Report 10/2006.\n\n  \n[ASSET_TAG](#ASSET1) (532.10 kb) \n"
+}

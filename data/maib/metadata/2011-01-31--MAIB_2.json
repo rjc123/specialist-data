@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "JackAbryIIReport.pdf\r\n (1,714.39 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "31 January 2011", 
+    "Report name:": "14/2011", 
+    "Summary:": "MAIB report following the investigation of the grounding of FV Jack Abry II on the Isle of Rum on 31 January 2011. Report No 14/2011. Published 12 August 2011."
+  }, 
+  "date_of_occurrence": "2011-01-31", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/jack_abry_ii.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "JackAbryIIReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/JackAbryIIReport.pdf", 
+      "filename": "downloads/86f8bfb3c92d7d2b0a2d5226fe50eb9f9fdeb031/JackAbryIIReport.pdf", 
+      "original_filename": "JackAbryIIReport.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report - Jack Abry II", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">14/2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">31 January 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report following the investigation of the grounding of FV Jack Abry II on the Isle of Rum on 31 January 2011. Report No 14/2011. Published 12 August 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/JackAbryIIReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/JackAbryIIReport.pdf');\">JackAbryIIReport.pdf</a>\r\n (1,714.39 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB report following the investigation of the grounding of FV Jack Abry II on the Isle of Rum on 31 January 2011. Report No 14/2011. Published 12 August 2011.\n\n  \n[ASSET_TAG](#ASSET0) (1,714.39 kb) \n"
+}

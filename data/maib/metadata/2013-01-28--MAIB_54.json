@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "JCK.pdf\r\n (5,234.08 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "28 January 2013", 
+    "Report name:": "JCK", 
+    "Summary:": "MAIB Report on the investigation of the foundering of the fv JCK with the loss of her skipper in Tor Bay on 28 January 2013. Report No 2/2014. Published 9 January 2014."
+  }, 
+  "date_of_occurrence": "2013-01-28", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2014/jck.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "JCK.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/JCK.pdf", 
+      "filename": "downloads/2c89ef08ce9283be1fcdf8585c07f4e8b9a9beb2/JCK.pdf", 
+      "original_filename": "JCK.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 2/2014", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>JCK</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">28 January 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the foundering of the fv <span>JCK</span> with the loss of her skipper in Tor Bay on 28 January 2013. Report No 2/2014. Published 9 January 2014.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/JCK.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/JCK.pdf');\">JCK.pdf</a>\r\n (5,234.08 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the foundering of the fv JCK with the loss of her skipper in Tor Bay on 28 January 2013. Report No 2/2014. Published 9 January 2014.\n\n  \n[ASSET_TAG](#ASSET0) (5,234.08 kb) \n"
+}

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "opportune.pdf\r\n (632.04 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "23 February 2000", 
+    "Report name:": "Opportune (33/2000)", 
+    "Summary:": "Report of the investigation of a man overboard fatality from mfv Opportune 35 miles east of Wick on 23 February 2000"
+  }, 
+  "date_of_occurrence": "2000-02-23", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/opportune.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Opportune -Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/opportune%20synopsis%2Epdf", 
+      "filename": "downloads/e27864530e5a2d927767548a454b6a345cac4c24/opportune synopsis.pdf", 
+      "original_filename": "opportune synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "opportune.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/opportune.pdf", 
+      "filename": "downloads/1ca13e7e8387c1d7728c7c9396efe746e41457b5/opportune.pdf", 
+      "original_filename": "opportune.pdf"
+    }
+  ], 
+  "title": "Investigation report - Opportune", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/opportune%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Opportune -Synopsis</a>\r\n (32.87 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Opportune (33/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">23 February 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation of a man overboard fatality from mfv Opportune 35 miles east of Wick on 23 February 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/opportune.pdf\">opportune.pdf</a>\r\n (632.04 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (32.87 kb)\n\n  \nReport of the investigation of a man overboard fatality from mfv Opportune 35 miles east of Wick on 23 February 2000\n\n  \n[ASSET_TAG](#ASSET1) (632.04 kb) \n"
+}

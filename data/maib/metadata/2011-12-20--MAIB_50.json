@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "HeatherAnne_Report.pdf\r\n (1,748.63 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "20 December 2011", 
+    "Report name:": "Heather Anne", 
+    "Summary:": "MAIB Report on the investigation of the capsize and foundering  of the fishing vessel Heather Anne resulting in the loss of one crewman in Gerrans Bay, Cornwall on 20 December 2011. Report No 2/2013. Published 10 January 2013."
+  }, 
+  "date_of_occurrence": "2011-12-20", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2013/heather_anne.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "HeatherAnne_Report.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/HeatherAnne_Report.pdf", 
+      "filename": "downloads/08f1abe54e4de56c5f1f5b736aea898c6d5d4da2/HeatherAnne_Report.pdf", 
+      "original_filename": "HeatherAnne_Report.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/HeatherAnne%5FAnnexes%2Epdf", 
+      "filename": "downloads/1e65505442ef12f98d63681e4c1707788aa64831/HeatherAnne_Annexes.pdf", 
+      "original_filename": "HeatherAnne_Annexes.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 2/2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Heather Anne</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">20 December 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the capsize and foundering  of the fishing vessel <span>Heather Anne</span> resulting in the loss of one crewman in Gerrans Bay, Cornwall on 20 December 2011. Report No 2/2013. Published 10 January 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/HeatherAnne_Report.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/HeatherAnne_Report.pdf');\">HeatherAnne_Report.pdf</a>\r\n (1,748.63 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/HeatherAnne_Annexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/HeatherAnne%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (3,408.30 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation of the capsize and foundering of the fishing vessel Heather Anne resulting in the loss of one crewman in Gerrans Bay, Cornwall on 20 December 2011. Report No 2/2013. Published 10 January 2013.\n\n  \n[ASSET_TAG](#ASSET0) (1,748.63 kb) \n\n[ASSET_TAG](#ASSET1) (3,408.30 kb)\n"
+}

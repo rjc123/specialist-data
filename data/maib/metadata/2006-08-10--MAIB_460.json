@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "ThunderReport.pdf\r\n (1,526.78 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "10 August 2006", 
+    "Report name:": "Thunder", 
+    "Summary:": "Report on the investigation of the grounding of mv Thunder \r\r\nat the approaches to the Dee Estuary on 10 August 2006. Report No 12/2007. Published 12 June 2007."
+  }, 
+  "date_of_occurrence": "2006-08-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/thunder.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/ThunderSynopsis%2Epdf", 
+      "filename": "downloads/722068db18e71209af52732033e6f5c168c1f094/ThunderSynopsis.pdf", 
+      "original_filename": "ThunderSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "ThunderReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/ThunderReport.pdf", 
+      "filename": "downloads/9e83303c43662aa2cc3180195b4358e380c99a90/ThunderReport.pdf", 
+      "original_filename": "ThunderReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/ThunderAnnexes%2Epdf", 
+      "filename": "downloads/0be6e6c313a2032ae5a8685830bd8102c4279e5d/ThunderAnnexes.pdf", 
+      "original_filename": "ThunderAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Thunder", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>The full investigation report has been split into sections; Synopsis, Full Report and Annexes . This is to make downloading easier.</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ThunderSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/ThunderSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (126.56 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Thunder</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 August 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the grounding of mv Thunder \r\r\nat the approaches to the Dee Estuary on 10 August 2006. Report No 12/2007. Published 12 June 2007.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/ThunderReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ThunderReport.pdf');\">ThunderReport.pdf</a>\r\n (1,526.78 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ThunderAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/ThunderAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (3,642.56 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "The full investigation report has been split into sections; Synopsis, Full Report and Annexes . This is to make downloading easier.\n\n[ASSET_TAG](#ASSET0) (126.56 kb)\n\n  \nReport on the investigation of the grounding of mv Thunder at the approaches to the Dee Estuary on 10 August 2006. Report No 12/2007. Published 12 June 2007.\n\n  \n[ASSET_TAG](#ASSET1) (1,526.78 kb) \n\n[ASSET_TAG](#ASSET2) (3,642.56 kb)\n"
+}

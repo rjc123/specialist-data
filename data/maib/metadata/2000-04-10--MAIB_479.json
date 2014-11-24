@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "wakil II.pdf\r\n (541.00 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "10 April 2000", 
+    "Report name:": "Wakil II (40/2000)", 
+    "Summary:": "Report on the investigation of an accident to the skipper of the fishing vessel Wakil II 3.5 miles south-west of St Bees Head on 10 April 2000"
+  }, 
+  "date_of_occurrence": "2000-04-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/wakil_ii.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Wakill II - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/wakil%20II%20synopsis%2Epdf", 
+      "filename": "downloads/83492fb412ce98f20943394d7704ddfa0d942332/wakil II synopsis.pdf", 
+      "original_filename": "wakil II synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "wakil II.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/wakil II.pdf", 
+      "filename": "downloads/dedf055437b04a30e0399d27d978cd09fe69f6e9/wakil II.pdf", 
+      "original_filename": "wakil II.pdf"
+    }
+  ], 
+  "title": "Investigation report - Wakil II", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/wakil%20II%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Wakill II - Synopsis</a>\r\n (38.15 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Wakil II (40/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 April 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of an accident to the skipper of the fishing vessel Wakil II 3.5 miles south-west of St Bees Head on 10 April 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/wakil%20II.pdf\">wakil II.pdf</a>\r\n (541.00 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (38.15 kb)\n\n  \nReport on the investigation of an accident to the skipper of the fishing vessel Wakil II 3.5 miles south-west of St Bees Head on 10 April 2000\n\n  \n[ASSET_TAG](#ASSET1) (541.00 kb) \n"
+}

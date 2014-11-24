@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "radiant star3.pdf\r\n (704.98 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "06 August 1999", 
+    "Report name:": "Radiant Star III (14/2000)", 
+    "Summary:": "Report on the investigation of the foundering of the fv Radiant Star III PD251 60 miles north-east of Fraserburgh on 6 August 1999"
+  }, 
+  "date_of_occurrence": "1999-08-06", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/radiant_star_iii.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Radiant Star III - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/radiant%20star%20synopsis%2Epdf", 
+      "filename": "downloads/0a5f0d30a51edc0f4169b5c0437a4547e7d8326a/radiant star synopsis.pdf", 
+      "original_filename": "radiant star synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "radiant star3.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/radiant star3.pdf", 
+      "filename": "downloads/af7a9d54e7e2b353300d249dbaea247984e45d4b/radiant star3.pdf", 
+      "original_filename": "radiant star3.pdf"
+    }
+  ], 
+  "title": "Investigation reports - Radiant Star III", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/radiant%20star%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Radiant Star III - Synopsis</a>\r\n (60.48 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Radiant Star III (14/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">06 August 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the foundering of the fv Radiant Star III PD251 60 miles north-east of Fraserburgh on 6 August 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/radiant%20star3.pdf\">radiant star3.pdf</a>\r\n (704.98 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (60.48 kb)\n\n  \nReport on the investigation of the foundering of the fv Radiant Star III PD251 60 miles north-east of Fraserburgh on 6 August 1999\n\n  \n[ASSET_TAG](#ASSET1) (704.98 kb) \n"
+}

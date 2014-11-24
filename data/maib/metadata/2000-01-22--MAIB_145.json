@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "be ready.pdf\r\n (1,461.81 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "22 January 2000", 
+    "Report name:": "Be Ready (30/2000)", 
+    "Summary:": "Report of the investigation of the fire on board the fishing vessel Be Ready while fishing 30 miles north-west of the Orkney Islands on 22 January 2000"
+  }, 
+  "date_of_occurrence": "2000-01-22", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/be_ready.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Be Ready - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/be%20ready%20synopsis%2Epdf", 
+      "filename": "downloads/b00c9df6c5cfcc95e97fecf2e6ae7ce9f9e914ef/be ready synopsis.pdf", 
+      "original_filename": "be ready synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "be ready.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/be ready.pdf", 
+      "filename": "downloads/78c08750dd5bc0ba0e913d6ec7a3f4ab82217bd6/be ready.pdf", 
+      "original_filename": "be ready.pdf"
+    }
+  ], 
+  "title": "Investigation report - Be Ready", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/be%20ready%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Be Ready - Synopsis</a>\r\n (71.99 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Be Ready (30/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">22 January 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation of the fire on board the fishing vessel Be Ready while fishing 30 miles north-west of the Orkney Islands on 22 January 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/be%20ready.pdf\">be ready.pdf</a>\r\n (1,461.81 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (71.99 kb)\n\n  \nReport of the investigation of the fire on board the fishing vessel Be Ready while fishing 30 miles north-west of the Orkney Islands on 22 January 2000\n\n  \n[ASSET_TAG](#ASSET1) (1,461.81 kb) \n"
+}

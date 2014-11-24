@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "willem b.pdf\r\n (1,406.96 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "06 June 1999", 
+    "Report name:": "Willem B (5/2000)", 
+    "Summary:": "Report of the investigation of the crushing and subsequent death of a bargehand between the tug Willem-B sr and the bottom dump barge, R8 at Nab Tower Dumping Grounds on 6 June 1999"
+  }, 
+  "date_of_occurrence": "1999-06-06", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/willem_b.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Willem B - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/willem%20b%20synopsis%2Epdf", 
+      "filename": "downloads/71088207792faa480e872af98b714b01da418dca/willem b synopsis.pdf", 
+      "original_filename": "willem b synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "willem b.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/willem b.pdf", 
+      "filename": "downloads/bd76cdc1cf7daed1cafbf99dd1ad5bad6e8816eb/willem b.pdf", 
+      "original_filename": "willem b.pdf"
+    }
+  ], 
+  "title": "Investigation report - Willem B", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/willem%20b%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Willem B - Synopsis</a>\r\n (60.26 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Willem B (5/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">06 June 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation of the crushing and subsequent death of a bargehand between the tug Willem-B sr and the bottom dump barge, R8 at Nab Tower Dumping Grounds on 6 June 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/willem%20b.pdf\">willem b.pdf</a>\r\n (1,406.96 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (60.26 kb)\n\n  \nReport of the investigation of the crushing and subsequent death of a bargehand between the tug Willem-B sr and the bottom dump barge, R8 at Nab Tower Dumping Grounds on 6 June 1999\n\n  \n[ASSET_TAG](#ASSET1) (1,406.96 kb) \n"
+}

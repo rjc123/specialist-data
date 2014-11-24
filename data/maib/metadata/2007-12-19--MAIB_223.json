@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "Download report:": "FlyingPhantom.pdf\r\n (2,113.08 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "19 December 2007", 
+    "Report name:": "Flying Phantom/Red Jasmine"
+  }, 
+  "date_of_occurrence": "2007-12-19", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2008/flying_phantom_red_jasmine.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "FlyingPhantom.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/FlyingPhantom.pdf", 
+      "filename": "downloads/2751f1e2380c4e8cbfff449c9f8295ae79b59052/FlyingPhantom.pdf", 
+      "original_filename": "FlyingPhantom.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes 17/2008", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/FP%5FAnnexes%5Fcompiled%2Epdf", 
+      "filename": "downloads/a0b639a6ca60dd8c14fa9b11d115df2e11146118/FP_Annexes_compiled.pdf", 
+      "original_filename": "FP_Annexes_compiled.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 17/2008", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Flying Phantom/Red Jasmine</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">19 December 2007</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/FlyingPhantom.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/FlyingPhantom.pdf');\">FlyingPhantom.pdf</a>\r\n (2,113.08 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/FP_Annexes_compiled.pdf');\" href=\"http://maib.gov.uk/cms_resources/FP%5FAnnexes%5Fcompiled%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes 17/2008</a>\r\n (0 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \n[ASSET_TAG](#ASSET0) (2,113.08 kb) \n\n[ASSET_TAG](#ASSET1) (0 kb)\n"
+}

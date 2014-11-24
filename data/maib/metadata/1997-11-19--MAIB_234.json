@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "green_ lily_pub_1999.pdf\r\n (4,514.12 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "19 November 1997", 
+    "Report name:": "Green Lily", 
+    "Summary:": "Report of the Inspector's Inquiry into the loss of mv Green Lily on the 19 November 1997 off the East Coast of Bressay, Shetland Islands"
+  }, 
+  "date_of_occurrence": "1997-11-19", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/green_lily.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Green Lily Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/green%20lily%20synopsis%201999%2Epdf", 
+      "filename": "downloads/8553247d0d3f14cd4931dfc8d7e7def3a9b71de4/green lily synopsis 1999.pdf", 
+      "original_filename": "green lily synopsis 1999.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "green_ lily_pub_1999.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/green_ lily_pub_1999.pdf", 
+      "filename": "downloads/beb5b09efb18e35135c9e6b00d2f494600732e0a/green_ lily_pub_1999.pdf", 
+      "original_filename": "green_ lily_pub_1999.pdf"
+    }
+  ], 
+  "title": "Investigation report - Green Lily", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/green%20lily%20synopsis%201999%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Green Lily Synopsis</a>\r\n (86.29 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Green Lily</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">19 November 1997</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the Inspector's Inquiry into the loss of mv Green Lily on the 19 November 1997 off the East Coast of Bressay, Shetland Islands</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/green_%20lily_pub_1999.pdf\">green_ lily_pub_1999.pdf</a>\r\n (4,514.12 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (86.29 kb)\n\n  \nReport of the Inspector's Inquiry into the loss of mv Green Lily on the 19 November 1997 off the East Coast of Bressay, Shetland Islands\n\n  \n[ASSET_TAG](#ASSET1) (4,514.12 kb) \n"
+}

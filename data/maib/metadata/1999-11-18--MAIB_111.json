@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "alfa-britannia.pdf\r\n (1,082.40 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "18 November 1999", 
+    "Report name:": "Alfa Britannia (01/2001)", 
+    "Summary:": "Report on the investigation of the parting of a mooring line while the Bahamian registered tanker Alfa Britannia was berthing at Tranmere oil terminal causing injuries to crew on board a gig-boat on 18 November 1999"
+  }, 
+  "date_of_occurrence": "1999-11-18", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/alfa_britannia.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/alfa%2Dbritannia%20synopsis%2Epdf", 
+      "filename": "downloads/d689a827577a877dfc2e0a7da9c776e802ddf9af/alfa-britannia synopsis.pdf", 
+      "original_filename": "alfa-britannia synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "alfa-britannia.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/alfa-britannia.pdf", 
+      "filename": "downloads/b79bcf26ed25215b6440b7ab23b29e4a4c3247cd/alfa-britannia.pdf", 
+      "original_filename": "alfa-britannia.pdf"
+    }
+  ], 
+  "title": "Investigation report - Alfa Britannia", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/alfa%2Dbritannia%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (207.04 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Alfa Britannia (01/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">18 November 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the parting of a mooring line while the Bahamian registered tanker Alfa Britannia was berthing at Tranmere oil terminal causing injuries to crew on board a gig-boat on 18 November 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/alfa-britannia.pdf\">alfa-britannia.pdf</a>\r\n (1,082.40 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (207.04 kb)\n\n  \nReport on the investigation of the parting of a mooring line while the Bahamian registered tanker Alfa Britannia was berthing at Tranmere oil terminal causing injuries to crew on board a gig-boat on 18 November 1999\n\n  \n[ASSET_TAG](#ASSET1) (1,082.40 kb) \n"
+}

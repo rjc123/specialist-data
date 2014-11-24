@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "EverEliteReport.pdf\r\n (2,619.25 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "10 September 2009", 
+    "Report name:": "Ever Elite", 
+    "Summary:": "MAIB Report on the investigation of the uncontrolled descent of an accommodation ladder from the container ship Ever Elite in San Francisco Bay on 10 September 2009 resulting in one fatality. Report No 8/2010. Published 14 July 2010."
+  }, 
+  "date_of_occurrence": "2009-09-10", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2010/ever_elite.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Ever%5FElite%5FSynopsis%2Epdf", 
+      "filename": "downloads/deb57368eb8489346ea0f7fea5b3c184170facc7/Ever_Elite_Synopsis.pdf", 
+      "original_filename": "Ever_Elite_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "EverEliteReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/EverEliteReport.pdf", 
+      "filename": "downloads/eae52060993eb7e1d8e9390e337a731a83c26cbf/EverEliteReport.pdf", 
+      "original_filename": "EverEliteReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Ever%20Elite%5FAnnexes%2Epdf", 
+      "filename": "downloads/2690dabfa82ed2da7cc0395d351f1e150ce58013/Ever Elite_Annexes.pdf", 
+      "original_filename": "Ever Elite_Annexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Ever Elite", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Ever_Elite_Synopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/Ever%5FElite%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (87.01 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Ever Elite</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">10 September 2009</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the uncontrolled descent of an accommodation ladder from the container ship Ever Elite in San Francisco Bay on 10 September 2009 resulting in one fatality. Report No 8/2010. Published 14 July 2010.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/EverEliteReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/EverEliteReport.pdf');\">EverEliteReport.pdf</a>\r\n (2,619.25 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Ever Elite_Annexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/Ever%20Elite%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,269.75 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (87.01 kb)\n\n  \nMAIB Report on the investigation of the uncontrolled descent of an accommodation ladder from the container ship Ever Elite in San Francisco Bay on 10 September 2009 resulting in one fatality. Report No 8/2010. Published 14 July 2010.\n\n  \n[ASSET_TAG](#ASSET1) (2,619.25 kb) \n\n[ASSET_TAG](#ASSET2) (1,269.75 kb)\n"
+}

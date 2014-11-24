@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Loch Ryan-cabin cruiser.pdf\r\n (387.50 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "03 September 2003", 
+    "Report name:": "Unnamed cabin cruiser, Loch Ryan, 3 September 2004 (04/2004)", 
+    "Summary:": "Swamping of unnamed cabin cruiser in lady Bay on Loch Ryan, 3 September 2003 and associated wave generation issues"
+  }, 
+  "date_of_occurrence": "2003-09-03", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2004/unnamed_cabin_cruiser__loch_ryan__3_september_2004.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Loch Ryan Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Loch%20Ryan%2Dcabin%20cruiser%20synopsis%2Epdf", 
+      "filename": "downloads/d2982a33b2e3154d90f1aa6eaec3e40e10aff611/Loch Ryan-cabin cruiser synopsis.pdf", 
+      "original_filename": "Loch Ryan-cabin cruiser synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Loch Ryan-cabin cruiser.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Loch Ryan-cabin cruiser.pdf", 
+      "filename": "downloads/21efb3b968a21866a4986219dceb51fb346329cd/Loch Ryan-cabin cruiser.pdf", 
+      "original_filename": "Loch Ryan-cabin cruiser.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Unnamed cabin cruiser, Loch Ryan", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Loch%20Ryan%2Dcabin%20cruiser%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Loch Ryan Synopsis</a>\r\n (10.65 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Unnamed cabin cruiser, Loch Ryan, 3 September 2004 (04/2004)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">03 September 2003</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Swamping of unnamed cabin cruiser in lady Bay on Loch Ryan, 3 September 2003 and associated wave generation issues</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Loch%20Ryan-cabin%20cruiser.pdf\">Loch Ryan-cabin cruiser.pdf</a>\r\n (387.50 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (10.65 kb)\n\n  \nSwamping of unnamed cabin cruiser in lady Bay on Loch Ryan, 3 September 2003 and associated wave generation issues\n\n  \n[ASSET_TAG](#ASSET1) (387.50 kb) \n"
+}

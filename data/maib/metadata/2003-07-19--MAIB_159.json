@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Breakaway 5.pdf\r\n (1,379.85 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "19 July 2003", 
+    "Report name:": "Breakaway 5 (02/2004)", 
+    "Summary:": "Capsize of Breakaway 5 on the River Bure, Norfolk 19 July 2003"
+  }, 
+  "date_of_occurrence": "2003-07-19", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2004/breakaway_5.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Breakaway V Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Breakaway%205%20synopsis%2Epdf", 
+      "filename": "downloads/0357d01a76c1e13f0a5f601fb570db19deaec5dc/Breakaway 5 synopsis.pdf", 
+      "original_filename": "Breakaway 5 synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Breakaway 5.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Breakaway 5.pdf", 
+      "filename": "downloads/2d8e4826318bdb37550c910f0a2857e918c2e48e/Breakaway 5.pdf", 
+      "original_filename": "Breakaway 5.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Breakaway 5", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Breakaway%205%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Breakaway V Synopsis</a>\r\n (8.64 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Breakaway 5 (02/2004)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">19 July 2003</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Capsize of Breakaway 5 on the River Bure, Norfolk 19 July 2003</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Breakaway%205.pdf\">Breakaway 5.pdf</a>\r\n (1,379.85 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (8.64 kb)\n\n  \nCapsize of Breakaway 5 on the River Bure, Norfolk 19 July 2003\n\n  \n[ASSET_TAG](#ASSET1) (1,379.85 kb) \n"
+}

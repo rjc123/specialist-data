@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "dea fighter.pdf\r\n (1,290.54 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "13 May 1999", 
+    "Report name:": "Dea Fighter (39/2000)", 
+    "Summary:": "Report of the investigation of two lifting wire failures on starboard Fast Rescue Craft davit of Safety stand-by vessel Dea Fighter on 13 May and 16 July 1999"
+  }, 
+  "date_of_occurrence": "1999-05-13", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/dea_fighter.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Dea Fighter - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/dea%20fighter%20synopsis%2Epdf", 
+      "filename": "downloads/1d78c7824f00fb905ee174681890f90da8a92d8f/dea fighter synopsis.pdf", 
+      "original_filename": "dea fighter synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "dea fighter.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/dea fighter.pdf", 
+      "filename": "downloads/d5702394fb61debe943466e34f55a17ef9d2bb9f/dea fighter.pdf", 
+      "original_filename": "dea fighter.pdf"
+    }
+  ], 
+  "title": "Investigation report - Dea Fighter", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/dea%20fighter%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Dea Fighter - Synopsis</a>\r\n (52.91 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Dea Fighter (39/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">13 May 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation of two lifting wire failures on starboard Fast Rescue Craft davit of Safety stand-by vessel Dea Fighter on 13 May and 16 July 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/dea%20fighter.pdf\">dea fighter.pdf</a>\r\n (1,290.54 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (52.91 kb)\n\n  \nReport of the investigation of two lifting wire failures on starboard Fast Rescue Craft davit of Safety stand-by vessel Dea Fighter on 13 May and 16 July 1999\n\n  \n[ASSET_TAG](#ASSET1) (1,290.54 kb) \n"
+}

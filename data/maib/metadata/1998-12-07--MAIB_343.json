@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "pentland.pdf\r\n (765.52 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "07 December 1998", 
+    "Report name:": "Pentland", 
+    "Summary:": "Report of an Investigation into the Grounding of the Dry Bulk Carrier Pentland 7 December 1998"
+  }, 
+  "date_of_occurrence": "1998-12-07", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/pentland.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Pentland Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/pentland%20synopsis%2Epdf", 
+      "filename": "downloads/54662faaaa05ed4637ce2d531d7c03755a605a1c/pentland synopsis.pdf", 
+      "original_filename": "pentland synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "pentland.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/pentland.pdf", 
+      "filename": "downloads/74fdd081857d27ecc52fcf9d29c81506789d9827/pentland.pdf", 
+      "original_filename": "pentland.pdf"
+    }
+  ], 
+  "title": "Investigation report - Pentland", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/pentland%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Pentland Synopsis</a>\r\n (10.64 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Pentland</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">07 December 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of an Investigation into the Grounding of the Dry Bulk Carrier Pentland 7 December 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/pentland.pdf\">pentland.pdf</a>\r\n (765.52 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (10.64 kb)\n\n  \nReport of an Investigation into the Grounding of the Dry Bulk Carrier Pentland 7 December 1998\n\n  \n[ASSET_TAG](#ASSET1) (765.52 kb) \n"
+}

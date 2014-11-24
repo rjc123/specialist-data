@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "kodima.pdf\r\n (2,197.33 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "01 February 2002", 
+    "Report name:": "mv Kodima (01/2003)", 
+    "Summary:": "Cargo shift, abandonment and grounding of mv Kodima in the English Channel 1 February 2002"
+  }, 
+  "date_of_occurrence": "2002-02-01", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/mv_kodima.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Kodima Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/kodima%20synopsis%2Epdf", 
+      "filename": "downloads/a4f88272fdc58da3a86d673f25dd0a15efcf446b/kodima synopsis.pdf", 
+      "original_filename": "kodima synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "kodima.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/kodima.pdf", 
+      "filename": "downloads/539306e74accd9ddc0d6f009f4a035f516982593/kodima.pdf", 
+      "original_filename": "kodima.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Mv Kodima", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/kodima%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Kodima Synopsis</a>\r\n (9.07 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">mv Kodima (01/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">01 February 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Cargo shift, abandonment and grounding of mv Kodima in the English Channel 1 February 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/kodima.pdf\">kodima.pdf</a>\r\n (2,197.33 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (9.07 kb)\n\n  \nCargo shift, abandonment and grounding of mv Kodima in the English Channel 1 February 2002\n\n  \n[ASSET_TAG](#ASSET1) (2,197.33 kb) \n"
+}

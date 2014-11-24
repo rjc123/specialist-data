@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "RoyalistReport.pdf\r\n (1,124.82 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "02 May 2010", 
+    "Report name:": "TS Royalist", 
+    "Summary:": "MAIB report on the investigation of a sea cadet's fatal accident on board the sail training ship TS Royalist in Stokes Bay in the Solent on 2nd May 2010. Report No 2/2011. Published 3rd March 2011."
+  }, 
+  "date_of_occurrence": "2010-05-02", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/ts_royalist.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Royalist%5FSynopsis%2Epdf", 
+      "filename": "downloads/167db568889b416c972a7f00e40253bd6e7ac056/Royalist_Synopsis.pdf", 
+      "original_filename": "Royalist_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "RoyalistReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/RoyalistReport.pdf", 
+      "filename": "downloads/d4dda78669f9398e71ef601cf9426847c1d278fd/RoyalistReport.pdf", 
+      "original_filename": "RoyalistReport.pdf"
+    }
+  ], 
+  "title": "Investigation Report - TS Royalist", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Royalist_Synopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/Royalist%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (191.24 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">TS Royalist</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">02 May 2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation of a sea cadet's fatal accident on board the sail training ship TS Royalist in Stokes Bay in the Solent on 2nd May 2010. Report No 2/2011. Published 3rd March 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/RoyalistReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/RoyalistReport.pdf');\">RoyalistReport.pdf</a>\r\n (1,124.82 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Royalist_Annexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/Royalist%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,481.24 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (191.24 kb)\n\n  \nMAIB report on the investigation of a sea cadet's fatal accident on board the sail training ship TS Royalist in Stokes Bay in the Solent on 2nd May 2010. Report No 2/2011. Published 3rd March 2011.\n\n  \n[ASSET_TAG](#ASSET1) (1,124.82 kb) \n\n[Annexes](http://maib.gov.uk/cms_resources/Royalist%5FAnnexes%2Epdf) (1,481.24 kb)\n"
+}

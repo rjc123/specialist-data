@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Portland Powerboat.pdf\r\n (1,261.22 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "19 June 2005", 
+    "Report name:": "Portland Powerboat collision", 
+    "Summary:": "Report on the investigation of the collision between 2 Sorcerer Powerboats during a junior racing event, at Portland Harbour on 19 June 2005. Report 13/2006."
+  }, 
+  "date_of_occurrence": "2005-06-19", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/portland_powerboat.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Portland%20Powerboat%5FSynopsis%2Epdf", 
+      "filename": "downloads/49a4d5d96aedd7cd25ecde2d3c8da4dbe5d3c047/Portland Powerboat_Synopsis.pdf", 
+      "original_filename": "Portland Powerboat_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Portland Powerboat.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Portland Powerboat.pdf", 
+      "filename": "downloads/d0d743c5f61dfabddc29a9a37e13c1bb8ea286c0/Portland Powerboat.pdf", 
+      "original_filename": "Portland Powerboat.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Portland Powerboat", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Portland%20Powerboat%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (104.20 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Portland Powerboat collision</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">19 June 2005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the collision between 2 Sorcerer Powerboats during a junior racing event, at Portland Harbour on 19 June 2005. Report 13/2006.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Portland%20Powerboat.pdf\">Portland Powerboat.pdf</a>\r\n (1,261.22 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (104.20 kb)\n\n  \nReport on the investigation of the collision between 2 Sorcerer Powerboats during a junior racing event, at Portland Harbour on 19 June 2005. Report 13/2006.\n\n  \n[ASSET_TAG](#ASSET1) (1,261.22 kb) \n"
+}

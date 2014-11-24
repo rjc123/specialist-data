@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "catrina.pdf\r\n (1,002.14 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "13 October 1998", 
+    "Report name:": "Catrina", 
+    "Summary:": "Report on the investigation on the Capsize of the UK Registered Fishing Vessel Catrina NN194, South of Newhaven on 13 October 1998"
+  }, 
+  "date_of_occurrence": "1998-10-13", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/catrina.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Catrina Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/catrina%20synopsis%2Epdf", 
+      "filename": "downloads/e7f3565160e3fc23c62ea1ee8c022f96d63776c9/catrina synopsis.pdf", 
+      "original_filename": "catrina synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "catrina.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/catrina.pdf", 
+      "filename": "downloads/87a108b5ea7d4ce791b78fd02a3b038c1e8465e3/catrina.pdf", 
+      "original_filename": "catrina.pdf"
+    }
+  ], 
+  "title": "Investigation report - Catrina", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/catrina%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Catrina Synopsis</a>\r\n (35.25 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Catrina</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">13 October 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation on the Capsize of the UK Registered Fishing Vessel Catrina NN194, South of Newhaven on 13 October 1998</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/catrina.pdf\">catrina.pdf</a>\r\n (1,002.14 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (35.25 kb)\n\n  \nReport on the investigation on the Capsize of the UK Registered Fishing Vessel Catrina NN194, South of Newhaven on 13 October 1998\n\n  \n[ASSET_TAG](#ASSET1) (1,002.14 kb) \n"
+}

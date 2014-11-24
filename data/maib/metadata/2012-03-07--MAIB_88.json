@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "StenaFeronia.pdf\r\n (1,790.89 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "07 March 2012", 
+    "Report name:": "Stena Feronia and Union Moon", 
+    "Summary:": "MAIB report on the investigation of the collision between Stena Feronia and Union Moon in Belfast Lough . Report No 26/2012. Published 15 November 2012."
+  }, 
+  "date_of_occurrence": "2012-03-07", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/stena_feronia_and_union_moon.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "StenaFeronia.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/StenaFeronia.pdf", 
+      "filename": "downloads/306430136b261902754e4585983ec28ea170cc29/StenaFeronia.pdf", 
+      "original_filename": "StenaFeronia.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/StenaFeronia%5FAnnexes%2Epdf", 
+      "filename": "downloads/ecc01bf6bdb20e5375f13767ab0a6a3d2cf75472/StenaFeronia_Annexes.pdf", 
+      "original_filename": "StenaFeronia_Annexes.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 26/2012", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Stena Feronia and Union Moon</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">07 March 2012</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation of the collision between <span>Stena Feronia</span> and <span>Union Moon</span> in Belfast Lough . Report No 26/2012. Published 15 November 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/StenaFeronia.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/StenaFeronia.pdf');\">StenaFeronia.pdf</a>\r\n (1,790.89 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/StenaFeronia_Annexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/StenaFeronia%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (6,020.47 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB report on the investigation of the collision between Stena Feronia and Union Moon in Belfast Lough . Report No 26/2012. Published 15 November 2012.\n\n  \n[ASSET_TAG](#ASSET0) (1,790.89 kb) \n\n[ASSET_TAG](#ASSET1) (6,020.47 kb)\n"
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "Download report:": "Reno_Ocean Rose.pdf\r\n (570.29 kb)", 
+    "Category:": "Merchant vessels,Fishing vessels", 
+    "Incident date:": "06 March 2004", 
+    "Report name:": "Reno and Ocean Rose", 
+    "Summary:": "Collision between the chemical tanker Reno and fishing vessel Ocean Rose off Whitby, North Sea on 6 March 2004. \r\r\nReport No: 13/2004. Published: 12 October 2004."
+  }, 
+  "date_of_occurrence": "2004-03-06", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2004/reno_and_ocean_rose.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Reno_Ocean Rose.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Reno_Ocean Rose.pdf", 
+      "filename": "downloads/a9182422cef4484d740df9951f01fb54517af55e/Reno_Ocean Rose.pdf", 
+      "original_filename": "Reno_Ocean Rose.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Reno and Ocean Rose", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Reno and Ocean Rose </span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">06 March 2004</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Collision between the chemical tanker Reno and fishing vessel Ocean Rose off Whitby, North Sea on 6 March 2004. <br>\r\r\nReport No: 13/2004. Published: 12 October 2004. \r\r\n</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Reno_Ocean%20Rose.pdf\">Reno_Ocean Rose.pdf</a>\r\n (570.29 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nCollision between the chemical tanker Reno and fishing vessel Ocean Rose off Whitby, North Sea on 6 March 2004.   \nReport No: 13/2004. Published: 12 October 2004. \n\n  \n[ASSET_TAG](#ASSET0) (570.29 kb) \n"
+}

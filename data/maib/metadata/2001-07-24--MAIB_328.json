@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "our-nicholas.pdf\r\n (252.76 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "24 July 2001", 
+    "Report name:": "Our Nicholas (SY811) (26/2002)", 
+    "Summary:": "Report on the investigtaion of the grounding and loss of the crabber Our Nicholas near the entrance to Stornoway Harbour on 24 July 2001"
+  }, 
+  "date_of_occurrence": "2001-07-24", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/our_nicholas__sy811_.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Our Nicholas synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/our%2Dnicholas%20synopsis%2Epdf", 
+      "filename": "downloads/7202e3a4ce3d4cbaa785b4a3cfb3135198664f50/our-nicholas synopsis.pdf", 
+      "original_filename": "our-nicholas synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "our-nicholas.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/our-nicholas.pdf", 
+      "filename": "downloads/4f5a36e20fd8c7cf7f981cd892e7a89ac7af0824/our-nicholas.pdf", 
+      "original_filename": "our-nicholas.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Fv Our Nicholas (SY811)", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/our%2Dnicholas%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Our Nicholas synopsis</a>\r\n (423.25 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Our Nicholas (SY811) (26/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">24 July 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigtaion of the grounding and loss of the crabber Our Nicholas near the entrance to Stornoway Harbour on 24 July 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/our-nicholas.pdf\">our-nicholas.pdf</a>\r\n (252.76 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (423.25 kb)\n\n  \nReport on the investigtaion of the grounding and loss of the crabber Our Nicholas near the entrance to Stornoway Harbour on 24 July 2001\n\n  \n[ASSET_TAG](#ASSET1) (252.76 kb) \n"
+}

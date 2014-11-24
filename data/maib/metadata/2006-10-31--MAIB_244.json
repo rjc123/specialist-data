@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "HarvestCarolineReport.pdf\r\n (1,593.85 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "31 October 2006", 
+    "Report name:": "Harvest Caroline", 
+    "Summary:": "Report on the investigation of the grounding of mv Harvest Caroline Tanera More, Summer Isles north west coast of Scotland 31 October 2006. Report no 13/2007. Published 22 June 2007."
+  }, 
+  "date_of_occurrence": "2006-10-31", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/harvest_caroline.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/HarvestCarolineSynopsis%2Epdf", 
+      "filename": "downloads/e4704f793528b418ba454c210013704063adfd45/HarvestCarolineSynopsis.pdf", 
+      "original_filename": "HarvestCarolineSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "HarvestCarolineReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/HarvestCarolineReport.pdf", 
+      "filename": "downloads/b7a91c2b3f40b70486d9473c4799bde8c163f53f/HarvestCarolineReport.pdf", 
+      "original_filename": "HarvestCarolineReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/HarvestCarolineAnnexes%2Epdf", 
+      "filename": "downloads/ac27fc946f3a8ba3b1a34508fb14d787f835e96a/HarvestCarolineAnnexes.pdf", 
+      "original_filename": "HarvestCarolineAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - mv Harvest Caroline", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/HarvestCarolineSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/HarvestCarolineSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (130.58 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Harvest Caroline</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">31 October 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the grounding of mv Harvest Caroline Tanera More, Summer Isles north west coast of Scotland 31 October 2006. Report no 13/2007. Published 22 June 2007.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/HarvestCarolineReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/HarvestCarolineReport.pdf');\">HarvestCarolineReport.pdf</a>\r\n (1,593.85 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/HarvestCarolineAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/HarvestCarolineAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (2,919.63 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (130.58 kb)\n\n  \nReport on the investigation of the grounding of mv Harvest Caroline Tanera More, Summer Isles north west coast of Scotland 31 October 2006. Report no 13/2007. Published 22 June 2007.\n\n  \n[ASSET_TAG](#ASSET1) (1,593.85 kb) \n\n[ASSET_TAG](#ASSET2) (2,919.63 kb)\n"
+}

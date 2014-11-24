@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "SB2-10.pdf\r\n (1,813.40 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "02 February 2010", 
+    "Report name:": "Safety Bulletin 2/2010", 
+    "Summary:": "Failure of fixed high expansion foam system to extinguish fire on board the passenger ferry Oscar Wilde"
+  }, 
+  "date_of_occurrence": "2010-02-02", 
+  "original_url": "http://maib.gov.uk/publications/safety_bulletins/safety_bulletins_2010/safety_bulletin_2_2010.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "SB2-10.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SB2-10.pdf", 
+      "filename": "downloads/377e2a1b4a7d292493eea4c349792698ccf43da8/SB2-10.pdf", 
+      "original_filename": "SB2-10.pdf"
+    }
+  ], 
+  "title": "Safety Bulletin 2/2010", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Safety Bulletin 2/2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">02 February 2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Failure of fixed high expansion foam system to extinguish fire on board the passenger ferry Oscar Wilde</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SB2-10.pdf\">SB2-10.pdf</a>\r\n (1,813.40 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"internalLinkContainer\">An Investigation report was later produced for this accident which can be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/investigation_reports/2011/oscar_wilde.cfm\">Read Investigation report</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "safety-bulletin", 
+  "body": "  \nFailure of fixed high expansion foam system to extinguish fire on board the passenger ferry Oscar Wilde\n\n  \n[ASSET_TAG](#ASSET0) (1,813.40 kb) \n\nAn Investigation report was later produced for this accident which can be viewed on this website:  \n[Read Investigation report](http://maib.gov.uk/publications/investigation_reports/2011/oscar_wilde.cfm)\n"
+}

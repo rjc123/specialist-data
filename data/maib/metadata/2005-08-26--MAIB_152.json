@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "Big_Yellow.pdf\r\n (935.12 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "26 August 2005", 
+    "Report name:": "Big Yellow", 
+    "Summary:": "Report on the investigation of the hull failure of the rigid inflatable boat Big Yellow, Porthmeor Beach, St Ives Bay, Cornwall on 26 August 2005. Report no 11/2006."
+  }, 
+  "date_of_occurrence": "2005-08-26", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2006/big_yellow.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Big%20Yellow%5FSynopsis%2Epdf", 
+      "filename": "downloads/8c868e25104c270df59f15f39b8a8e8ec3cce936/Big Yellow_Synopsis.pdf", 
+      "original_filename": "Big Yellow_Synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Big_Yellow.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Big_Yellow.pdf", 
+      "filename": "downloads/e5510f2c7554a57a4ca3317c9c72a4f1de660a5b/Big_Yellow.pdf", 
+      "original_filename": "Big_Yellow.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/Big%20Yellow%5FAnnexes%2Epdf", 
+      "filename": "downloads/a53d505eb1e4d0a1d210f2d5aa403bca811e2af0/Big Yellow_Annexes.pdf", 
+      "original_filename": "Big Yellow_Annexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Big Yellow", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Big%20Yellow%5FSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (85.38 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Big Yellow</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">26 August 2005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the hull failure of the rigid inflatable boat Big Yellow, Porthmeor Beach, St Ives Bay, Cornwall on 26 August 2005. Report no 11/2006.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Big_Yellow.pdf\">Big_Yellow.pdf</a>\r\n (935.12 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Big%20Yellow%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,462.60 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (85.38 kb)\n\n  \nReport on the investigation of the hull failure of the rigid inflatable boat Big Yellow, Porthmeor Beach, St Ives Bay, Cornwall on 26 August 2005. Report no 11/2006.\n\n  \n[ASSET_TAG](#ASSET1) (935.12 kb) \n\n[ASSET_TAG](#ASSET2) (1,462.60 kb)\n"
+}

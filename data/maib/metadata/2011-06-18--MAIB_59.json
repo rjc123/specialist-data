@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Lion.pdf\r\n (2,795.39 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "18 June 2011", 
+    "Report name:": "Lion", 
+    "Summary:": "MAIB Report on the investigation of a fatal man overboard from the Reflex 38 yacht Lion 14.5 miles south of Selsey Bill, West Sussex on 18 June 2011. Report No 4/2012. Published 8 March 2012."
+  }, 
+  "date_of_occurrence": "2011-06-18", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/lion.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Lion.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Lion.pdf", 
+      "filename": "downloads/a9a5d19309f4084f1bd3ff6ac15898a0d2d80622/Lion.pdf", 
+      "original_filename": "Lion.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Lion%5FAnnexes%2Epdf", 
+      "filename": "downloads/c62e09fec9ed59a6ab196e5ec84b5adba856f0d3/Lion_Annexes.pdf", 
+      "original_filename": "Lion_Annexes.pdf"
+    }
+  ], 
+  "title": "report-without-titleQQQQQQQQQQ", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n<span class=\"sitePageTitle\"><h1>Accident Investigation Report 4/2012</h1></span>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Lion</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">18 June 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of a fatal man overboard from the Reflex 38 yacht <span>Lion</span> 14.5 miles south of Selsey Bill, West Sussex on 18 June 2011. Report No 4/2012. Published 8 March 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Lion.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Lion.pdf');\">Lion.pdf</a>\r\n (2,795.39 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Lion_Annexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/Lion%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (9,882.90 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "# Accident Investigation Report 4/2012\n\n  \nMAIB Report on the investigation of a fatal man overboard from the Reflex 38 yacht Lion 14.5 miles south of Selsey Bill, West Sussex on 18 June 2011. Report No 4/2012. Published 8 March 2012.\n\n  \n[ASSET_TAG](#ASSET0) (2,795.39 kb) \n\n[ASSET_TAG](#ASSET1) (9,882.90 kb)\n"
+}

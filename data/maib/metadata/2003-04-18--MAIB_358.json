@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Pride of Provence 2003.pdf\r\n (881.40 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "18 April 2003", 
+    "Report name:": "Pride of Provence (26/2003)", 
+    "Summary:": "Contact between Pride of Provence and the Southern Breakwater, Dover Harbour, eastern entrance on 18 April 2003"
+  }, 
+  "date_of_occurrence": "2003-04-18", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2003/pride_of_provence.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Pride of Provence Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Pride%20of%20Provence%20synopsis%2Epdf", 
+      "filename": "downloads/55b99802c7fd41c223b27e7ae1bf0747c02b3b19/Pride of Provence synopsis.pdf", 
+      "original_filename": "Pride of Provence synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Pride of Provence 2003.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Pride of Provence 2003.pdf", 
+      "filename": "downloads/b40b47413f5db41412d68f8e41af6ecd092e157b/Pride of Provence 2003.pdf", 
+      "original_filename": "Pride of Provence 2003.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Pride of ProvenceQ", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Pride of Provence synopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/Pride%20of%20Provence%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Pride of Provence Synopsis</a>\r\n (12.20 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Pride of Provence (26/2003)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">18 April 2003</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Contact between Pride of Provence and the Southern Breakwater, Dover Harbour, eastern entrance on 18 April 2003</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Pride%20of%20Provence%202003.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Pride of Provence 2003.pdf');\">Pride of Provence 2003.pdf</a>\r\n (881.40 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (12.20 kb)\n\n  \nContact between Pride of Provence and the Southern Breakwater, Dover Harbour, eastern entrance on 18 April 2003\n\n  \n[ASSET_TAG](#ASSET1) (881.40 kb) \n"
+}

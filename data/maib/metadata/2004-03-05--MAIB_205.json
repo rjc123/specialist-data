@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "Elegance.pdf\r\n (1,157.46 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "05 March 2004", 
+    "Report name:": "Elegance, 30 January 2004 and 5 March 2004 (09/2004)", 
+    "Summary:": "Investigation into 2 engine room fires, and the subsequent flooding and foundering of the fishing vessel Elegance 30 miles north-west of Shetland on 30 January 2004 and 8.5 miles west of Shapinsay on 5 March 2004\r\r\nReport No: 9/2004. Published: 11 August 2004."
+  }, 
+  "date_of_occurrence": "2004-03-05", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2004/elegance__30_january_2004_and_5_march_2004.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Synopsis%5FElegance%2Epdf", 
+      "filename": "downloads/d24ed30f38ac6c89d07d75362123d4c2ec683e1c/Synopsis_Elegance.pdf", 
+      "original_filename": "Synopsis_Elegance.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Elegance.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Elegance.pdf", 
+      "filename": "downloads/354d9686e9bcf889c123bd34c831621d6ddebc68/Elegance.pdf", 
+      "original_filename": "Elegance.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Elegance, 30 January 2004 and 5 March 2004", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/Synopsis%5FElegance%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (24.88 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Elegance, 30 January 2004 and 5 March 2004 (09/2004)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">05 March 2004</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Investigation into 2 engine room fires, and the subsequent flooding and foundering of the fishing vessel Elegance 30 miles north-west of Shetland on 30 January 2004 and 8.5 miles west of Shapinsay on 5 March 2004<br>\r\r\nReport No: 9/2004. Published: 11 August 2004. </span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Elegance.pdf\">Elegance.pdf</a>\r\n (1,157.46 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (24.88 kb)\n\n  \nInvestigation into 2 engine room fires, and the subsequent flooding and foundering of the fishing vessel Elegance 30 miles north-west of Shetland on 30 January 2004 and 8.5 miles west of Shapinsay on 5 March 2004  \nReport No: 9/2004. Published: 11 August 2004. \n\n  \n[ASSET_TAG](#ASSET1) (1,157.46 kb) \n"
+}

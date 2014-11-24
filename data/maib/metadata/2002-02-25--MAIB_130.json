@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "anjola-and-arold.pdf\r\n (149.21 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "25 February 2002", 
+    "Report name:": "Arola and Anjola (30/2002)", 
+    "Summary:": "Report on the investigation of the collision between the Saint Vincent and the Grenadines registered general cargo ship Arold and the Atigua and Barbuda registered general cargo ship Anjola in the River Trent"
+  }, 
+  "date_of_occurrence": "2002-02-25", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/arold_and_anjola.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Arold and Anjola  synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/anjola%2Dand%2Darold%20synopsis%2Epdf", 
+      "filename": "downloads/a5cf4c12e1f4ab209c904dd90197f758e4f84d8f/anjola-and-arold synopsis.pdf", 
+      "original_filename": "anjola-and-arold synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "anjola-and-arold.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/anjola-and-arold.pdf", 
+      "filename": "downloads/ece998a39076e9f4bbc9c4cd188947bad9424053/anjola-and-arold.pdf", 
+      "original_filename": "anjola-and-arold.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Arold and Anjola", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/anjola%2Dand%2Darold%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Arold and Anjola  synopsis</a>\r\n (337.31 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Arola and Anjola (30/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">25 February 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the collision between the Saint Vincent and the Grenadines registered general cargo ship Arold and the Atigua and Barbuda registered general cargo ship Anjola in the River Trent</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/anjola-and-arold.pdf\">anjola-and-arold.pdf</a>\r\n (149.21 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (337.31 kb)\n\n  \nReport on the investigation of the collision between the Saint Vincent and the Grenadines registered general cargo ship Arold and the Atigua and Barbuda registered general cargo ship Anjola in the River Trent\n\n  \n[ASSET_TAG](#ASSET1) (149.21 kb) \n"
+}

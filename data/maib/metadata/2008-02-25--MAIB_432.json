@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "SichemMelbourneReport.pdf\r\n (1,552.54 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "25 February 2008", 
+    "Report name:": "Sichem Melbourne", 
+    "Summary:": "MAIB report on the investigation of Sichem Melbourne making heavy contact with mooring structures at Coryton Oil Refinery Terminal on 25 February 2008. Report No 18/2008. Published 17 October 2008."
+  }, 
+  "date_of_occurrence": "2008-02-25", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2008/sichem_melbourne.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/SichemMelbourneSynopsis%2Epdf", 
+      "filename": "downloads/24b38cbc8522488f512a9aa489109df235d10713/SichemMelbourneSynopsis.pdf", 
+      "original_filename": "SichemMelbourneSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "SichemMelbourneReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/SichemMelbourneReport.pdf", 
+      "filename": "downloads/084efeef0a1f518798b4f868c38c9d64dcff7da2/SichemMelbourneReport.pdf", 
+      "original_filename": "SichemMelbourneReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/SichemMelbourneAnnexes%2Epdf", 
+      "filename": "downloads/a5fc05b0081295bbba9abdd9d9e48c46d78fe443/SichemMelbourneAnnexes.pdf", 
+      "original_filename": "SichemMelbourneAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Sichem Melbourne", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SichemMelbourneSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/SichemMelbourneSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (132.36 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Sichem Melbourne</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">25 February 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB report on the investigation of Sichem Melbourne making heavy contact with mooring structures at Coryton Oil Refinery Terminal on 25 February 2008. Report No 18/2008. Published 17 October 2008.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SichemMelbourneReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SichemMelbourneReport.pdf');\">SichemMelbourneReport.pdf</a>\r\n (1,552.54 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SichemMelbourneAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/SichemMelbourneAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,789.17 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">An accident flyer was produced for this incident and can also be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2008/sichem_melbourne.cfm\">Flyer to the shipping industry</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (132.36 kb)\n\n  \nMAIB report on the investigation of Sichem Melbourne making heavy contact with mooring structures at Coryton Oil Refinery Terminal on 25 February 2008. Report No 18/2008. Published 17 October 2008.\n\n  \n[ASSET_TAG](#ASSET1) (1,552.54 kb) \n\n[ASSET_TAG](#ASSET2) (1,789.17 kb)\n\nAn accident flyer was produced for this incident and can also be viewed on this website:  \n[Flyer to the shipping industry](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2008/sichem_melbourne.cfm)\n"
+}

@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "Download report:": "wintertideandsabrina.pdf\r\n (1,189.69 kb)", 
+    "Category:": "Leisure,Merchant vessels,Fishing vessels", 
+    "Incident date:": "13 June 2000", 
+    "Report name:": "Wintertide and MSC Sabrina (07/2001)", 
+    "Summary:": "Report on the investigation of the collision between Wintertide and MSC Sabrina off Texel Traffic Seperation Scheme 13 June 2000"
+  }, 
+  "date_of_occurrence": "2000-06-13", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/wintertide_and_msc_sabrina.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/wintertideandsabrina%20synopsis%202001%2Epdf", 
+      "filename": "downloads/729cc31923f3a6870891b1586fedc8a32d14ab52/wintertideandsabrina synopsis 2001.pdf", 
+      "original_filename": "wintertideandsabrina synopsis 2001.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "wintertideandsabrina.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/wintertideandsabrina.pdf", 
+      "filename": "downloads/eb7af8a086c385670e5d4df03de8a3a2e3d7f23c/wintertideandsabrina.pdf", 
+      "original_filename": "wintertideandsabrina.pdf"
+    }
+  ], 
+  "title": "Investigation report - Wintertide and MSC Sabrina", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/wintertideandsabrina%20synopsis%202001%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (213.98 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Wintertide and MSC Sabrina (07/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">13 June 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure,Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the collision between Wintertide and MSC Sabrina off Texel Traffic Seperation Scheme 13 June 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/wintertideandsabrina.pdf\">wintertideandsabrina.pdf</a>\r\n (1,189.69 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail", 
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (213.98 kb)\n\n  \nReport on the investigation of the collision between Wintertide and MSC Sabrina off Texel Traffic Seperation Scheme 13 June 2000\n\n  \n[ASSET_TAG](#ASSET1) (1,189.69 kb) \n"
+}

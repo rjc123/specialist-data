@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "coastal-bay.pdf\r\n (835.83 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "21 July 2000", 
+    "Report name:": "mv Coastal Bay (08/2001)", 
+    "Summary:": "Report on the investigation of the grounding of mv Coastal Bay, Church Bay, Anglesey on 21 July 2000"
+  }, 
+  "date_of_occurrence": "2000-07-21", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2001/mv_coastal_bay.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/coastal%2Dbay%20synopsis%2Epdf", 
+      "filename": "downloads/9c1cd409f738a4ba7a1792a7f7eacd4795a2a8b7/coastal-bay synopsis.pdf", 
+      "original_filename": "coastal-bay synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "coastal-bay.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/coastal-bay.pdf", 
+      "filename": "downloads/f773c579c06430bfdc9d6a6a748136735f628647/coastal-bay.pdf", 
+      "original_filename": "coastal-bay.pdf"
+    }
+  ], 
+  "title": "Investigation report - mv Coastal Bay", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/coastal%2Dbay%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (150.59 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">mv Coastal Bay (08/2001)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">21 July 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the grounding of mv Coastal Bay, Church Bay, Anglesey on 21 July 2000</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/coastal-bay.pdf\">coastal-bay.pdf</a>\r\n (835.83 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (150.59 kb)\n\n  \nReport on the investigation of the grounding of mv Coastal Bay, Church Bay, Anglesey on 21 July 2000\n\n  \n[ASSET_TAG](#ASSET1) (835.83 kb) \n"
+}

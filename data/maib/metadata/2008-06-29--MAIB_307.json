@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "MoondanceReport.pdf\r\n (1,599.29 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "29 June 2008", 
+    "Report name:": "Moondance", 
+    "Summary:": "Report on the investigation of the electrical blackout and subsequent grounding of the ro-ro cargo ship Moondance\r\r\nin Warrenpoint Harbour, Northern Ireland on 29 June 2008. Report No 5/2009. Published 10 February 2009."
+  }, 
+  "date_of_occurrence": "2008-06-29", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/moondance.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/MoondanceSynopsis%2Epdf", 
+      "filename": "downloads/cb29fe9da738eea6ee8792474aa58a5dae93db0d/MoondanceSynopsis.pdf", 
+      "original_filename": "MoondanceSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "MoondanceReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/MoondanceReport.pdf", 
+      "filename": "downloads/ecfc82133a51a0940bc452fc018c47f9fbd31877/MoondanceReport.pdf", 
+      "original_filename": "MoondanceReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/MoondanceAnnexes%2Epdf", 
+      "filename": "downloads/5e9390de0ee2a345c5b942972e47535d57787b32/MoondanceAnnexes.pdf", 
+      "original_filename": "MoondanceAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation report - Moondance", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MoondanceSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/MoondanceSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (124.94 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Moondance</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">29 June 2008</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the electrical blackout and subsequent grounding of the ro-ro cargo ship Moondance\r\r\nin Warrenpoint Harbour, Northern Ireland on 29 June 2008. Report No 5/2009. Published 10 February 2009.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/MoondanceReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MoondanceReport.pdf');\">MoondanceReport.pdf</a>\r\n (1,599.29 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MoondanceAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/MoondanceAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (3,003.25 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (124.94 kb)\n\n  \nReport on the investigation of the electrical blackout and subsequent grounding of the ro-ro cargo ship Moondance in Warrenpoint Harbour, Northern Ireland on 29 June 2008. Report No 5/2009. Published 10 February 2009.\n\n  \n[ASSET_TAG](#ASSET1) (1,599.29 kb) \n\n[ASSET_TAG](#ASSET2) (3,003.25 kb)\n"
+}

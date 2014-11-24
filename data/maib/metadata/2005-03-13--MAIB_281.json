@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "loch lomond full report.pdf\r\n (1,759.86 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "13 March 2005", 
+    "Report name:": "Loch Lomond", 
+    "Summary:": "Report on the investigation of two people being thrown from a high-speed rigid inflatable boat with the loss of their lives in Milarrochy Bay, Loch Lomond, UK on 13 March 2005."
+  }, 
+  "date_of_occurrence": "2005-03-13", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2005/loch_lomond.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/loch%20lomond%20synopsis%2Epdf", 
+      "filename": "downloads/bf65ed8acbed2be9b2814c82c167681722d05449/loch lomond synopsis.pdf", 
+      "original_filename": "loch lomond synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "loch lomond full report.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/loch lomond full report.pdf", 
+      "filename": "downloads/24e41a2833df306208510d7583480e35c53e9dcf/loch lomond full report.pdf", 
+      "original_filename": "loch lomond full report.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/loch%20lomond%20annexes%2Epdf", 
+      "filename": "downloads/01dcc6f7a9f541ebc76e0769113d7f8eec5e2786/loch lomond annexes.pdf", 
+      "original_filename": "loch lomond annexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Loch Lomond RIB accident", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/loch%20lomond%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (144.16 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Loch Lomond</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">13 March 2005</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of two people being thrown from a high-speed rigid inflatable boat with the loss of their lives in Milarrochy Bay, Loch Lomond, UK on 13 March 2005.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/loch%20lomond%20full%20report.pdf\">loch lomond full report.pdf</a>\r\n (1,759.86 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/loch%20lomond%20annexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,066.00 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (144.16 kb)\n\n  \nReport on the investigation of two people being thrown from a high-speed rigid inflatable boat with the loss of their lives in Milarrochy Bay, Loch Lomond, UK on 13 March 2005.\n\n  \n[ASSET_TAG](#ASSET1) (1,759.86 kb) \n\n[ASSET_TAG](#ASSET2) (1,066.00 kb)\n"
+}

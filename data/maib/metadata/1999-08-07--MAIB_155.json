@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "bluebell of warsash.pdf\r\n (1,220.92 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "07 August 1999", 
+    "Report name:": "Bluebell of Warsash (20/2000)", 
+    "Summary:": "Report on the investigation of the collision between yacht Bluebell of Warsash and an unidentified ship about 23 miles south of the Needles, Isle of Wight, 7 August 1999"
+  }, 
+  "date_of_occurrence": "1999-08-07", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2000/bluebell_of_warsash.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Bluebell of Warsash - Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/bluebell%20of%20warsash%20synopsis%2Epdf", 
+      "filename": "downloads/b83483cef743cadb36281058045ea3235b4da48a/bluebell of warsash synopsis.pdf", 
+      "original_filename": "bluebell of warsash synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "bluebell of warsash.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/bluebell of warsash.pdf", 
+      "filename": "downloads/f4327c1a8bc30c65a8296cba767ecb2f3e0098ab/bluebell of warsash.pdf", 
+      "original_filename": "bluebell of warsash.pdf"
+    }
+  ], 
+  "title": "Investigation report - Bluebell of Warsash", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/bluebell%20of%20warsash%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Bluebell of Warsash - Synopsis</a>\r\n (74.66 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bluebell of Warsash (20/2000)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">07 August 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the collision between yacht Bluebell of Warsash and an unidentified ship about 23 miles south of the Needles, Isle of Wight, 7 August 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/bluebell%20of%20warsash.pdf\">bluebell of warsash.pdf</a>\r\n (1,220.92 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (74.66 kb)\n\n  \nReport on the investigation of the collision between yacht Bluebell of Warsash and an unidentified ship about 23 miles south of the Needles, Isle of Wight, 7 August 1999\n\n  \n[ASSET_TAG](#ASSET1) (1,220.92 kb) \n"
+}

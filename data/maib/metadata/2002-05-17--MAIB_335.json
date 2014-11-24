@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "dft_masafety_504243.pdf\r\n (186.69 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "17 May 2002", 
+    "Report name:": "P&OSL Canterbury (16/2002)", 
+    "Summary:": "Report of the flooding of the forward machinery space of P&OSL Canterbury as she entered Dover Harbour on 17 May 2001"
+  }, 
+  "date_of_occurrence": "2002-05-17", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/p_osl_canterbury.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "P&OSL Canterbury synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/posl%2Dcanterbury%20synopsis%2Epdf", 
+      "filename": "downloads/a2d2c88438ccc03019fea8ed9f784295f8afd31f/posl-canterbury synopsis.pdf", 
+      "original_filename": "posl-canterbury synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "dft_masafety_504243.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/dft_masafety_504243.pdf", 
+      "filename": "downloads/c0c89d7a882fb8486c7efbb88deeca399912a75b/dft_masafety_504243.pdf", 
+      "original_filename": "dft_masafety_504243.pdf"
+    }
+  ], 
+  "title": "Investigation Report - P&OSL Canterbury", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/posl%2Dcanterbury%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">P&amp;OSL Canterbury synopsis</a>\r\n (421.29 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">P&amp;OSL Canterbury (16/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">17 May 2002</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the flooding of the forward machinery space of P&amp;OSL Canterbury as she entered Dover Harbour on 17 May 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/dft_masafety_504243.pdf\">dft_masafety_504243.pdf</a>\r\n (186.69 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (421.29 kb)\n\n  \nReport of the flooding of the forward machinery space of P&OSL Canterbury as she entered Dover Harbour on 17 May 2001\n\n  \n[ASSET_TAG](#ASSET1) (186.69 kb) \n"
+}

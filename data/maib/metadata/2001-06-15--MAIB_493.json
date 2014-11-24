@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "primrose.pdf\r\n (140.24 kb)", 
+    "Category:": "Fishing vessels", 
+    "Incident date:": "15 June 2001", 
+    "Report name:": "fv Primrose (13/2002)", 
+    "Summary:": "Report of the grounding of Primrose on the Island of Rhum on 15 June 2001"
+  }, 
+  "date_of_occurrence": "2001-06-15", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/fv_primrose.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Primrose synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/primrose%20synopsis%2Epdf", 
+      "filename": "downloads/7501035cd644bdae2e020bd6555ad318a0e2b895/primrose synopsis.pdf", 
+      "original_filename": "primrose synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "primrose.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/primrose.pdf", 
+      "filename": "downloads/a347e1e6e7ab7524250a1e87606e896dbcbd97ae/primrose.pdf", 
+      "original_filename": "primrose.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Fv Primrose", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/primrose%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Primrose synopsis</a>\r\n (279.68 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">fv Primrose (13/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">15 June 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the grounding of Primrose on the Island of Rhum on 15 June 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/primrose.pdf\">primrose.pdf</a>\r\n (140.24 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (279.68 kb)\n\n  \nReport of the grounding of Primrose on the Island of Rhum on 15 June 2001\n\n  \n[ASSET_TAG](#ASSET1) (140.24 kb) \n"
+}

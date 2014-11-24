@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "hotspur IV.pdf\r\n (272.80 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "15 October 1999", 
+    "Report name:": "Hotspur IV", 
+    "Summary:": "Report of the investigation into a man overboard from the UK registered passenger ferry Hotspur IV at Town Quay, Southampton on 15 October 1999"
+  }, 
+  "date_of_occurrence": "1999-10-15", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/hotspur_iv.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Hotspur IV Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/hotspur%20synopsis%2Epdf", 
+      "filename": "downloads/98f91da61121e9ac063918faa2cf0ee7432e26de/hotspur synopsis.pdf", 
+      "original_filename": "hotspur synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "hotspur IV.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/hotspur IV.pdf", 
+      "filename": "downloads/946382c5d5b17797b0c38aaa40103ce57da60f57/hotspur IV.pdf", 
+      "original_filename": "hotspur IV.pdf"
+    }
+  ], 
+  "title": "Investigation report - Hotspur IV", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/hotspur%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Hotspur IV Synopsis</a>\r\n (7.76 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Hotspur IV</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">15 October 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation into a man overboard from the UK registered passenger ferry Hotspur IV at Town Quay, Southampton on 15 October 1999</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/hotspur%20IV.pdf\">hotspur IV.pdf</a>\r\n (272.80 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (7.76 kb)\n\n  \nReport of the investigation into a man overboard from the UK registered passenger ferry Hotspur IV at Town Quay, Southampton on 15 October 1999\n\n  \n[ASSET_TAG](#ASSET1) (272.80 kb) \n"
+}

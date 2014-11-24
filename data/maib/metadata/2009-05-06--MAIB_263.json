@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "JoEikReport.pdf\r\n (1,583.64 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "06 May 2009", 
+    "Report name:": "Jo Eik", 
+    "Summary:": "Report on the investigation of the release of cargo vapours resulting in two casualties on board the chemical tanker Jo Eik at the Vopak Terminal Teesport on 6 May 2009. Report No 24/2009. Published 26 November 2009."
+  }, 
+  "date_of_occurrence": "2009-05-06", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2009/jo_eik.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/JoEikSynopsis%2Epdf", 
+      "filename": "downloads/fdf0cdb87d058b1a4fc53233fce9a83fe8316b7e/JoEikSynopsis.pdf", 
+      "original_filename": "JoEikSynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "JoEikReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/JoEikReport.pdf", 
+      "filename": "downloads/c067f4ba6f2f8576b78b69e47a4c8284c03fe678/JoEikReport.pdf", 
+      "original_filename": "JoEikReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/JoEikAnnexes%2Epdf", 
+      "filename": "downloads/24fb597b12e8e3c45aae5e465fcf450f579bdf84/JoEikAnnexes.pdf", 
+      "original_filename": "JoEikAnnexes.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Jo Eik", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/JoEikSynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/JoEikSynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (144.93 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Jo Eik</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">06 May 2009</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the investigation of the release of cargo vapours resulting in two casualties on board the chemical tanker Jo Eik at the Vopak Terminal Teesport on 6 May 2009. Report No 24/2009. Published 26 November 2009.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/JoEikReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/JoEikReport.pdf');\">JoEikReport.pdf</a>\r\n (1,583.64 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/JoEikAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/JoEikAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (1,808.33 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">An Accident Flyer was produced for this incident and can also be viewed on this website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2009/jo_eik.cfm\">Flyer to the shipping, tank storage, and cargo inspection industries</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (144.93 kb)\n\n  \nReport on the investigation of the release of cargo vapours resulting in two casualties on board the chemical tanker Jo Eik at the Vopak Terminal Teesport on 6 May 2009. Report No 24/2009. Published 26 November 2009.\n\n  \n[ASSET_TAG](#ASSET1) (1,583.64 kb) \n\n[ASSET_TAG](#ASSET2) (1,808.33 kb)\n\nAn Accident Flyer was produced for this incident and can also be viewed on this website:  \n[Flyer to the shipping, tank storage, and cargo inspection industries](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2009/jo_eik.cfm)\n"
+}

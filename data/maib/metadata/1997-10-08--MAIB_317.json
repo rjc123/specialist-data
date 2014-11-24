@@ -1,0 +1,36 @@
+{
+  "meta": {
+    "Download report:": "Ocean Madam.pdf\r\n (1,443.63 kb)", 
+    "Category:": "Leisure", 
+    "Incident date:": "08 October 1997", 
+    "Report name:": "Ocean Madam"
+  }, 
+  "date_of_occurrence": "1997-10-08", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/1999/ocean_madam.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Ocean Madam Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/ocean%20madam%20synopsis%2Epdf", 
+      "filename": "downloads/e1ffd52548cf3abe837aae99d3b6f11cfde69d77/ocean madam synopsis.pdf", 
+      "original_filename": "ocean madam synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Ocean Madam.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/Ocean Madam.pdf", 
+      "filename": "downloads/c0ee81d20fabdfb55d0037eb5cae787df69a7907/Ocean Madam.pdf", 
+      "original_filename": "Ocean Madam.pdf"
+    }
+  ], 
+  "title": "Investigation report - Ocean Madam", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/ocean%20madam%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Ocean Madam Synopsis</a>\r\n (66.77 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Ocean Madam</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">08 October 1997</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Ocean%20Madam.pdf\">Ocean Madam.pdf</a>\r\n (1,443.63 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "recreational-craft-sail"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (66.77 kb)\n\n  \n[ASSET_TAG](#ASSET1) (1,443.63 kb) \n"
+}

@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "AquaBoyReport.pdf\r\n (1,398.02 kb)", 
+    "Category:": "Merchant vessels,Fishing vessels", 
+    "Summary:": "Report of the investigation of the grounding of Aqua-boy, Sound of Mull 11 Novemeber 2006. Report no 14/2007. Published 4 July 2007.", 
+    "Report name:": "Aqua Boy"
+  }, 
+  "date_of_occurrence": "2014-11-20T15:51:41.549345", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2007/aqua_boy.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/AquaBoySynopsis%2Epdf", 
+      "filename": "downloads/5cb01d2bc89bcfdb85f32f0e66fdd78e8b2aa812/AquaBoySynopsis.pdf", 
+      "original_filename": "AquaBoySynopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "AquaBoyReport.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/AquaBoyReport.pdf", 
+      "filename": "downloads/76cf5819bc49d80191651cf485436b30143b1883/AquaBoyReport.pdf", 
+      "original_filename": "AquaBoyReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annex", 
+      "assetid": 2, 
+      "original_url": "http://maib.gov.uk/cms_resources/AquaBoyAnnex%2Epdf", 
+      "filename": "downloads/cc387e31de2abc09fd8814c41b69f7b2898849b6/AquaBoyAnnex.pdf", 
+      "original_filename": "AquaBoyAnnex.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Aqua-boy", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AquaBoySynopsis.pdf');\" href=\"http://maib.gov.uk/cms_resources/AquaBoySynopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Synopsis</a>\r\n (142.25 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Aqua Boy</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels,Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report of the investigation of the grounding of Aqua-boy, Sound of Mull 11 Novemeber 2006. Report no 14/2007. Published 4 July 2007.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/AquaBoyReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AquaBoyReport.pdf');\">AquaBoyReport.pdf</a>\r\n (1,398.02 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/AquaBoyAnnex.pdf');\" href=\"http://maib.gov.uk/cms_resources/AquaBoyAnnex%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annex</a>\r\n (147.43 kb)</p>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over", 
+    "fishing-vessel"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (142.25 kb)\n\n  \nReport of the investigation of the grounding of Aqua-boy, Sound of Mull 11 Novemeber 2006. Report no 14/2007. Published 4 July 2007.\n\n  \n[ASSET_TAG](#ASSET1) (1,398.02 kb) \n\n[ASSET_TAG](#ASSET2) (147.43 kb)\n"
+}

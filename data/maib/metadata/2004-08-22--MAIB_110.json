@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "Albatros.pdf\r\n (1,426.83 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "22 August 2004", 
+    "Report name:": "Albatros", 
+    "Summary:": "Accident on board the commercial sailing vessel Albatros on the Thames Estuary, 22 August 2004 resulting in one fatality"
+  }, 
+  "date_of_occurrence": "2004-08-22", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2005/albatros.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "Albatros.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/Albatros.pdf", 
+      "filename": "downloads/635a5737533785503ec7cde0422f87b8f5640616/Albatros.pdf", 
+      "original_filename": "Albatros.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Albatros", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Albatros</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">22 August 2004</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Accident on board the commercial sailing vessel Albatros on the Thames Estuary, 22 August 2004 resulting in one fatality</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Albatros.pdf\">Albatros.pdf</a>\r\n (1,426.83 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nAccident on board the commercial sailing vessel Albatros on the Thames Estuary, 22 August 2004 resulting in one fatality\n\n  \n[ASSET_TAG](#ASSET0) (1,426.83 kb) \n"
+}

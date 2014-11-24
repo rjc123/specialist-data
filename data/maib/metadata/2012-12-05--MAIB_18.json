@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "ArklowMeadowReport.pdf\r\n (1,468.14 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "05 December 2012", 
+    "Report name:": "Arklow Meadow", 
+    "Summary:": "MAIB Report on the investigation into a release of phosphine gas during cargo discharge on board Arklow Meadow, Warrenpoint, Northern Ireland on 5 December 2012. Report No 21/2013. Published 3 October 2013."
+  }, 
+  "date_of_occurrence": "2012-12-05", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2013/arklow_meadow.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "ArklowMeadowReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/ArklowMeadowReport.pdf", 
+      "filename": "downloads/4bb4273febda7c3b51ccee48293f44954177038d/ArklowMeadowReport.pdf", 
+      "original_filename": "ArklowMeadowReport.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "Annexes", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/ArklowMeadow%5FCombinedAnnexes%2Epdf", 
+      "filename": "downloads/06121cf2df855621f4f56499ff2b97a80cc842fb/ArklowMeadow_CombinedAnnexes.pdf", 
+      "original_filename": "ArklowMeadow_CombinedAnnexes.pdf"
+    }
+  ], 
+  "title": "Accident Investigation Report 21/2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Arklow Meadow</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">05 December 2012</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation into a release of phosphine gas during cargo discharge on board <span>Arklow Meadow</span>, Warrenpoint, Northern Ireland on 5 December 2012. Report No 21/2013. Published 3 October 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/ArklowMeadowReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ArklowMeadowReport.pdf');\">ArklowMeadowReport.pdf</a>\r\n (1,468.14 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/ArklowMeadow_CombinedAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/ArklowMeadow%5FCombinedAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (5,093.53 kb)</p>\r\n</div>\r\n<div id=\"internalLinkContainer\">A Safety Flyer was also produced for this incident and can be viewed on our website:<br>\r\n\r\n<a class=\"siteInternalLink\" href=\"http://maib.gov.uk/publications/accident_flyers/accident_flyers_2013/arklow_meadow_flyer.cfm\">Read Safety Flyer</a>\r\n\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Report on the investigation into a release of phosphine gas during cargo discharge on board Arklow Meadow, Warrenpoint, Northern Ireland on 5 December 2012. Report No 21/2013. Published 3 October 2013.\n\n  \n[ASSET_TAG](#ASSET0) (1,468.14 kb) \n\n[ASSET_TAG](#ASSET1) (5,093.53 kb)\n\nA Safety Flyer was also produced for this incident and can be viewed on our website:  \n[Read Safety Flyer](http://maib.gov.uk/publications/accident_flyers/accident_flyers_2013/arklow_meadow_flyer.cfm)\n"
+}

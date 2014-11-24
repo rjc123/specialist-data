@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "Download report:": "po-nedlloyd-magellan.pdf\r\n (633.31 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "20 February 2001", 
+    "Report name:": "P&O Nedlloyd Magellan (18/2002)", 
+    "Summary:": "Report on the grounding of the Liberian-registered container ship P&O Nedlloyd Magellan in the Western Approach Channel to Southampton Water on 20 February 2001"
+  }, 
+  "date_of_occurrence": "2001-02-20", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2002/p_o_nedlloyd_magellan.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "P&O Nedlloyd Megellan synopsis", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/po%2Dnedlloyd%2Dmagellan%20synopsis%2Epdf", 
+      "filename": "downloads/ac389e2b692cdf8625978e0690f342fd7fcb45a7/po-nedlloyd-magellan synopsis.pdf", 
+      "original_filename": "po-nedlloyd-magellan synopsis.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "po-nedlloyd-magellan.pdf", 
+      "assetid": 1, 
+      "original_url": "http://maib.gov.uk/cms_resources/po-nedlloyd-magellan.pdf", 
+      "filename": "downloads/8370b3eecf7018ca1383b9795e6be38eab5d712a/po-nedlloyd-magellan.pdf", 
+      "original_filename": "po-nedlloyd-magellan.pdf"
+    }
+  ], 
+  "title": "Investigation Report - P&O Nedlloyd Magellan", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p>\r\n<p>\r\n\r\n<a href=\"http://maib.gov.uk/cms_resources/po%2Dnedlloyd%2Dmagellan%20synopsis%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">P&amp;O Nedlloyd Megellan synopsis</a>\r\n (385.27 kb)</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">P&amp;O Nedlloyd Magellan (18/2002)</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">20 February 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Report on the grounding of the Liberian-registered container ship P&amp;O Nedlloyd Magellan in the Western Approach Channel to Southampton Water on 20 February 2001</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/po-nedlloyd-magellan.pdf\">po-nedlloyd-magellan.pdf</a>\r\n (633.31 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "[ASSET_TAG](#ASSET0) (385.27 kb)\n\n  \nReport on the grounding of the Liberian-registered container ship P&O Nedlloyd Magellan in the Western Approach Channel to Southampton Water on 20 February 2001\n\n  \n[ASSET_TAG](#ASSET1) (633.31 kb) \n"
+}

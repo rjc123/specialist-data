@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "JoannaReport.pdf\r\n (548.31 kb)", 
+    "Category:": "Merchant vessels", 
+    "Incident date:": "13 December 2010", 
+    "Report name:": "Joanna", 
+    "Summary:": "MAIB Investigation report following the fatal manoverboard from cargo vessel Joanna while alongside in Glasgow, Scotland on 13 December 2010. Report No 8/2011. Published 2 June 2011."
+  }, 
+  "date_of_occurrence": "2010-12-13", 
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2011/joanna.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "JoannaReport.pdf", 
+      "assetid": 0, 
+      "original_url": "http://maib.gov.uk/cms_resources/JoannaReport.pdf", 
+      "filename": "downloads/a8d2d4ffca63b80df159cc4b3a306a193924200d/JoannaReport.pdf", 
+      "original_filename": "JoannaReport.pdf"
+    }
+  ], 
+  "title": "Investigation Report - Joanna", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Joanna</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">13 December 2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Investigation report following the fatal manoverboard from cargo vessel <span>Joanna</span> while alongside in Glasgow, Scotland on 13 December 2010. Report No 8/2011. Published 2 June 2011.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/JoannaReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/JoannaReport.pdf');\">JoannaReport.pdf</a>\r\n (548.31 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "vessel_type": [
+    "merchant-vessel-100-gross-tons-or-over"
+  ], 
+  "report_type": "investigation-report", 
+  "body": "  \nMAIB Investigation report following the fatal manoverboard from cargo vessel Joanna while alongside in Glasgow, Scotland on 13 December 2010. Report No 8/2011. Published 2 June 2011.\n\n  \n[ASSET_TAG](#ASSET0) (548.31 kb) \n"
+}
