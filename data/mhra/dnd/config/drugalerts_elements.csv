@@ -1,0 +1,20 @@
+entity,count
+a,65
+span,65
+ul,65
+h2,65
+h3,65
+<built-in function Comment>,65
+tr,65
+li,65
+p,65
+br,65
+table,65
+div,65
+td,65
+hr,64
+tbody,3
+img,2
+sup,1
+font,1
+thead,1
