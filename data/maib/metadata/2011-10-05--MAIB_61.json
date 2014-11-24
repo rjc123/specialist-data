@@ -1,37 +1,37 @@
 {
   "meta": {
-    "Download report:": "MoonClipper.pdf\r\n (2,256.50 kb)", 
-    "Category:": "Merchant vessels", 
-    "Incident date:": "05 October 2011", 
-    "Report name:": "Moon Clipper", 
+    "Download report:": "MoonClipper.pdf\r\n (2,256.50 kb)",
+    "Category:": "Merchant vessels",
+    "Incident date:": "05 October 2011",
+    "Report name:": "Moon Clipper",
     "Summary:": "MAIB Report on the investigation of the steering control failure and subsequent contact on board the high-speed catamaran Moon Clipper on the River Thames, London resulting in injuries to several passengers and crew on 5 October 2011. Report No 21/2012. Published 8 August 2012."
-  }, 
-  "date_of_occurrence": "2011-10-05", 
-  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/moon_clipper.cfm", 
+  },
+  "date_of_occurrence": "2011-10-05",
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/moon_clipper.cfm",
   "_assets": [
     {
-      "content_type": "application/pdf", 
-      "title": "MoonClipper.pdf", 
-      "assetid": 0, 
-      "original_url": "http://maib.gov.uk/cms_resources/MoonClipper.pdf", 
-      "filename": "downloads/afa898ebe783fb2b140e5b03985dce310ea99884/MoonClipper.pdf", 
+      "content_type": "application/pdf",
+      "title": "MoonClipper.pdf",
+      "assetid": 0,
+      "original_url": "http://maib.gov.uk/cms_resources/MoonClipper.pdf",
+      "filename": "downloads/afa898ebe783fb2b140e5b03985dce310ea99884/MoonClipper.pdf",
       "original_filename": "MoonClipper.pdf"
-    }, 
+    },
     {
-      "content_type": "application/pdf", 
-      "title": "Annexes", 
-      "assetid": 1, 
-      "original_url": "http://maib.gov.uk/cms_resources/MoonClipper%5FAnnexes%2Epdf", 
-      "filename": "downloads/fb0f9da64c36590dbd6e4692fe73915ff15ecb88/MoonClipper_Annexes.pdf", 
+      "content_type": "application/pdf",
+      "title": "Annexes",
+      "assetid": 1,
+      "original_url": "http://maib.gov.uk/cms_resources/MoonClipper%5FAnnexes%2Epdf",
+      "filename": "downloads/fb0f9da64c36590dbd6e4692fe73915ff15ecb88/MoonClipper_Annexes.pdf",
       "original_filename": "MoonClipper_Annexes.pdf"
     }
-  ], 
-  "title": "report-without-titleQQQQQQQQQQQ", 
-  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n<span class=\"sitePageTitle\"><h1>Accident Investigation Report 21/2012</h1></span>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Moon Clipper</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">05 October 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the steering control failure and subsequent contact on board the high-speed catamaran <span>Moon Clipper</span> on the River Thames, London resulting in injuries to several passengers and crew on 5 October 2011. Report No 21/2012. Published 8 August 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/MoonClipper.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MoonClipper.pdf');\">MoonClipper.pdf</a>\r\n (2,256.50 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>Annexes 21/2012</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MoonClipper_Annexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/MoonClipper%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (3,857.27 kb)</p>\r\n</div>\r\n</div>", 
-  "summary": "", 
+  ],
+  "title": "Accident Investigation Report 21/2012",
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n<span class=\"sitePageTitle\"><h1>Accident Investigation Report 21/2012</h1></span>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Moon Clipper</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">05 October 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the steering control failure and subsequent contact on board the high-speed catamaran <span>Moon Clipper</span> on the River Thames, London resulting in injuries to several passengers and crew on 5 October 2011. Report No 21/2012. Published 8 August 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/MoonClipper.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MoonClipper.pdf');\">MoonClipper.pdf</a>\r\n (2,256.50 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>Annexes 21/2012</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/MoonClipper_Annexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/MoonClipper%5FAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (3,857.27 kb)</p>\r\n</div>\r\n</div>",
+  "summary": "",
   "vessel_type": [
     "merchant-vessel-100-gross-tons-or-over"
-  ], 
-  "report_type": "investigation-report", 
+  ],
+  "report_type": "investigation-report",
   "body": "# Accident Investigation Report 21/2012\n\n  \nMAIB Report on the investigation of the steering control failure and subsequent contact on board the high-speed catamaran Moon Clipper on the River Thames, London resulting in injuries to several passengers and crew on 5 October 2011. Report No 21/2012. Published 8 August 2012.\n\n  \n[ASSET_TAG](#ASSET0) (2,256.50 kb) \n\nAnnexes 21/2012\n\n[ASSET_TAG](#ASSET1) (3,857.27 kb)\n"
 }

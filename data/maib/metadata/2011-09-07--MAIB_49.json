@@ -1,29 +1,29 @@
 {
   "meta": {
-    "Download report:": "GoldenPromise.pdf\r\n (3,378.96 kb)", 
-    "Category:": "Fishing vessels", 
-    "Incident date:": "07 September 2011", 
-    "Report name:": "Golden Promise", 
+    "Download report:": "GoldenPromise.pdf\r\n (3,378.96 kb)",
+    "Category:": "Fishing vessels",
+    "Incident date:": "07 September 2011",
+    "Report name:": "Golden Promise",
     "Summary:": "MAIB Report on the investigation of the grounding of fv Golden Promise on the Island of Stroma on 7 September 2011. Report No 3/2012. Published 1 March 2012."
-  }, 
-  "date_of_occurrence": "2011-09-07", 
-  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/golden_promise.cfm", 
+  },
+  "date_of_occurrence": "2011-09-07",
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/golden_promise.cfm",
   "_assets": [
     {
-      "content_type": "application/pdf", 
-      "title": "GoldenPromise.pdf", 
-      "assetid": 0, 
-      "original_url": "http://maib.gov.uk/cms_resources/GoldenPromise.pdf", 
-      "filename": "downloads/936c74069f7be1ec3e211cd1775e0e3ea7872dcf/GoldenPromise.pdf", 
+      "content_type": "application/pdf",
+      "title": "GoldenPromise.pdf",
+      "assetid": 0,
+      "original_url": "http://maib.gov.uk/cms_resources/GoldenPromise.pdf",
+      "filename": "downloads/936c74069f7be1ec3e211cd1775e0e3ea7872dcf/GoldenPromise.pdf",
       "original_filename": "GoldenPromise.pdf"
     }
-  ], 
-  "title": "report-without-titleQQQQQQQQ", 
-  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n<span class=\"sitePageTitle\"><h1>Accident Investigation Report 3/2012</h1></span>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Golden Promise</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">07 September 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the grounding of fv <span>Golden Promise</span> on the Island of Stroma on 7 September 2011. Report No 3/2012. Published 1 March 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/GoldenPromise.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/GoldenPromise.pdf');\">GoldenPromise.pdf</a>\r\n (3,378.96 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
-  "summary": "", 
+  ],
+  "title": "Accident Investigation Report 3/2012",
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n<span class=\"sitePageTitle\"><h1>Accident Investigation Report 3/2012</h1></span>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Golden Promise</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">07 September 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Fishing vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the grounding of fv <span>Golden Promise</span> on the Island of Stroma on 7 September 2011. Report No 3/2012. Published 1 March 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/GoldenPromise.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/GoldenPromise.pdf');\">GoldenPromise.pdf</a>\r\n (3,378.96 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>",
+  "summary": "",
   "vessel_type": [
     "fishing-vessel"
-  ], 
-  "report_type": "investigation-report", 
+  ],
+  "report_type": "investigation-report",
   "body": "# Accident Investigation Report 3/2012\n\n  \nMAIB Report on the investigation of the grounding of fv Golden Promise on the Island of Stroma on 7 September 2011. Report No 3/2012. Published 1 March 2012.\n\n  \n[ASSET_TAG](#ASSET0) (3,378.96 kb) \n"
 }

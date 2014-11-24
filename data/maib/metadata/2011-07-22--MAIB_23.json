@@ -1,37 +1,37 @@
 {
   "meta": {
-    "Download report:": "BlueNote.pdf\r\n (1,809.81 kb)", 
-    "Category:": "Merchant vessels", 
-    "Incident date:": "22 July 2011", 
-    "Report name:": "Blue Note", 
+    "Download report:": "BlueNote.pdf\r\n (1,809.81 kb)",
+    "Category:": "Merchant vessels",
+    "Incident date:": "22 July 2011",
+    "Report name:": "Blue Note",
     "Summary:": "MAIB Report on the investigation of the derailment of the hatch-lid gantry crane on board Blue Note while alongside in Londonderry, Northern Ireland on 22 July 2011. Report No 7/2012. Published 29 March 2012."
-  }, 
-  "date_of_occurrence": "2011-07-22", 
-  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/blue_note.cfm", 
+  },
+  "date_of_occurrence": "2011-07-22",
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/blue_note.cfm",
   "_assets": [
     {
-      "content_type": "application/pdf", 
-      "title": "BlueNote.pdf", 
-      "assetid": 0, 
-      "original_url": "http://maib.gov.uk/cms_resources/BlueNote.pdf", 
-      "filename": "downloads/eddcc190f03a794aa316a028b561afd8bdaa7d68/BlueNote.pdf", 
+      "content_type": "application/pdf",
+      "title": "BlueNote.pdf",
+      "assetid": 0,
+      "original_url": "http://maib.gov.uk/cms_resources/BlueNote.pdf",
+      "filename": "downloads/eddcc190f03a794aa316a028b561afd8bdaa7d68/BlueNote.pdf",
       "original_filename": "BlueNote.pdf"
-    }, 
+    },
     {
-      "content_type": "application/pdf", 
-      "title": "Annexes", 
-      "assetid": 1, 
-      "original_url": "http://maib.gov.uk/cms_resources/BlueNoteAnnexes%2Epdf", 
-      "filename": "downloads/64edcaf3e9491d46e7fd155f58fb89f9598e4de1/BlueNoteAnnexes.pdf", 
+      "content_type": "application/pdf",
+      "title": "Annexes",
+      "assetid": 1,
+      "original_url": "http://maib.gov.uk/cms_resources/BlueNoteAnnexes%2Epdf",
+      "filename": "downloads/64edcaf3e9491d46e7fd155f58fb89f9598e4de1/BlueNoteAnnexes.pdf",
       "original_filename": "BlueNoteAnnexes.pdf"
     }
-  ], 
-  "title": "report-without-titleQ", 
-  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n<span class=\"sitePageTitle\"><h1>Accident Investigation Report 7/2012</h1></span>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Blue Note</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">22 July 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the derailment of the hatch-lid gantry crane on board <span>Blue Note</span> while alongside in Londonderry, Northern Ireland on 22 July 2011. Report No 7/2012. Published 29 March 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/BlueNote.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/BlueNote.pdf');\">BlueNote.pdf</a>\r\n (1,809.81 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/BlueNoteAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/BlueNoteAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (7,809.25 kb)</p>\r\n</div>\r\n</div>", 
-  "summary": "", 
+  ],
+  "title": "Accident Investigation Report 7/2012",
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n<span class=\"sitePageTitle\"><h1>Accident Investigation Report 7/2012</h1></span>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Blue Note</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">22 July 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the derailment of the hatch-lid gantry crane on board <span>Blue Note</span> while alongside in Londonderry, Northern Ireland on 22 July 2011. Report No 7/2012. Published 29 March 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/BlueNote.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/BlueNote.pdf');\">BlueNote.pdf</a>\r\n (1,809.81 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p>\r\n</p>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/BlueNoteAnnexes.pdf');\" href=\"http://maib.gov.uk/cms_resources/BlueNoteAnnexes%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">Annexes</a>\r\n (7,809.25 kb)</p>\r\n</div>\r\n</div>",
+  "summary": "",
   "vessel_type": [
     "merchant-vessel-100-gross-tons-or-over"
-  ], 
-  "report_type": "investigation-report", 
+  ],
+  "report_type": "investigation-report",
   "body": "# Accident Investigation Report 7/2012\n\n  \nMAIB Report on the investigation of the derailment of the hatch-lid gantry crane on board Blue Note while alongside in Londonderry, Northern Ireland on 22 July 2011. Report No 7/2012. Published 29 March 2012.\n\n  \n[ASSET_TAG](#ASSET0) (1,809.81 kb) \n\n[ASSET_TAG](#ASSET1) (7,809.25 kb)\n"
 }

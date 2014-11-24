@@ -1,30 +1,30 @@
 {
   "meta": {
-    "Download report:": "SunClipperReport.pdf\r\n (4,693.59 kb)", 
-    "Category:": "Leisure,Merchant vessels", 
-    "Incident date:": "01 June 2011", 
-    "Report name:": "Sun Clipper and Morfil", 
+    "Download report:": "SunClipperReport.pdf\r\n (4,693.59 kb)",
+    "Category:": "Leisure,Merchant vessels",
+    "Incident date:": "01 June 2011",
+    "Report name:": "Sun Clipper and Morfil",
     "Summary:": "MAIB Report on the investigation of the collision between Rigid-hulled inflatable boat Morfil and passenger vessel Sun Clipper by Blackfriars Road Bridge, The River Thames on 1 June 2011. Report No 8/2012. Published 18 April 2012."
-  }, 
-  "date_of_occurrence": "2011-06-01", 
-  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/sun_clipper_and_morfil.cfm", 
+  },
+  "date_of_occurrence": "2011-06-01",
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/sun_clipper_and_morfil.cfm",
   "_assets": [
     {
-      "content_type": "application/pdf", 
-      "title": "SunClipperReport.pdf", 
-      "assetid": 0, 
-      "original_url": "http://maib.gov.uk/cms_resources/SunClipperReport.pdf", 
-      "filename": "downloads/b988a4679a563e125c1bf41a46c074944eb683e5/SunClipperReport.pdf", 
+      "content_type": "application/pdf",
+      "title": "SunClipperReport.pdf",
+      "assetid": 0,
+      "original_url": "http://maib.gov.uk/cms_resources/SunClipperReport.pdf",
+      "filename": "downloads/b988a4679a563e125c1bf41a46c074944eb683e5/SunClipperReport.pdf",
       "original_filename": "SunClipperReport.pdf"
     }
-  ], 
-  "title": "report-without-titleQQQQQQQQQQQQQQQQ", 
-  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n<span class=\"sitePageTitle\"><h1>Accident Investigation Report 8/2012</h1></span>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Sun Clipper and Morfil</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">01 June 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure,Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the collision between Rigid-hulled inflatable boat Morfil and passenger vessel Sun Clipper by Blackfriars Road Bridge, The River Thames on 1 June 2011. Report No 8/2012. Published 18 April 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SunClipperReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SunClipperReport.pdf');\">SunClipperReport.pdf</a>\r\n (4,693.59 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
-  "summary": "", 
+  ],
+  "title": "Accident Investigation Report 8/2012",
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n<span class=\"sitePageTitle\"><h1>Accident Investigation Report 8/2012</h1></span>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Sun Clipper and Morfil</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">01 June 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Leisure,Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the collision between Rigid-hulled inflatable boat Morfil and passenger vessel Sun Clipper by Blackfriars Road Bridge, The River Thames on 1 June 2011. Report No 8/2012. Published 18 April 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/SunClipperReport.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/SunClipperReport.pdf');\">SunClipperReport.pdf</a>\r\n (4,693.59 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>",
+  "summary": "",
   "vessel_type": [
-    "recreational-craft-sail", 
+    "recreational-craft-sail",
     "merchant-vessel-100-gross-tons-or-over"
-  ], 
-  "report_type": "investigation-report", 
+  ],
+  "report_type": "investigation-report",
   "body": "# Accident Investigation Report 8/2012\n\n  \nMAIB Report on the investigation of the collision between Rigid-hulled inflatable boat Morfil and passenger vessel Sun Clipper by Blackfriars Road Bridge, The River Thames on 1 June 2011. Report No 8/2012. Published 18 April 2012.\n\n  \n[ASSET_TAG](#ASSET0) (4,693.59 kb) \n"
 }

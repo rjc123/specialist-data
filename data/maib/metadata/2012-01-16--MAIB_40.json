@@ -1,29 +1,29 @@
 {
   "meta": {
-    "Download report:": "DetteG.pdf\r\n (770.51 kb)", 
-    "Category:": "Merchant vessels", 
-    "Incident date:": "16 January 2012", 
-    "Report name:": "Dette G", 
+    "Download report:": "DetteG.pdf\r\n (770.51 kb)",
+    "Category:": "Merchant vessels",
+    "Incident date:": "16 January 2012",
+    "Report name:": "Dette G",
     "Summary:": "MAIB Report on the investigation of the manoverboard during cargo operations on Dette G while alongside in Queen Elizabeth Dock, Hull on 16 January 2012. Report No 11/2012. Published 17 May 2012."
-  }, 
-  "date_of_occurrence": "2012-01-16", 
-  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/dette_g.cfm", 
+  },
+  "date_of_occurrence": "2012-01-16",
+  "original_url": "http://maib.gov.uk/publications/investigation_reports/2012/dette_g.cfm",
   "_assets": [
     {
-      "content_type": "application/pdf", 
-      "title": "DetteG.pdf", 
-      "assetid": 0, 
-      "original_url": "http://maib.gov.uk/cms_resources/DetteG.pdf", 
-      "filename": "downloads/db4ee67cee906978960963b4779ee325773cd7c7/DetteG.pdf", 
+      "content_type": "application/pdf",
+      "title": "DetteG.pdf",
+      "assetid": 0,
+      "original_url": "http://maib.gov.uk/cms_resources/DetteG.pdf",
+      "filename": "downloads/db4ee67cee906978960963b4779ee325773cd7c7/DetteG.pdf",
       "original_filename": "DetteG.pdf"
     }
-  ], 
-  "title": "report-without-titleQQQQQ", 
-  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n<span class=\"sitePageTitle\"><h1>Accident Investigation Report 11/2012</h1></span>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Dette G</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">16 January 2012</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the manoverboard during cargo operations on <span>Dette G</span> while alongside in Queen Elizabeth Dock, Hull on 16 January 2012. Report No 11/2012. Published 17 May 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/DetteG.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/DetteG.pdf');\">DetteG.pdf</a>\r\n (770.51 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
-  "summary": "", 
+  ],
+  "title": "Accident Investigation Report 11/2012",
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n<span class=\"sitePageTitle\"><h1>Accident Investigation Report 11/2012</h1></span>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h1>Dette G</h1></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">16 January 2012</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">MAIB Report on the investigation of the manoverboard during cargo operations on <span>Dette G</span> while alongside in Queen Elizabeth Dock, Hull on 16 January 2012. Report No 11/2012. Published 17 May 2012.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/DetteG.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/DetteG.pdf');\">DetteG.pdf</a>\r\n (770.51 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>",
+  "summary": "",
   "vessel_type": [
     "merchant-vessel-100-gross-tons-or-over"
-  ], 
-  "report_type": "investigation-report", 
+  ],
+  "report_type": "investigation-report",
   "body": "# Accident Investigation Report 11/2012\n\n  \nMAIB Report on the investigation of the manoverboard during cargo operations on Dette G while alongside in Queen Elizabeth Dock, Hull on 16 January 2012. Report No 11/2012. Published 17 May 2012.\n\n  \n[ASSET_TAG](#ASSET0) (770.51 kb) \n"
 }

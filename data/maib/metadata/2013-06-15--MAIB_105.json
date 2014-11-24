@@ -1,29 +1,29 @@
 {
   "meta": {
-    "Download report:": "Safety Bulletin 3_2013.pdf\r\n (4.38 kb)", 
-    "Category:": "Merchant vessels", 
-    "Incident date:": "15 June 2013", 
-    "Report name:": "MAIB Safety Bulletin 3/2013 - Wacker Quacker 1 / Cleopatra", 
+    "Download report:": "Safety Bulletin 3_2013.pdf\r\n (4.38 kb)",
+    "Category:": "Merchant vessels",
+    "Incident date:": "15 June 2013",
+    "Report name:": "MAIB Safety Bulletin 3/2013 - Wacker Quacker 1 / Cleopatra",
     "Summary:": "The sinking of the DUKW amphibious vehicle Wacker Quacker 1 in Salthouse Dock, Liverpool on 15 June 2013 and the fire on board the DUKW amphibious vehicle Cleopatra on the River Thames, London on 29 September 2013. Issued 28 October 2013."
-  }, 
-  "date_of_occurrence": "2013-06-15", 
-  "original_url": "http://maib.gov.uk/publications/safety_bulletins/safety_bulletin_2013/safety_bulletin_3_2013.cfm", 
+  },
+  "date_of_occurrence": "2013-06-15",
+  "original_url": "http://maib.gov.uk/publications/safety_bulletins/safety_bulletin_2013/safety_bulletin_3_2013.cfm",
   "_assets": [
     {
-      "content_type": "application/pdf", 
-      "title": "Safety Bulletin 3_2013.pdf", 
-      "assetid": 0, 
-      "original_url": "http://maib.gov.uk/cms_resources/Safety Bulletin 3_2013.pdf", 
-      "filename": "downloads/c4147bc02d899bef16feb67a3c0ac0db30ac37fd/Safety Bulletin 3_2013.pdf", 
+      "content_type": "application/pdf",
+      "title": "Safety Bulletin 3_2013.pdf",
+      "assetid": 0,
+      "original_url": "http://maib.gov.uk/cms_resources/Safety Bulletin 3_2013.pdf",
+      "filename": "downloads/c4147bc02d899bef16feb67a3c0ac0db30ac37fd/Safety Bulletin 3_2013.pdf",
       "original_filename": "Safety Bulletin 3_2013.pdf"
     }
-  ], 
-  "title": "report-without-titleQQQQQQQQQQQQQQQQQQQQ", 
-  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h2>MAIB Safety Bulletin 3/2013 - Wacker Quacker 1 / Cleopatra</h2></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">15 June 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">The sinking of the DUKW amphibious vehicle <span>Wacker Quacker 1</span> in Salthouse Dock, Liverpool on 15 June 2013 and the fire on board the DUKW amphibious vehicle <span>Cleopatra</span> on the River Thames, London on 29 September 2013. Issued 28 October 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Safety%20Bulletin%203_2013.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Safety Bulletin 3_2013.pdf');\">Safety Bulletin 3_2013.pdf</a>\r\n (4.38 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
-  "summary": "", 
+  ],
+  "title": "MAIB Safety Bulletin 3/2013 ",
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><h2>MAIB Safety Bulletin 3/2013 - Wacker Quacker 1 / Cleopatra</h2></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">15 June 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Merchant vessels</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">The sinking of the DUKW amphibious vehicle <span>Wacker Quacker 1</span> in Salthouse Dock, Liverpool on 15 June 2013 and the fire on board the DUKW amphibious vehicle <span>Cleopatra</span> on the River Thames, London on 29 September 2013. Issued 28 October 2013.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://maib.gov.uk/cms_resources/Safety%20Bulletin%203_2013.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/Safety Bulletin 3_2013.pdf');\">Safety Bulletin 3_2013.pdf</a>\r\n (4.38 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>",
+  "summary": "",
   "vessel_type": [
     "merchant-vessel-100-gross-tons-or-over"
-  ], 
-  "report_type": "safety-bulletin", 
+  ],
+  "report_type": "safety-bulletin",
   "body": "  \nThe sinking of the DUKW amphibious vehicle Wacker Quacker 1 in Salthouse Dock, Liverpool on 15 June 2013 and the fire on board the DUKW amphibious vehicle Cleopatra on the River Thames, London on 29 September 2013. Issued 28 October 2013.\n\n  \n[ASSET_TAG](#ASSET0) (4.38 kb) \n"
 }
