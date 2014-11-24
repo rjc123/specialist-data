@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "100721_B092010_Kilsby_Tunnel.pdf\r\n (364.27 kb)", 
+    "Category:": "Heavy Rail", 
+    "Incident date:": "15 March 2010", 
+    "Report name:": "Bulletin 09/2010", 
+    "Summary:": "RAIB bulletin published regarding a collision between a freight wagon door  and signal in Kilsby Tunnel."
+  }, 
+  "date_of_occurrence": "2010-03-15", 
+  "original_url": "http://raib.gov.uk/publications/bulletins/bulletins_2010/bulletin_09_2010.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "100721_B092010_Kilsby_Tunnel.pdf", 
+      "assetid": 0, 
+      "original_url": "http://raib.gov.uk/cms_resources/100721_B092010_Kilsby_Tunnel.pdf", 
+      "filename": "downloads/a943307f474acdc0d5a92a12b341254f441465d1/100721_B092010_Kilsby_Tunnel.pdf", 
+      "original_filename": "100721_B092010_Kilsby_Tunnel.pdf"
+    }
+  ], 
+  "title": "Collision between a freight wagon door and signal in Kilsby Tunnel, 15 March 2010", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 385px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bulletin 09/2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">15 March 2010</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Heavy Rail</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">RAIB bulletin published regarding a collision between a freight wagon door  and signal in Kilsby Tunnel.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://raib.gov.uk/cms_resources/100721_B092010_Kilsby_Tunnel.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/100721_B092010_Kilsby_Tunnel.pdf');\">100721_B092010_Kilsby_Tunnel.pdf</a>\r\n (364.27 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"TextContainer\"><p> </p>\r\r\n<p>Download Adobe PDF reader software free from the <a href=\"http://get.adobe.com/uk/reader/\">Adobe Reader website</a>.</p>\r\r\n<p>Note: Users of Adobe PDF Reader version 5 (and below) may experience problems opening these PDF reports. We recommend that you upgrade to the latest version of Adobe PDF Reader by following the link above.</p></div>\r\n</div>", 
+  "summary": "", 
+  "railway_type": [
+    "heavy-rail"
+  ], 
+  "report_type": "bulletin", 
+  "body": "  \nRAIB bulletin published regarding a collision between a freight wagon door and signal in Kilsby Tunnel.\n\n  \n[ASSET_TAG](#ASSET0) (364.27 kb) \n"
+}

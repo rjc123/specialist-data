@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "Download report:": "090102_B022009_Wokingham.pdf\r\n (299.85 kb)", 
+    "Category:": "Heavy Rail", 
+    "Summary:": "RAIB bulletin published regarding a tamping machine that derailed in September 2008.", 
+    "Report name:": "Bulletin 02/2009"
+  }, 
+  "date_of_occurrence": "2014-11-19T16:56:37.411716", 
+  "original_url": "http://raib.gov.uk/publications/bulletins/bulletins_2009/bulletin_02_2009.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "090102_B022009_Wokingham.pdf", 
+      "assetid": 0, 
+      "original_url": "http://raib.gov.uk/cms_resources/090102_B022009_Wokingham.pdf", 
+      "filename": "downloads/bdadd69b69d5bb9f98088ecf2b8759dd9b9f3f03/090102_B022009_Wokingham.pdf", 
+      "original_filename": "090102_B022009_Wokingham.pdf"
+    }
+  ], 
+  "title": "Tamping machine derailed in September 2008", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 385px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bulletin 02/2009</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Heavy Rail</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">RAIB bulletin published regarding a tamping machine that derailed in September 2008.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://raib.gov.uk/cms_resources/090102_B022009_Wokingham.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/090102_B022009_Wokingham.pdf');\">090102_B022009_Wokingham.pdf</a>\r\n (299.85 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"TextContainer\"><p> </p>\r\r\n<p>Download Adobe PDF reader software free from the <a href=\"http://get.adobe.com/uk/reader/\">Adobe Reader website</a>.</p>\r\r\n<p>Note: Users of Adobe PDF Reader version 5 (and below) may experience problems opening these PDF reports. We recommend that you upgrade to the latest version of Adobe PDF Reader by following the link above.</p></div>\r\n</div>", 
+  "summary": "", 
+  "railway_type": [
+    "heavy-rail"
+  ], 
+  "report_type": "bulletin", 
+  "body": "  \nRAIB bulletin published regarding a tamping machine that derailed in September 2008.\n\n  \n[ASSET_TAG](#ASSET0) (299.85 kb) \n"
+}

@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "Download report:": "090107_B012009_Croydon_v2.pdf\r\n (271.61 kb)", 
+    "Category:": "Light Rail", 
+    "Summary:": "RAIB bulletin published regarding a collision between a Tram and a double decker bus.", 
+    "Report name:": "Bulletin 01-2009"
+  }, 
+  "date_of_occurrence": "2014-11-19T16:56:37.066609", 
+  "original_url": "http://raib.gov.uk/publications/bulletins/bulletins_2009/bulletin_01_2009.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "090107_B012009_Croydon_v2.pdf", 
+      "assetid": 0, 
+      "original_url": "http://raib.gov.uk/cms_resources/090107_B012009_Croydon_v2.pdf", 
+      "filename": "downloads/e116669b60514a14901237471ad1c22bd2c9ea02/090107_B012009_Croydon_v2.pdf", 
+      "original_filename": "090107_B012009_Croydon_v2.pdf"
+    }
+  ], 
+  "title": "Collision of Tram and double decker bus in September 2008", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 385px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bulletin 01-2009</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Light Rail</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">RAIB bulletin published regarding a collision between a Tram and a double decker bus.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://raib.gov.uk/cms_resources/090107_B012009_Croydon_v2.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/090107_B012009_Croydon_v2.pdf');\">090107_B012009_Croydon_v2.pdf</a>\r\n (271.61 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"TextContainer\"><p> </p>\r\r\n<p>Download Adobe PDF reader software free from the <a href=\"http://get.adobe.com/uk/reader/\">Adobe Reader website</a>.</p>\r\r\n<p>Note: Users of Adobe PDF Reader version 5 (and below) may experience problems opening these PDF reports. We recommend that you upgrade to the latest version of Adobe PDF Reader by following the link above.</p></div>\r\n</div>", 
+  "summary": "", 
+  "railway_type": [
+    "light-rail"
+  ], 
+  "report_type": "bulletin", 
+  "body": "  \nRAIB bulletin published regarding a collision between a Tram and a double decker bus.\n\n  \n[ASSET_TAG](#ASSET0) (271.61 kb) \n"
+}

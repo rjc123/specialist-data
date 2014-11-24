@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "130530_B022013_Elephant_&_Castle.pdf\r\n (1,067.86 kb)", 
+    "Category:": "Heavy Rail", 
+    "Incident date:": "21 January 2013", 
+    "Report name:": "Bulletin_02/2013", 
+    "Summary:": "RAIB bulletin published regarding a near miss at Southwark Bridge junction near Elephant & Castle station, London 21 January 2013"
+  }, 
+  "date_of_occurrence": "2013-01-21", 
+  "original_url": "http://raib.gov.uk/publications/bulletins/bulletins_2013/bulletin_02_2013.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "130530_B022013_Elephant_&_Castle.pdf", 
+      "assetid": 0, 
+      "original_url": "http://raib.gov.uk/cms_resources/130530_B022013_Elephant_&_Castle.pdf", 
+      "filename": "downloads/f79df7d25876756f660b96d5463880a88839bcbc/130530_B022013_Elephant_&_Castle.pdf", 
+      "original_filename": "130530_B022013_Elephant_&_Castle.pdf"
+    }
+  ], 
+  "title": "Near miss at Southwark Bridge junction near Elephant and Castle station, 21 January 2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bulletin_02/2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">21 January 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Heavy Rail</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><p>RAIB bulletin published regarding a near miss at Southwark Bridge junction near Elephant &amp; Castle station, London 21 January 2013</p></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://raib.gov.uk/cms_resources/130530_B022013_Elephant_&amp;_Castle.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/130530_B022013_Elephant_&amp;_Castle.pdf');\">130530_B022013_Elephant_&amp;_Castle.pdf</a>\r\n (1,067.86 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "railway_type": [
+    "heavy-rail"
+  ], 
+  "report_type": "bulletin", 
+  "body": "  \n\n\nRAIB bulletin published regarding a near miss at Southwark Bridge junction near Elephant & Castle station, London 21 January 2013\n\n  \n[ASSET_TAG](#ASSET0) (1,067.86 kb) \n"
+}

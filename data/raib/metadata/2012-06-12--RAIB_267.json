@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "120816_B032012_Margam_Yard.pdf\r\n (402.48 kb)", 
+    "Category:": "Heavy Rail", 
+    "Incident date:": "12 June 2012", 
+    "Report name:": "Bulletin 03/2012", 
+    "Summary:": "RAIB\u00a0bulletin published regarding an accident at Margam Yard, near Port Talbot."
+  }, 
+  "date_of_occurrence": "2012-06-12", 
+  "original_url": "http://raib.gov.uk/publications/bulletins/bulletins_2012/bulletin_03_2012.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "120816_B032012_Margam_Yard.pdf", 
+      "assetid": 0, 
+      "original_url": "http://raib.gov.uk/cms_resources/120816_B032012_Margam_Yard.pdf", 
+      "filename": "downloads/781b2455d94e285e8b5d590b66931d720f1fb529/120816_B032012_Margam_Yard.pdf", 
+      "original_filename": "120816_B032012_Margam_Yard.pdf"
+    }
+  ], 
+  "title": "Accident at Margam Yard, near Port Talbot, 12 June 2012", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 385px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bulletin 03/2012</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">12 June 2012</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Heavy Rail</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><p>RAIB&#160;bulletin published regarding an accident at Margam Yard, near Port Talbot.</p></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://raib.gov.uk/cms_resources/120816_B032012_Margam_Yard.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/120816_B032012_Margam_Yard.pdf');\">120816_B032012_Margam_Yard.pdf</a>\r\n (402.48 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"TextContainer\">We recommend that you upgrade to the latest version of Adobe PDF Reader - download the latest software free from the <a href=\"http://get.adobe.com/uk/reader/\">Adobe Reader website</a>.\r\r\n<p> </p></div>\r\n</div>", 
+  "summary": "", 
+  "railway_type": [
+    "heavy-rail"
+  ], 
+  "report_type": "bulletin", 
+  "body": "  \n\n\nRAIB\u00a0bulletin published regarding an accident at Margam Yard, near Port Talbot.\n\n  \n[ASSET_TAG](#ASSET0) (402.48 kb) \n"
+}

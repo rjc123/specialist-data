@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "141016_B012014_Kitchen_Hill.pdf\r\n (786.75 kb)", 
+    "Category:": "Heavy Rail", 
+    "Incident date:": "12 January 2014", 
+    "Report name:": "Bulletin 01/2014", 
+    "Summary:": "RAIB bulletin published regarding an engineering train collision at Kitchen Hill, near Penrith.\r\r\nRAIB has identified two learning points."
+  }, 
+  "date_of_occurrence": "2014-01-12", 
+  "original_url": "http://raib.gov.uk/publications/bulletins/bulletins_2014/bulletin012014.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "141016_B012014_Kitchen_Hill.pdf", 
+      "assetid": 0, 
+      "original_url": "http://raib.gov.uk/cms_resources/141016_B012014_Kitchen_Hill.pdf", 
+      "filename": "downloads/476f65fe423f247edcfcc1c0e930b2b834eb4f5d/141016_B012014_Kitchen_Hill.pdf", 
+      "original_filename": "141016_B012014_Kitchen_Hill.pdf"
+    }
+  ], 
+  "title": "Engineering train collision at Kitchen Hill, near Penrith, 12 January 2014", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bulletin 01/2014</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">12 January 2014</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Heavy Rail</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><p>RAIB bulletin published regarding an engineering train collision at Kitchen Hill, near Penrith.</p>\r\r\n<p>RAIB has identified two learning points.</p></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://raib.gov.uk/cms_resources/141016_B012014_Kitchen_Hill.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/141016_B012014_Kitchen_Hill.pdf');\">141016_B012014_Kitchen_Hill.pdf</a>\r\n (786.75 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "railway_type": [
+    "heavy-rail"
+  ], 
+  "report_type": "bulletin", 
+  "body": "  \n\n\nRAIB bulletin published regarding an engineering train collision at Kitchen Hill, near Penrith.\n\nRAIB has identified two learning points.\n\n  \n[ASSET_TAG](#ASSET0) (786.75 kb) \n"
+}

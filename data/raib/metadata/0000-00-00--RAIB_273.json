@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "Download report:": "090320_B052009_Maidenhead.pdf\r\n (277.24 kb)", 
+    "Category:": "Heavy Rail", 
+    "Summary:": "RAIB bulletin published regarding a collision between a passenger train and the\r\r\ndoor of an open wagon", 
+    "Report name:": "Bulletin 05/2009"
+  }, 
+  "date_of_occurrence": "2014-11-19T16:56:38.623378", 
+  "original_url": "http://raib.gov.uk/publications/bulletins/bulletins_2009/bulletin_05_2009.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "090320_B052009_Maidenhead.pdf", 
+      "assetid": 0, 
+      "original_url": "http://raib.gov.uk/cms_resources/090320_B052009_Maidenhead.pdf", 
+      "filename": "downloads/61dcfec22b7136e9cc0b3bbb73da2a3987fa3371/090320_B052009_Maidenhead.pdf", 
+      "original_filename": "090320_B052009_Maidenhead.pdf"
+    }
+  ], 
+  "title": "Collision between a passenger train and the door of an open wagon", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 385px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bulletin 05/2009</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Heavy Rail</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">RAIB bulletin published regarding a collision between a passenger train and the\r\r\ndoor of an open wagon</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://raib.gov.uk/cms_resources/090320_B052009_Maidenhead.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/090320_B052009_Maidenhead.pdf');\">090320_B052009_Maidenhead.pdf</a>\r\n (277.24 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"TextContainer\"><p>Download Adobe PDF reader software free from the <a href=\"http://get.adobe.com/uk/reader/\">Adobe Reader website</a>.</p>\r\r\n<p>Note: Users of Adobe PDF Reader version 5 (and below) may experience problems opening these PDF reports. We recommend that you upgrade to the latest version of Adobe PDF Reader by following the link above.</p></div>\r\n</div>", 
+  "summary": "", 
+  "railway_type": [
+    "heavy-rail"
+  ], 
+  "report_type": "bulletin", 
+  "body": "  \nRAIB bulletin published regarding a collision between a passenger train and the door of an open wagon\n\n  \n[ASSET_TAG](#ASSET0) (277.24 kb) \n"
+}

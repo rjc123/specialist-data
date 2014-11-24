@@ -1,0 +1,45 @@
+{
+  "meta": {
+    "Download report:": "061220_R272006_Urchfont.pdf\r\n (756.56 kb)", 
+    "Category:": "Heavy Rail", 
+    "Incident date:": "05 January 2006", 
+    "Report name:": "061220_R272006_Urchfont", 
+    "Summary:": "On Thursday 5 January 2006 a freight train left Meldon Quarry in Devon, bound for Hinksey yard near Oxford. Track circuit failures occurred separately at Urchfont and Kennington, in each case shortly after the freight train passed by. An examination of the line revealed one broken rail at Urchfont and two at Kennington. One of the freight wagons was subsequently found to have severe wheel flats.\r\r\nThe immediate cause of the broken rails was mechanical overload resulting from the impact of the damaged wheel on the rails. There were three causal factors. The underlying cause of the incident was a lack of information sharing between different parties involved, leading to no collective assessment of the risk from the flats and no mitigation.\r\r\nThe RAIB has made six recommendations as a result of its investigation, designed to reduce the risk of wheel flats occurring on the line and to improve detection of these faults."
+  }, 
+  "date_of_occurrence": "2006-01-05", 
+  "original_url": "http://raib.gov.uk/publications/investigation_reports/reports_2006/report272006.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "061220_R272006_Urchfont.pdf", 
+      "assetid": 0, 
+      "original_url": "http://raib.gov.uk/cms_resources/061220_R272006_Urchfont.pdf", 
+      "filename": "downloads/a0f528b8d62993516cddadcfaf34f33fe1706e7d/061220_R272006_Urchfont.pdf", 
+      "original_filename": "061220_R272006_Urchfont.pdf"
+    }, 
+    {
+      "content_type": "application/pdf", 
+      "title": "RAIB Recommendation response for Urchfont & Kennington", 
+      "assetid": 1, 
+      "original_url": "http://raib.gov.uk/cms_resources/27%2D2006%2DUrchfont%2Dand%2DKennington%2Epdf", 
+      "filename": "downloads/6320e35b611579d253196669814d2ea378fbf792/27-2006-Urchfont-and-Kennington.pdf", 
+      "original_filename": "27-2006-Urchfont-and-Kennington.pdf"
+    }
+  ], 
+  "title": "Broken rails at Urchfont and Kennington following the passage of a freight train", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">061220_R272006_Urchfont</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">05 January 2006</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Heavy Rail</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><p>On Thursday 5 January 2006 a freight train left Meldon Quarry in Devon, bound for Hinksey yard near Oxford. Track circuit failures occurred separately at Urchfont and Kennington, in each case shortly after the freight train passed by. An examination of the line revealed one broken rail at Urchfont and two at Kennington. One of the freight wagons was subsequently found to have severe wheel flats.</p>\r\r\n<p>The immediate cause of the broken rails was mechanical overload resulting from the impact of the damaged wheel on the rails. There were three causal factors. The underlying cause of the incident was a lack of information sharing between different parties involved, leading to no collective assessment of the risk from the flats and no mitigation.</p>\r\r\n<p>The RAIB has made six recommendations as a result of its investigation, designed to reduce the risk of wheel flats occurring on the line and to improve detection of these faults.</p>\r\r\n<p>&#160;</p></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://raib.gov.uk/cms_resources/061220_R272006_Urchfont.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/061220_R272006_Urchfont.pdf');\">061220_R272006_Urchfont.pdf</a>\r\n (756.56 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"documentLinkContainer\">\r\n<p></p><p><span>Response to recommendations:</span></p>\r\r\n<ul>\r\r\n<li>The RAIB will periodically update, generally on a six monthly basis, the status of recommendations as reported to us by the Office of Rail Regulation(ORR)/Channel Tunnel Safety Authority (CTSA)/Department for Regional Development (NI)/Public Body(name).</li>\r\r\n<li>The RAIB may comment, particularly if we have concerns regarding these responses. We have previously done this in our Annual Report.</li>\r\r\n</ul>\r\n<p>\r\n\r\n<a onclick=\"javascript: pageTracker._trackPageview('/cms_resources/27-2006-Urchfont-and-Kennington.pdf');\" href=\"http://raib.gov.uk/cms_resources/27%2D2006%2DUrchfont%2Dand%2DKennington%2Epdf\" class=\"siteDocumentLink\" target=\"_blank\">RAIB Recommendation response for Urchfont &amp; Kennington</a>\r\n (53.97 kb)</p>\r\n</div>\r\n<div id=\"TextContainer\">We recommend that you upgrade to the latest version of Adobe PDF Reader - download the latest software free from the <a href=\"http://get.adobe.com/uk/reader/\">Adobe Reader website</a>.\r\r\n<p> </p></div>\r\n</div>", 
+  "summary": "", 
+  "railway_type": [
+    "heavy-rail"
+  ], 
+  "report_type": "investigation-report", 
+  "event_type": [
+    "Infrastructure", 
+    "Rolling Stock"
+  ], 
+  "report_number": "27/2006", 
+  "publication_date": [
+    "2006-12-20"
+  ], 
+  "body": "  \n\n\nOn Thursday 5 January 2006 a freight train left Meldon Quarry in Devon, bound for Hinksey yard near Oxford. Track circuit failures occurred separately at Urchfont and Kennington, in each case shortly after the freight train passed by. An examination of the line revealed one broken rail at Urchfont and two at Kennington. One of the freight wagons was subsequently found to have severe wheel flats.\n\nThe immediate cause of the broken rails was mechanical overload resulting from the impact of the damaged wheel on the rails. There were three causal factors. The underlying cause of the incident was a lack of information sharing between different parties involved, leading to no collective assessment of the risk from the flats and no mitigation.\n\nThe RAIB has made six recommendations as a result of its investigation, designed to reduce the risk of wheel flats occurring on the line and to improve detection of these faults.\n\n\u00a0\n\n  \n[ASSET_TAG](#ASSET0) (756.56 kb) \n\nResponse to recommendations:\n\n  * The RAIB will periodically update, generally on a six monthly basis, the status of recommendations as reported to us by the Office of Rail Regulation(ORR)/Channel Tunnel Safety Authority (CTSA)/Department for Regional Development (NI)/Public Body(name).\n  * The RAIB may comment, particularly if we have concerns regarding these responses. We have previously done this in our Annual Report.\n\n[ASSET_TAG](#ASSET1) (53.97 kb)\n"
+}

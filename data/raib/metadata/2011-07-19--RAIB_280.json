@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "111020_B062011_North_Wembley.pdf\r\n (246.78 kb)", 
+    "Category:": "Heavy Rail", 
+    "Incident date:": "19 July 2011", 
+    "Report name:": "Bulletin 06/2011", 
+    "Summary:": "RAIB bulletin published regarding a train door incident on the West Coast Main Line."
+  }, 
+  "date_of_occurrence": "2011-07-19", 
+  "original_url": "http://raib.gov.uk/publications/bulletins/bulletins_2011/bulletin_06_2011.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "111020_B062011_North_Wembley.pdf", 
+      "assetid": 0, 
+      "original_url": "http://raib.gov.uk/cms_resources/111020_B062011_North_Wembley.pdf", 
+      "filename": "downloads/5624f46f2856576226d87c237c1dbe7c6d8747df/111020_B062011_North_Wembley.pdf", 
+      "original_filename": "111020_B062011_North_Wembley.pdf"
+    }
+  ], 
+  "title": "Train door incident on the West Coast Main Line, 19 July 2011", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 385px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bulletin 06/2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">19 July 2011</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Heavy Rail</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">RAIB bulletin published regarding a train door incident on the West Coast Main Line.</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://raib.gov.uk/cms_resources/111020_B062011_North_Wembley.pdf\">111020_B062011_North_Wembley.pdf</a>\r\n (246.78 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"TextContainer\">We recommend that you upgrade to the latest version of Adobe PDF Reader &#8211; download the latest software free from the <a href=\"http://raib.gov.uk/publications/bulletins/bulletins_2011/%E2%80%9Dhttp://get.adobe.com/uk/reader/%E2%80%9D\">Adobe Reader website</a>.\r\r\n<p> </p></div>\r\n</div>", 
+  "summary": "", 
+  "railway_type": [
+    "heavy-rail"
+  ], 
+  "report_type": "bulletin", 
+  "body": "  \nRAIB bulletin published regarding a train door incident on the West Coast Main Line.\n\n  \n[ASSET_TAG](#ASSET0) (246.78 kb) \n"
+}

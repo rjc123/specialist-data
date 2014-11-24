@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "Download report:": "090826_B082009_Blackpool_Starr_Gate.pdf\r\n (265.82 kb)", 
+    "Category:": "Light Rail", 
+    "Summary:": "RAIB bulletin published regarding a collision between a moving tram and stationary tram in June 2009.", 
+    "Report name:": "Bulletin 08/2009"
+  }, 
+  "date_of_occurrence": "2014-11-19T16:56:39.186920", 
+  "original_url": "http://raib.gov.uk/publications/bulletins/bulletins_2009/bulletin_08_2009.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "090826_B082009_Blackpool_Starr_Gate.pdf", 
+      "assetid": 0, 
+      "original_url": "http://raib.gov.uk/cms_resources/090826_B082009_Blackpool_Starr_Gate.pdf", 
+      "filename": "downloads/c2d32f5a5d810ca9e948990b7f19ab12c0789cd8/090826_B082009_Blackpool_Starr_Gate.pdf", 
+      "original_filename": "090826_B082009_Blackpool_Starr_Gate.pdf"
+    }
+  ], 
+  "title": "Collision between a moving tram and a stationary tram", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 385px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bulletin 08/2009</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Light Rail</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">RAIB bulletin published regarding a collision between a moving tram and stationary tram in June 2009.\r\r\n</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://raib.gov.uk/cms_resources/090826_B082009_Blackpool_Starr_Gate.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/090826_B082009_Blackpool_Starr_Gate.pdf');\">090826_B082009_Blackpool_Starr_Gate.pdf</a>\r\n (265.82 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n<div id=\"TextContainer\"><p> </p>\r\r\n<p>Download Adobe PDF reader software free from the <a href=\"http://get.adobe.com/uk/reader/\">Adobe Reader website</a>.</p>\r\r\n<p>Note: Users of Adobe PDF Reader version 5 (and below) may experience problems opening these PDF reports. We recommend that you upgrade to the latest version of Adobe PDF Reader by following the link above.</p></div>\r\n</div>", 
+  "summary": "", 
+  "railway_type": [
+    "light-rail"
+  ], 
+  "report_type": "bulletin", 
+  "body": "  \nRAIB bulletin published regarding a collision between a moving tram and stationary tram in June 2009. \n\n  \n[ASSET_TAG](#ASSET0) (265.82 kb) \n"
+}

@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "130530_B032013_Norton_on_Tees.pdf\r\n (294.65 kb)", 
+    "Category:": "Heavy Rail", 
+    "Incident date:": "16 January 2013", 
+    "Report name:": "Bulletin_03/2013", 
+    "Summary:": "RAIB bulletin published regarding a signal passed at danger at Norton-on-Tees West, 16 January 2013."
+  }, 
+  "date_of_occurrence": "2013-01-16", 
+  "original_url": "http://raib.gov.uk/publications/bulletins/bulletins_2013/bulletin_03_2013.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "130530_B032013_Norton_on_Tees.pdf", 
+      "assetid": 0, 
+      "original_url": "http://raib.gov.uk/cms_resources/130530_B032013_Norton_on_Tees.pdf", 
+      "filename": "downloads/da472809462822d0f55a0f7c38222686ce51b2a1/130530_B032013_Norton_on_Tees.pdf", 
+      "original_filename": "130530_B032013_Norton_on_Tees.pdf"
+    }
+  ], 
+  "title": "report-without-title", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n<span class=\"sitePageTitle\"></span>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bulletin_03/2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">16 January 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Heavy Rail</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><p>RAIB bulletin published regarding a signal passed at danger at Norton-on-Tees West, 16 January 2013.</p></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://raib.gov.uk/cms_resources/130530_B032013_Norton_on_Tees.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/130530_B032013_Norton_on_Tees.pdf');\">130530_B032013_Norton_on_Tees.pdf</a>\r\n (294.65 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "railway_type": [
+    "heavy-rail"
+  ], 
+  "report_type": "bulletin", 
+  "body": "  \n\n\nRAIB bulletin published regarding a signal passed at danger at Norton-on-Tees West, 16 January 2013.\n\n  \n[ASSET_TAG](#ASSET0) (294.65 kb) \n"
+}

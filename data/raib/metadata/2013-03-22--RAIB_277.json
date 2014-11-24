@@ -1,0 +1,29 @@
+{
+  "meta": {
+    "Download report:": "131121_B052013_West_Drayton.pdf\r\n (291.50 kb)", 
+    "Category:": "Heavy Rail", 
+    "Incident date:": "22 March 2013", 
+    "Report name:": "Bulletin 05/2013", 
+    "Summary:": "RAIB bulletin published regarding a track worker struck and seriously injured at West Drayton, 22 March 2013."
+  }, 
+  "date_of_occurrence": "2013-03-22", 
+  "original_url": "http://raib.gov.uk/publications/bulletins/bulletins_2013/bulletin_05_2013.cfm", 
+  "_assets": [
+    {
+      "content_type": "application/pdf", 
+      "title": "131121_B052013_West_Drayton.pdf", 
+      "assetid": 0, 
+      "original_url": "http://raib.gov.uk/cms_resources/131121_B052013_West_Drayton.pdf", 
+      "filename": "downloads/4b4b9e60a4430cc26f912a6ac02080bfe5be0c29/131121_B052013_West_Drayton.pdf", 
+      "original_filename": "131121_B052013_West_Drayton.pdf"
+    }
+  ], 
+  "title": "Track worker struck and seriously injured at West Drayton, 22 March 2013", 
+  "raw_html": "<div id=\"mainContentArea\" style=\"width: 545px;\"><div id=\"pageTitleContainer\">\r\n<p>\r\n</p>\r\n</div>\r\n<div id=\"aibContainer\">\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Report name: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Bulletin 05/2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Incident date:</span>\r\n<br>\r\n<span class=\"siteAibReportText\">22 March 2013</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Category: </span>\r\n<br>\r\n<span class=\"siteAibReportText\">Heavy Rail</span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Summary: </span>\r\n<br>\r\n<span class=\"siteAibReportText\"><p>RAIB bulletin published regarding a track worker struck and seriously injured at West Drayton, 22 March 2013.</p></span>\r\n</div>\r\n<div id=\"aibRows\">\r\n<span class=\"siteAibReportTextBold\">Download report: </span>\r\n<br>\r\n\r\n<a target=\"_blank\" class=\"siteAibReportLink\" href=\"http://raib.gov.uk/cms_resources/131121_B052013_West_Drayton.pdf\" onclick=\"javascript: pageTracker._trackPageview('/cms_resources/131121_B052013_West_Drayton.pdf');\">131121_B052013_West_Drayton.pdf</a>\r\n (291.50 kb)\r\n\t\t\t\t</div>\r\n</div>\r\n</div>", 
+  "summary": "", 
+  "railway_type": [
+    "heavy-rail"
+  ], 
+  "report_type": "bulletin", 
+  "body": "  \n\n\nRAIB bulletin published regarding a track worker struck and seriously injured at West Drayton, 22 March 2013.\n\n  \n[ASSET_TAG](#ASSET0) (291.50 kb) \n"
+}
