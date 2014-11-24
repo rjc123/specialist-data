@@ -1,5 +1,5 @@
-data/aaib/downloads
-data/maib/downloads
-data/raib/downloads
-data/mhra/dsu/downloads
-data/mhra/dnd/downloads
+data/aaib/downloads/*
+data/maib/downloads/*
+data/raib/downloads/*
+data/mhra/dsu/downloads/*
+data/mhra/dnd/downloads/*
